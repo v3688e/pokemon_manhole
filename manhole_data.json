@@ -333,7 +333,8 @@
     "latitude": 34.125275,
     "longitude": 133.655211,
     "address": "観音寺市観音寺町甲1234-4",
-    "link": "https://local.pokemon.jp/manhole/desc/32/"
+    "link": "https://local.pokemon.jp/manhole/desc/32/",
+    "image": "https://local.pokemon.jp/img/p/manhole/30dbde7fe8d7f8d0cae358eecebfe44b_m.png"
   },
   {
     "id": 33,
@@ -1089,7 +1090,8 @@
     "latitude": 37.344423,
     "longitude": 140.674289,
     "address": "田村市滝根町菅谷字東釜山１",
-    "link": "https://local.pokemon.jp/manhole/desc/95/"
+    "link": "https://local.pokemon.jp/manhole/desc/95/",
+    "image": "https://local.pokemon.jp/img/p/manhole/482de2cc901ee6970a9196ef63fcc05b_m.png"
   },
   {
     "id": 96,
@@ -1473,7 +1475,8 @@
     "latitude": 37.982523,
     "longitude": 140.46662,
     "address": "七ヶ宿町字上野8-1",
-    "link": "https://local.pokemon.jp/manhole/desc/127/"
+    "link": "https://local.pokemon.jp/manhole/desc/127/",
+    "image": "https://local.pokemon.jp/img/p/manhole/71836918b6a718ac1241f1e1cdd1ef85_m.png"
   },
   {
     "id": 128,
@@ -1605,7 +1608,8 @@
     "latitude": 38.5392702,
     "longitude": 141.1267433,
     "address": "涌谷町字新町裏110",
-    "link": "https://local.pokemon.jp/manhole/desc/138/"
+    "link": "https://local.pokemon.jp/manhole/desc/138/",
+    "image": "https://local.pokemon.jp/img/p/manhole/f1eb53fbcfe726de54e319a9741feed6_m.png"
   },
   {
     "id": 139,
@@ -1809,7 +1813,8 @@
     "latitude": 27.094596,
     "longitude": 142.192781,
     "address": "小笠原村父島字東町",
-    "link": "https://local.pokemon.jp/manhole/desc/155/"
+    "link": "https://local.pokemon.jp/manhole/desc/155/",
+    "image": "https://local.pokemon.jp/img/p/manhole/a0a9f2d7186f56fedadabc010c395e83_m.png"
   },
   {
     "id": 156,
@@ -2601,7 +2606,8 @@
     "latitude": 42.01782,
     "longitude": 143.14619,
     "address": "えりも町字本町53-1",
-    "link": "https://local.pokemon.jp/manhole/desc/221/"
+    "link": "https://local.pokemon.jp/manhole/desc/221/",
+    "image": "https://local.pokemon.jp/img/p/manhole/d6112e741a398a77436b6a4eca00b2cf_m.png"
   },
   {
     "id": 222,
@@ -2733,7 +2739,8 @@
     "latitude": 26.691694,
     "longitude": 127.877972,
     "address": "字石川　海洋博公園地内",
-    "link": "https://local.pokemon.jp/manhole/desc/232/"
+    "link": "https://local.pokemon.jp/manhole/desc/232/",
+    "image": "https://local.pokemon.jp/img/p/manhole/ace6dd945ee55438d6cc274d7d64dce2_m.png"
   },
   {
     "id": 233,
@@ -2949,7 +2956,8 @@
     "latitude": 37.2057204,
     "longitude": 139.7778739,
     "address": "南会津町田島字宮本東33番地１",
-    "link": "https://local.pokemon.jp/manhole/desc/250/"
+    "link": "https://local.pokemon.jp/manhole/desc/250/",
+    "image": "https://local.pokemon.jp/img/p/manhole/50c29ca481ea4d2f804361c903447b30_m.png"
   },
   {
     "id": 251,
@@ -3165,7 +3173,8 @@
     "latitude": 40.322649,
     "longitude": 141.381779,
     "address": "軽米町晴山第22地割38",
-    "link": "https://local.pokemon.jp/manhole/desc/268/"
+    "link": "https://local.pokemon.jp/manhole/desc/268/",
+    "image": "https://local.pokemon.jp/img/p/manhole/c1d89eb9977a98ddc9928fcc01679954_m.png"
   },
   {
     "id": 269,
@@ -3333,7 +3342,8 @@
     "latitude": 37.53809,
     "longitude": 140.107546,
     "address": "猪苗代町大字堅田字五百苅1番地",
-    "link": "https://local.pokemon.jp/manhole/desc/282/"
+    "link": "https://local.pokemon.jp/manhole/desc/282/",
+    "image": "https://local.pokemon.jp/img/p/manhole/2472c4c2415ec4c71ca043ba35fbbd1b_m.png"
   },
   {
     "id": 283,
@@ -3609,7 +3619,8 @@
     "latitude": 41.678024,
     "longitude": 140.43558,
     "address": "木古内町字本町338-14",
-    "link": "https://local.pokemon.jp/manhole/desc/305/"
+    "link": "https://local.pokemon.jp/manhole/desc/305/",
+    "image": "https://local.pokemon.jp/img/p/manhole/9c50492829220e1aa07a60b268ddfa1e_m.png"
   },
   {
     "id": 306,
@@ -4221,7 +4232,8 @@
     "latitude": 32.933111,
     "longitude": 129.958278,
     "address": "大村市植松3丁目135-5",
-    "link": "https://local.pokemon.jp/manhole/desc/356/"
+    "link": "https://local.pokemon.jp/manhole/desc/356/",
+    "image": "https://local.pokemon.jp/img/p/manhole/fd830fce9e6898daa219f632addce1a8_m.png"
   },
   {
     "id": 357,

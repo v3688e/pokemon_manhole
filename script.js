@@ -6,8 +6,8 @@ let currentLang = 'ja';
 
 const translations = {
     ja: {
-        title: "Pokéfuta Explorer",
-        subtitle: "Discover Pokémon-themed manhole covers across Japan",
+        title: "ポケふた エクスプローラ",
+        subtitle: "日本全国でポケモン柄のユーティリティホールカバーを見つけよう",
         searchPlaceholder: "名前、地域、住所で検索...",
         stats: "全 {total} 件中 {count} 件を表示",
         hIndex: "インデックス",
@@ -21,8 +21,8 @@ const translations = {
         copied: "コピーしました！"
     },
     en: {
-        title: "Pokéfuta Explorer",
-        subtitle: "Discover Pokémon-themed manhole covers across Japan",
+        title: "Poké Lids Explorer",
+        subtitle: "Discover Pokémon Utility Hole Covers across Japan",
         searchPlaceholder: "Search by name, zone, or address...",
         stats: "Showing {count} of {total} manholes",
         hIndex: "Index",
@@ -123,10 +123,19 @@ function renderTable() {
         const zoneDisplay = getZoneDisplay(item.zone);
         const linkText = translations[currentLang].officialPage;
         
+        const imgHtml = item.image 
+            ? `<img src="${item.image}" style="width: 40px; height: 40px; object-fit: contain; border-radius: 50%; border: 1px solid #ddd; background: white;">`
+            : `<div style="width: 40px; height: 40px; background: #eee; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 14px; color: #999;">Poké</div>`;
+
         tr.innerHTML = `
             <td>${item.index}</td>
             <td>${item.id}</td>
-            <td><span class="zone-badge" style="background-color: ${color}">${zoneDisplay}</span></td>
+            <td>
+                <div style="display: flex; align-items: center; gap: 10px;">
+                    ${imgHtml}
+                    <span class="zone-badge" style="background-color: ${color}">${zoneDisplay}</span>
+                </div>
+            </td>
             <td>${item.location}</td>
             <td class="coord-cell" onclick="copyCoords(event, '${item.coordinates}')">${item.coordinates}</td>
             <td>${item.address}</td>
