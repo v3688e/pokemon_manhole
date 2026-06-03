@@ -9,11 +9,15 @@
 <body>
     <div class="container">
         <header>
-            <h1>Pokéfuta Explorer</h1>
-            <p style="text-align: center; color: #666; margin-top: -20px;">Discover Pokémon-themed manhole covers across Japan</p>
+            <h1 id="title">Pokéfuta Explorer</h1>
+            <p id="subtitle" style="text-align: center; color: #666; margin-top: -20px;">Discover Pokémon-themed manhole covers across Japan</p>
         </header>
 
         <div class="controls">
+            <div class="lang-switch">
+                <button class="lang-btn active" onclick="setLanguage('ja')">JP</button>
+                <button class="lang-btn" onclick="setLanguage('en')">EN</button>
+            </div>
             <div class="search-container">
                 <input type="text" id="search" placeholder="Search by name, zone, or address...">
             </div>
@@ -24,13 +28,13 @@
             <table>
                 <thead>
                     <tr>
-                        <th data-sort="index">Index</th>
-                        <th data-sort="id">No</th>
-                        <th data-sort="zone">Zone</th>
-                        <th data-sort="location">Location</th>
-                        <th>Coordinates</th>
-                        <th data-sort="address">Address</th>
-                        <th>Link</th>
+                        <th data-sort="index" id="h-index">Index</th>
+                        <th data-sort="id" id="h-no">No</th>
+                        <th data-sort="zone" id="h-zone">Zone</th>
+                        <th data-sort="location" id="h-location">Location</th>
+                        <th id="h-coords">Coordinates</th>
+                        <th data-sort="address" id="h-address">Address</th>
+                        <th id="h-link">Link</th>
                     </tr>
                 </thead>
                 <tbody id="table-body">

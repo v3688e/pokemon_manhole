@@ -34,6 +34,27 @@ h1 {
     flex-wrap: wrap;
 }
 
+.lang-switch {
+    display: flex;
+    gap: 10px;
+}
+
+.lang-btn {
+    padding: 8px 15px;
+    border: 1px solid var(--secondary-color);
+    background: white;
+    color: var(--secondary-color);
+    border-radius: 20px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: all 0.3s;
+}
+
+.lang-btn.active {
+    background: var(--secondary-color);
+    color: white;
+}
+
 .search-container {
     flex-grow: 1;
 }
