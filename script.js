@@ -111,6 +111,13 @@ function getZoneColor(zone) {
     return `hsl(${h}, 65%, 40%)`;
 }
 
+function getLanguageLink(link) {
+    if (currentLang === 'en') {
+        return link.replace('local.pokemon.jp/manhole/', 'local.pokemon.jp/en/manhole/');
+    }
+    return link;
+}
+
 function renderTable() {
     const tbody = document.getElementById('table-body');
     tbody.innerHTML = '';
@@ -122,6 +129,7 @@ function renderTable() {
         
         const zoneDisplay = getZoneDisplay(item.zone);
         const linkText = translations[currentLang].officialPage;
+        const langLink = getLanguageLink(item.link);
         
         const imgHtml = item.image 
             ? `<img src="${item.image}" style="width: 40px; height: 40px; object-fit: contain; border-radius: 50%; border: 1px solid #ddd; background: white;">`
@@ -139,7 +147,7 @@ function renderTable() {
             <td>${item.location}</td>
             <td class="coord-cell" onclick="copyCoords(event, '${item.coordinates}')">${item.coordinates}</td>
             <td>${item.address}</td>
-            <td><a href="${item.link}" target="_blank" class="link-btn">${linkText}</a></td>
+            <td><a href="${langLink}" target="_blank" class="link-btn">${linkText}</a></td>
         `;
         tbody.appendChild(tr);
     });
