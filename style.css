@@ -1,0 +1,154 @@
+:root {
+    --primary-color: #ffcc00; /* Pokemon Yellow */
+    --secondary-color: #3b4cca; /* Pokemon Blue */
+    --text-color: #333;
+    --bg-color: #f8f9fa;
+    --card-bg: #ffffff;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, 'Meiryo', 'MS PGothic';
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+    color: var(--secondary-color);
+    margin-bottom: 30px;
+}
+
+.controls {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+    gap: 15px;
+    flex-wrap: wrap;
+}
+
+.search-container {
+    flex-grow: 1;
+}
+
+input[type="text"] {
+    width: 100%;
+    padding: 12px 20px;
+    border: 2px solid #ddd;
+    border-radius: 25px;
+    font-size: 16px;
+    outline: none;
+    transition: border-color 0.3s;
+}
+
+input[type="text"]:focus {
+    border-color: var(--secondary-color);
+}
+
+.stats {
+    font-weight: bold;
+    color: #666;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: var(--card-bg);
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+th {
+    background-color: var(--secondary-color);
+    color: white;
+    padding: 15px;
+    text-align: left;
+    cursor: pointer;
+    user-select: none;
+    position: sticky;
+    top: 0;
+}
+
+th:hover {
+    background-color: #2a3a9a;
+}
+
+th::after {
+    content: ' ↕';
+    font-size: 0.8em;
+    opacity: 0.5;
+}
+
+td {
+    padding: 12px 15px;
+    border-bottom: 1px solid #eee;
+}
+
+tr:hover {
+    filter: brightness(0.95);
+}
+
+.coord-cell {
+    cursor: pointer;
+    color: var(--secondary-color);
+    text-decoration: underline;
+    font-family: monospace;
+}
+
+.coord-cell:hover {
+    color: #ff0000;
+}
+
+.link-btn {
+    display: inline-block;
+    padding: 5px 10px;
+    background-color: var(--primary-color);
+    color: #000;
+    text-decoration: none;
+    border-radius: 4px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.link-btn:hover {
+    background-color: #e6b800;
+}
+
+/* Zone colors based on dynamic classes */
+.zone-badge {
+    padding: 4px 8px;
+    border-radius: 12px;
+    font-size: 12px;
+    font-weight: bold;
+    color: #fff;
+    text-shadow: 0 1px 2px rgba(0,0,0,0.3);
+}
+
+/* Tooltip for copy */
+.tooltip {
+    position: fixed;
+    background: #333;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 4px;
+    font-size: 12px;
+    pointer-events: none;
+    z-index: 1000;
+    display: none;
+}
+
+@media (max-width: 768px) {
+    th:nth-child(1), td:nth-child(1),
+    th:nth-child(2), td:nth-child(2),
+    th:nth-child(6), td:nth-child(6) {
+        display: none;
+    }
+}
