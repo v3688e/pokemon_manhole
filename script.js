@@ -16,7 +16,7 @@ const translations = {
         hLocation: "場所",
         hCoords: "座標",
         hAddress: "住所",
-        hLink: "リンク",
+        hLink: "詳細",
         officialPage: "公式ページ",
         copied: "コピーしました！"
     },
