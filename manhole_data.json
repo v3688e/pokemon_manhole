@@ -10,10 +10,11 @@
     "longitude": 130.642861,
     "address": "指宿市湊1丁目1-1",
     "link": "https://local.pokemon.jp/manhole/desc/1/",
-    "image": "images/manhole/1.png",
-    "location_ja": "Ibusuki",
+    "image": "images/thumbs/1.png",
+    "location_ja": "指宿市",
     "zone_en": "Kagoshima",
-    "location_en": "Ibusuki"
+    "location_en": "Ibusuki",
+    "zone_ja": "鹿児島県"
   },
   {
     "id": 2,
@@ -26,10 +27,11 @@
     "longitude": 130.653028,
     "address": "指宿市湯の浜5丁目26-29",
     "link": "https://local.pokemon.jp/manhole/desc/2/",
-    "image": "images/manhole/2.png",
-    "location_ja": "Ibusuki",
+    "image": "images/thumbs/2.png",
+    "location_ja": "指宿市",
     "zone_en": "Kagoshima",
-    "location_en": "Ibusuki"
+    "location_en": "Ibusuki",
+    "zone_ja": "鹿児島県"
   },
   {
     "id": 3,
@@ -42,10 +44,11 @@
     "longitude": 130.647639,
     "address": "指宿市東方9300-1",
     "link": "https://local.pokemon.jp/manhole/desc/3/",
-    "image": "images/manhole/3.png",
-    "location_ja": "Ibusuki",
+    "image": "images/thumbs/3.png",
+    "location_ja": "指宿市",
     "zone_en": "Kagoshima",
-    "location_en": "Ibusuki"
+    "location_en": "Ibusuki",
+    "zone_ja": "鹿児島県"
   },
   {
     "id": 4,
@@ -58,10 +61,11 @@
     "longitude": 130.651972,
     "address": "指宿市湯の浜5丁目25-18",
     "link": "https://local.pokemon.jp/manhole/desc/4/",
-    "image": "images/manhole/4.png",
-    "location_ja": "Ibusuki",
+    "image": "images/thumbs/4.png",
+    "location_ja": "指宿市",
     "zone_en": "Kagoshima",
-    "location_en": "Ibusuki"
+    "location_en": "Ibusuki",
+    "zone_ja": "鹿児島県"
   },
   {
     "id": 5,
@@ -74,10 +78,11 @@
     "longitude": 130.645,
     "address": "指宿市湊2丁目5-33",
     "link": "https://local.pokemon.jp/manhole/desc/5/",
-    "image": "images/manhole/5.png",
-    "location_ja": "Ibusuki",
+    "image": "images/thumbs/5.png",
+    "location_ja": "指宿市",
     "zone_en": "Kagoshima",
-    "location_en": "Ibusuki"
+    "location_en": "Ibusuki",
+    "zone_ja": "鹿児島県"
   },
   {
     "id": 6,
@@ -90,10 +95,11 @@
     "longitude": 130.642194,
     "address": "指宿市湊1丁目1-1",
     "link": "https://local.pokemon.jp/manhole/desc/6/",
-    "image": "images/manhole/6.png",
-    "location_ja": "Ibusuki",
+    "image": "images/thumbs/6.png",
+    "location_ja": "指宿市",
     "zone_en": "Kagoshima",
-    "location_en": "Ibusuki"
+    "location_en": "Ibusuki",
+    "zone_ja": "鹿児島県"
   },
   {
     "id": 7,
@@ -106,10 +112,11 @@
     "longitude": 130.662917,
     "address": "指宿市東方11915-5",
     "link": "https://local.pokemon.jp/manhole/desc/7/",
-    "image": "images/manhole/7.png",
-    "location_ja": "Ibusuki",
+    "image": "images/thumbs/7.png",
+    "location_ja": "指宿市",
     "zone_en": "Kagoshima",
-    "location_en": "Ibusuki"
+    "location_en": "Ibusuki",
+    "zone_ja": "鹿児島県"
   },
   {
     "id": 8,
@@ -122,10 +129,11 @@
     "longitude": 130.644611,
     "address": "指宿市十二町2290",
     "link": "https://local.pokemon.jp/manhole/desc/8/",
-    "image": "images/manhole/8.png",
-    "location_ja": "Ibusuki",
+    "image": "images/thumbs/8.png",
+    "location_ja": "指宿市",
     "zone_en": "Kagoshima",
-    "location_en": "Ibusuki"
+    "location_en": "Ibusuki",
+    "zone_ja": "鹿児島県"
   },
   {
     "id": 9,
@@ -138,10 +146,11 @@
     "longitude": 130.641389,
     "address": "指宿市十二町2190",
     "link": "https://local.pokemon.jp/manhole/desc/9/",
-    "image": "images/manhole/9.png",
-    "location_ja": "Ibusuki",
+    "image": "images/thumbs/9.png",
+    "location_ja": "指宿市",
     "zone_en": "Kagoshima",
-    "location_en": "Ibusuki"
+    "location_en": "Ibusuki",
+    "zone_ja": "鹿児島県"
   },
   {
     "id": 10,
@@ -154,10 +163,11 @@
     "longitude": 141.719531,
     "address": "洋野町種市22-133-11",
     "link": "https://local.pokemon.jp/manhole/desc/10/",
-    "image": "images/manhole/10.png",
-    "location_ja": "Hirono",
+    "image": "images/thumbs/10.png",
+    "location_ja": "洋野町",
     "zone_en": "Iwate",
-    "location_en": "Hirono"
+    "location_en": "Hirono",
+    "zone_ja": "岩手県"
   },
   {
     "id": 11,
@@ -170,10 +180,11 @@
     "longitude": 141.765832,
     "address": "久慈市中町2-5-6",
     "link": "https://local.pokemon.jp/manhole/desc/11/",
-    "image": "images/manhole/11.png",
-    "location_ja": "Kuji",
+    "image": "images/thumbs/11.png",
+    "location_ja": "久慈市",
     "zone_en": "Iwate",
-    "location_en": "Kuji"
+    "location_en": "Kuji",
+    "zone_ja": "岩手県"
   },
   {
     "id": 12,
@@ -186,10 +197,11 @@
     "longitude": 141.828678,
     "address": "野田村大字野田第5地割45-20",
     "link": "https://local.pokemon.jp/manhole/desc/12/",
-    "image": "images/manhole/12.png",
-    "location_ja": "Noda",
+    "image": "images/thumbs/12.png",
+    "location_ja": "野田村",
     "zone_en": "Iwate",
-    "location_en": "Noda"
+    "location_en": "Noda",
+    "zone_ja": "岩手県"
   },
   {
     "id": 13,
@@ -202,10 +214,11 @@
     "longitude": 141.885736,
     "address": "普代村9-5-3",
     "link": "https://local.pokemon.jp/manhole/desc/13/",
-    "image": "images/manhole/13.png",
-    "location_ja": "Fudai",
+    "image": "images/thumbs/13.png",
+    "location_ja": "普代村",
     "zone_en": "Iwate",
-    "location_en": "Fudai"
+    "location_en": "Fudai",
+    "zone_ja": "岩手県"
   },
   {
     "id": 14,
@@ -218,10 +231,11 @@
     "longitude": 141.796532,
     "address": "岩泉町岩泉字神成1‐1",
     "link": "https://local.pokemon.jp/manhole/desc/14/",
-    "image": "images/manhole/14.png",
-    "location_ja": "Iwaizumi",
+    "image": "images/thumbs/14.png",
+    "location_ja": "岩泉町",
     "zone_en": "Iwate",
-    "location_en": "Iwaizumi"
+    "location_en": "Iwaizumi",
+    "zone_ja": "岩手県"
   },
   {
     "id": 15,
@@ -234,10 +248,11 @@
     "longitude": 141.938688,
     "address": "田野畑村松前沢1-38",
     "link": "https://local.pokemon.jp/manhole/desc/15/",
-    "image": "images/manhole/15.png",
-    "location_ja": "Tanohata",
+    "image": "images/thumbs/15.png",
+    "location_ja": "田野畑村",
     "zone_en": "Iwate",
-    "location_en": "Tanohata"
+    "location_en": "Tanohata",
+    "zone_ja": "岩手県"
   },
   {
     "id": 16,
@@ -250,10 +265,11 @@
     "longitude": 141.969701,
     "address": "宮古市臨港通1-20",
     "link": "https://local.pokemon.jp/manhole/desc/16/",
-    "image": "images/manhole/16.png",
-    "location_ja": "Miyako",
+    "image": "images/thumbs/16.png",
+    "location_ja": "宮古市",
     "zone_en": "Iwate",
-    "location_en": "Miyako"
+    "location_en": "Miyako",
+    "zone_ja": "岩手県"
   },
   {
     "id": 17,
@@ -266,10 +282,11 @@
     "longitude": 141.951043,
     "address": "山田町川向町51-15",
     "link": "https://local.pokemon.jp/manhole/desc/17/",
-    "image": "images/manhole/17.png",
-    "location_ja": "Yamada",
+    "image": "images/thumbs/17.png",
+    "location_ja": "山田町",
     "zone_en": "Iwate",
-    "location_en": "Yamada"
+    "location_en": "Yamada",
+    "zone_ja": "岩手県"
   },
   {
     "id": 18,
@@ -282,10 +299,11 @@
     "longitude": 141.90316,
     "address": "大槌町本町1-1",
     "link": "https://local.pokemon.jp/manhole/desc/18/",
-    "image": "images/manhole/18.png",
-    "location_ja": "Otsuchi",
+    "image": "images/thumbs/18.png",
+    "location_ja": "大槌町",
     "zone_en": "Iwate",
-    "location_en": "Otsuchi"
+    "location_en": "Otsuchi",
+    "zone_ja": "岩手県"
   },
   {
     "id": 19,
@@ -298,10 +316,11 @@
     "longitude": 141.887862,
     "address": "釜石市鵜住居町第16地割72-1",
     "link": "https://local.pokemon.jp/manhole/desc/19/",
-    "image": "images/manhole/19.png",
-    "location_ja": "Kamaishi",
+    "image": "images/thumbs/19.png",
+    "location_ja": "釜石市",
     "zone_en": "Iwate",
-    "location_en": "Kamaishi"
+    "location_en": "Kamaishi",
+    "zone_ja": "岩手県"
   },
   {
     "id": 20,
@@ -314,10 +333,11 @@
     "longitude": 141.710256,
     "address": "大船渡市盛町字町13-1",
     "link": "https://local.pokemon.jp/manhole/desc/20/",
-    "image": "images/manhole/20.png",
-    "location_ja": "Ofunato",
+    "image": "images/thumbs/20.png",
+    "location_ja": "大船渡市",
     "zone_en": "Iwate",
-    "location_en": "Ofunato"
+    "location_en": "Ofunato",
+    "zone_ja": "岩手県"
   },
   {
     "id": 21,
@@ -330,10 +350,11 @@
     "longitude": 141.628694,
     "address": "陸前高田市高田町字馬場前89-1",
     "link": "https://local.pokemon.jp/manhole/desc/21/",
-    "image": "images/manhole/21.png",
-    "location_ja": "Rikuzentakata",
+    "image": "images/thumbs/21.png",
+    "location_ja": "陸前高田市",
     "zone_en": "Iwate",
-    "location_en": "Rikuzentakata"
+    "location_en": "Rikuzentakata",
+    "zone_ja": "岩手県"
   },
   {
     "id": 22,
@@ -346,10 +367,11 @@
     "longitude": 141.574456,
     "address": "住田町世田米川向88−1",
     "link": "https://local.pokemon.jp/manhole/desc/22/",
-    "image": "images/manhole/22.png",
-    "location_ja": "Sumita",
+    "image": "images/thumbs/22.png",
+    "location_ja": "住田町",
     "zone_en": "Iwate",
-    "location_en": "Sumita"
+    "location_en": "Sumita",
+    "zone_ja": "岩手県"
   },
   {
     "id": 23,
@@ -362,10 +384,11 @@
     "longitude": 139.631501,
     "address": "横浜市中区桜木町1-1",
     "link": "https://local.pokemon.jp/manhole/desc/23/",
-    "image": "images/manhole/23.png",
-    "location_ja": "Yokohama",
+    "image": "images/thumbs/23.png",
+    "location_ja": "横浜市",
     "zone_en": "Kanagawa",
-    "location_en": "Yokohama"
+    "location_en": "Yokohama",
+    "zone_ja": "神奈川県"
   },
   {
     "id": 28,
@@ -378,10 +401,11 @@
     "longitude": 134.049052,
     "address": "高松市南新町8-30地先",
     "link": "https://local.pokemon.jp/manhole/desc/28/",
-    "image": "images/manhole/28.png",
-    "location_ja": "Takamatsu",
+    "image": "images/thumbs/28.png",
+    "location_ja": "高松市",
     "zone_en": "Kagawa",
-    "location_en": "Takamatsu"
+    "location_en": "Takamatsu",
+    "zone_ja": "香川県"
   },
   {
     "id": 29,
@@ -394,10 +418,11 @@
     "longitude": 133.793951,
     "address": "丸亀市浜町109-4",
     "link": "https://local.pokemon.jp/manhole/desc/29/",
-    "image": "images/manhole/29.png",
-    "location_ja": "Marugame",
+    "image": "images/thumbs/29.png",
+    "location_ja": "丸亀市",
     "zone_en": "Kagawa",
-    "location_en": "Marugame"
+    "location_en": "Marugame",
+    "zone_ja": "香川県"
   },
   {
     "id": 30,
@@ -410,10 +435,11 @@
     "longitude": 133.856292,
     "address": "坂出市駒止町1丁目4",
     "link": "https://local.pokemon.jp/manhole/desc/30/",
-    "image": "images/manhole/30.png",
-    "location_ja": "Sakaide",
+    "image": "images/thumbs/30.png",
+    "location_ja": "坂出市",
     "zone_en": "Kagawa",
-    "location_en": "Sakaide"
+    "location_en": "Sakaide",
+    "zone_ja": "香川県"
   },
   {
     "id": 31,
@@ -426,10 +452,11 @@
     "longitude": 133.7773,
     "address": "善通寺市善通寺町二丁目2",
     "link": "https://local.pokemon.jp/manhole/desc/31/",
-    "image": "images/manhole/31.png",
-    "location_ja": "Zentsuji",
+    "image": "images/thumbs/31.png",
+    "location_ja": "善通寺市",
     "zone_en": "Kagawa",
-    "location_en": "Zentsuji"
+    "location_en": "Zentsuji",
+    "zone_ja": "香川県"
   },
   {
     "id": 32,
@@ -442,10 +469,11 @@
     "longitude": 133.655211,
     "address": "観音寺市観音寺町甲1234-4",
     "link": "https://local.pokemon.jp/manhole/desc/32/",
-    "image": "images/manhole/32.png",
-    "location_ja": "KAN-ONJI",
+    "image": "images/thumbs/32.png",
+    "location_ja": "観音寺市",
     "zone_en": "Kagawa",
-    "location_en": "KAN-ONJI"
+    "location_en": "KAN-ONJI",
+    "zone_ja": "香川県"
   },
   {
     "id": 33,
@@ -458,10 +486,11 @@
     "longitude": 134.173241,
     "address": "さぬき市志度670-10",
     "link": "https://local.pokemon.jp/manhole/desc/33/",
-    "image": "images/manhole/33.png",
-    "location_ja": "Sanuki",
+    "image": "images/thumbs/33.png",
+    "location_ja": "さぬき市",
     "zone_en": "Kagawa",
-    "location_en": "Sanuki"
+    "location_en": "Sanuki",
+    "zone_ja": "香川県"
   },
   {
     "id": 34,
@@ -474,10 +503,11 @@
     "longitude": 134.333457,
     "address": "東かがわ市三本松1172-1",
     "link": "https://local.pokemon.jp/manhole/desc/34/",
-    "image": "images/manhole/34.png",
-    "location_ja": "Higashikagawa",
+    "image": "images/thumbs/34.png",
+    "location_ja": "東かがわ市",
     "zone_en": "Kagawa",
-    "location_en": "Higashikagawa"
+    "location_en": "Higashikagawa",
+    "zone_ja": "香川県"
   },
   {
     "id": 35,
@@ -490,10 +520,11 @@
     "longitude": 133.6322219,
     "address": "三豊市詫間町粟島1541地先",
     "link": "https://local.pokemon.jp/manhole/desc/35/",
-    "image": "images/manhole/35.png",
-    "location_ja": "Mitoyo",
+    "image": "images/thumbs/35.png",
+    "location_ja": "三豊市",
     "zone_en": "Kagawa",
-    "location_en": "Mitoyo"
+    "location_en": "Mitoyo",
+    "zone_ja": "香川県"
   },
   {
     "id": 36,
@@ -506,10 +537,11 @@
     "longitude": 134.187512,
     "address": "土庄町甲222-1",
     "link": "https://local.pokemon.jp/manhole/desc/36/",
-    "image": "images/manhole/36.png",
-    "location_ja": "Tonosho",
+    "image": "images/thumbs/36.png",
+    "location_ja": "土庄町",
     "zone_en": "Kagawa",
-    "location_en": "Tonosho"
+    "location_en": "Tonosho",
+    "zone_ja": "香川県"
   },
   {
     "id": 37,
@@ -522,10 +554,11 @@
     "longitude": 134.2358695,
     "address": "小豆島町室生2084-1",
     "link": "https://local.pokemon.jp/manhole/desc/37/",
-    "image": "images/manhole/37.png",
-    "location_ja": "Shodoshima",
+    "image": "images/thumbs/37.png",
+    "location_ja": "小豆島町",
     "zone_en": "Kagawa",
-    "location_en": "Shodoshima"
+    "location_en": "Shodoshima",
+    "zone_ja": "香川県"
   },
   {
     "id": 38,
@@ -538,10 +571,11 @@
     "longitude": 134.134567,
     "address": "三木町大字氷上310",
     "link": "https://local.pokemon.jp/manhole/desc/38/",
-    "image": "images/manhole/38.png",
-    "location_ja": "Miki",
+    "image": "images/thumbs/38.png",
+    "location_ja": "三木町",
     "zone_en": "Kagawa",
-    "location_en": "Miki"
+    "location_en": "Miki",
+    "zone_ja": "香川県"
   },
   {
     "id": 39,
@@ -554,10 +588,11 @@
     "longitude": 133.975492,
     "address": "直島町２２４９番地５５",
     "link": "https://local.pokemon.jp/manhole/desc/39/",
-    "image": "images/manhole/39.png",
-    "location_ja": "Naoshima",
+    "image": "images/thumbs/39.png",
+    "location_ja": "直島町",
     "zone_en": "Kagawa",
-    "location_en": "Naoshima"
+    "location_en": "Naoshima",
+    "zone_ja": "香川県"
   },
   {
     "id": 40,
@@ -570,10 +605,11 @@
     "longitude": 133.917073,
     "address": "綾川町滝宮1589-2",
     "link": "https://local.pokemon.jp/manhole/desc/40/",
-    "image": "images/manhole/40.png",
-    "location_ja": "Ayagawa",
+    "image": "images/thumbs/40.png",
+    "location_ja": "綾川町",
     "zone_en": "Kagawa",
-    "location_en": "Ayagawa"
+    "location_en": "Ayagawa",
+    "zone_ja": "香川県"
   },
   {
     "id": 41,
@@ -586,10 +622,11 @@
     "longitude": 133.819896,
     "address": "琴平町723-2",
     "link": "https://local.pokemon.jp/manhole/desc/41/",
-    "image": "images/manhole/41.png",
-    "location_ja": "Kotohira",
+    "image": "images/thumbs/41.png",
+    "location_ja": "琴平町",
     "zone_en": "Kagawa",
-    "location_en": "Kotohira"
+    "location_en": "Kotohira",
+    "zone_ja": "香川県"
   },
   {
     "id": 42,
@@ -602,10 +639,11 @@
     "longitude": 133.757247,
     "address": "多度津町栄町3-3-95 多度津町地域交流センター1F",
     "link": "https://local.pokemon.jp/manhole/desc/42/",
-    "image": "images/manhole/42.png",
-    "location_ja": "Tadotsu",
+    "image": "images/thumbs/42.png",
+    "location_ja": "多度津町",
     "zone_en": "Kagawa",
-    "location_en": "Tadotsu"
+    "location_en": "Tadotsu",
+    "zone_ja": "香川県"
   },
   {
     "id": 43,
@@ -618,10 +656,11 @@
     "longitude": 133.871387,
     "address": "まんのう町吉野4314-1",
     "link": "https://local.pokemon.jp/manhole/desc/43/",
-    "image": "images/manhole/43.png",
-    "location_ja": "Manno",
+    "image": "images/thumbs/43.png",
+    "location_ja": "まんのう町",
     "zone_en": "Kagawa",
-    "location_en": "Manno"
+    "location_en": "Manno",
+    "zone_ja": "香川県"
   },
   {
     "id": 44,
@@ -634,10 +673,11 @@
     "longitude": 141.574667,
     "address": "気仙沼市南町海岸1-14",
     "link": "https://local.pokemon.jp/manhole/desc/44/",
-    "image": "images/manhole/44.png",
-    "location_ja": "Kesennuma",
+    "image": "images/thumbs/44.png",
+    "location_ja": "気仙沼市",
     "zone_en": "Miyagi",
-    "location_en": "Kesennuma"
+    "location_en": "Kesennuma",
+    "zone_ja": "宮城県"
   },
   {
     "id": 45,
@@ -650,10 +690,11 @@
     "longitude": 141.52115,
     "address": "南三陸町歌津字伊里前96-1",
     "link": "https://local.pokemon.jp/manhole/desc/45/",
-    "image": "images/manhole/45.png",
-    "location_ja": "Minamisanriku",
+    "image": "images/thumbs/45.png",
+    "location_ja": "南三陸町",
     "zone_en": "Miyagi",
-    "location_en": "Minamisanriku"
+    "location_en": "Minamisanriku",
+    "zone_ja": "宮城県"
   },
   {
     "id": 46,
@@ -666,10 +707,11 @@
     "longitude": 141.44623,
     "address": "女川町女川浜字大原1-4",
     "link": "https://local.pokemon.jp/manhole/desc/46/",
-    "image": "images/manhole/46.png",
-    "location_ja": "Onagawa",
+    "image": "images/thumbs/46.png",
+    "location_ja": "女川町",
     "zone_en": "Miyagi",
-    "location_en": "Onagawa"
+    "location_en": "Onagawa",
+    "zone_ja": "宮城県"
   },
   {
     "id": 47,
@@ -682,10 +724,11 @@
     "longitude": 141.303041,
     "address": "石巻市穀町14番1号",
     "link": "https://local.pokemon.jp/manhole/desc/47/",
-    "image": "images/manhole/47.png",
-    "location_ja": "Ishinomaki",
+    "image": "images/thumbs/47.png",
+    "location_ja": "石巻市",
     "zone_en": "Miyagi",
-    "location_en": "Ishinomaki"
+    "location_en": "Ishinomaki",
+    "zone_ja": "宮城県"
   },
   {
     "id": 48,
@@ -698,10 +741,11 @@
     "longitude": 141.15671,
     "address": "東松島市野蒜ケ丘一丁目15-1",
     "link": "https://local.pokemon.jp/manhole/desc/48/",
-    "image": "images/manhole/48.png",
-    "location_ja": "Higashimatsushima",
+    "image": "images/thumbs/48.png",
+    "location_ja": "東松島市",
     "zone_en": "Miyagi",
-    "location_en": "Higashimatsushima"
+    "location_en": "Higashimatsushima",
+    "zone_ja": "宮城県"
   },
   {
     "id": 49,
@@ -714,10 +758,11 @@
     "longitude": 141.061207,
     "address": "松島町松島字浪打浜地内",
     "link": "https://local.pokemon.jp/manhole/desc/49/",
-    "image": "images/manhole/49.png",
-    "location_ja": "Matsushima",
+    "image": "images/thumbs/49.png",
+    "location_ja": "松島町",
     "zone_en": "Miyagi",
-    "location_en": "Matsushima"
+    "location_en": "Matsushima",
+    "zone_ja": "宮城県"
   },
   {
     "id": 50,
@@ -730,10 +775,11 @@
     "longitude": 141.023075,
     "address": "塩竈市海岸通200-15",
     "link": "https://local.pokemon.jp/manhole/desc/50/",
-    "image": "images/manhole/50.png",
-    "location_ja": "Shiogama",
+    "image": "images/thumbs/50.png",
+    "location_ja": "塩釜市",
     "zone_en": "Miyagi",
-    "location_en": "Shiogama"
+    "location_en": "Shiogama",
+    "zone_ja": "宮城県"
   },
   {
     "id": 51,
@@ -746,10 +792,11 @@
     "longitude": 140.975248,
     "address": "利府町利府字新並松4",
     "link": "https://local.pokemon.jp/manhole/desc/51/",
-    "image": "images/manhole/51.png",
-    "location_ja": "Rifu",
+    "image": "images/thumbs/51.png",
+    "location_ja": "利府町",
     "zone_en": "Miyagi",
-    "location_en": "Rifu"
+    "location_en": "Rifu",
+    "zone_ja": "宮城県"
   },
   {
     "id": 52,
@@ -762,10 +809,11 @@
     "longitude": 141.083342,
     "address": "七ヶ浜町花渕浜字館下75",
     "link": "https://local.pokemon.jp/manhole/desc/52/",
-    "image": "images/manhole/52.png",
-    "location_ja": "Shichigahama",
+    "image": "images/thumbs/52.png",
+    "location_ja": "七ヶ浜町",
     "zone_en": "Miyagi",
-    "location_en": "Shichigahama"
+    "location_en": "Shichigahama",
+    "zone_ja": "宮城県"
   },
   {
     "id": 53,
@@ -778,10 +826,11 @@
     "longitude": 141.007158,
     "address": "多賀城市中央2丁目7番地",
     "link": "https://local.pokemon.jp/manhole/desc/53/",
-    "image": "images/manhole/53.png",
-    "location_ja": "Tagajo",
+    "image": "images/thumbs/53.png",
+    "location_ja": "多賀城市",
     "zone_en": "Miyagi",
-    "location_en": "Tagajo"
+    "location_en": "Tagajo",
+    "zone_ja": "宮城県"
   },
   {
     "id": 54,
@@ -794,10 +843,11 @@
     "longitude": 140.872666,
     "address": "仙台市青葉区一番町二丁目6-5",
     "link": "https://local.pokemon.jp/manhole/desc/54/",
-    "image": "images/manhole/54.png",
-    "location_ja": "Sendai",
+    "image": "images/thumbs/54.png",
+    "location_ja": "仙台市",
     "zone_en": "Miyagi",
-    "location_en": "Sendai"
+    "location_en": "Sendai",
+    "zone_ja": "宮城県"
   },
   {
     "id": 55,
@@ -810,10 +860,11 @@
     "longitude": 140.954044,
     "address": "名取市閖上五丁目",
     "link": "https://local.pokemon.jp/manhole/desc/55/",
-    "image": "images/manhole/55.png",
-    "location_ja": "Natori",
+    "image": "images/thumbs/55.png",
+    "location_ja": "名取市",
     "zone_en": "Miyagi",
-    "location_en": "Natori"
+    "location_en": "Natori",
+    "zone_ja": "宮城県"
   },
   {
     "id": 56,
@@ -826,10 +877,11 @@
     "longitude": 140.866325,
     "address": "岩沼市中央1丁目2-13",
     "link": "https://local.pokemon.jp/manhole/desc/56/",
-    "image": "images/manhole/56.png",
-    "location_ja": "Iwanuma",
+    "image": "images/thumbs/56.png",
+    "location_ja": "岩沼市",
     "zone_en": "Miyagi",
-    "location_en": "Iwanuma"
+    "location_en": "Iwanuma",
+    "zone_ja": "宮城県"
   },
   {
     "id": 57,
@@ -842,10 +894,11 @@
     "longitude": 140.915724,
     "address": "亘理町荒浜字隈崎9-2",
     "link": "https://local.pokemon.jp/manhole/desc/57/",
-    "image": "images/manhole/57.png",
-    "location_ja": "Watari",
+    "image": "images/thumbs/57.png",
+    "location_ja": "亘理町",
     "zone_en": "Miyagi",
-    "location_en": "Watari"
+    "location_en": "Watari",
+    "zone_ja": "宮城県"
   },
   {
     "id": 58,
@@ -858,10 +911,11 @@
     "longitude": 140.900996,
     "address": "山元町坂元字町東31-10",
     "link": "https://local.pokemon.jp/manhole/desc/58/",
-    "image": "images/manhole/58.png",
-    "location_ja": "Yamamoto",
+    "image": "images/thumbs/58.png",
+    "location_ja": "山元町",
     "zone_en": "Miyagi",
-    "location_en": "Yamamoto"
+    "location_en": "Yamamoto",
+    "zone_ja": "宮城県"
   },
   {
     "id": 59,
@@ -874,10 +928,11 @@
     "longitude": 141.423898,
     "address": "石狩市浜益区実田254-4",
     "link": "https://local.pokemon.jp/manhole/desc/59/",
-    "image": "images/manhole/59.png",
-    "location_ja": "Ishikari",
+    "image": "images/thumbs/59.png",
+    "location_ja": "石狩市",
     "zone_en": "Hokkaido",
-    "location_en": "Ishikari"
+    "location_en": "Ishikari",
+    "zone_ja": "北海道"
   },
   {
     "id": 60,
@@ -890,10 +945,11 @@
     "longitude": 141.585789,
     "address": "恵庭市南島松829番地3",
     "link": "https://local.pokemon.jp/manhole/desc/60/",
-    "image": "images/manhole/60.png",
-    "location_ja": "Eniwa",
+    "image": "images/thumbs/60.png",
+    "location_ja": "恵庭市",
     "zone_en": "Hokkaido",
-    "location_en": "Eniwa"
+    "location_en": "Eniwa",
+    "zone_ja": "北海道"
   },
   {
     "id": 61,
@@ -906,10 +962,11 @@
     "longitude": 140.819072,
     "address": "洞爺湖町洞爺湖温泉224",
     "link": "https://local.pokemon.jp/manhole/desc/61/",
-    "image": "images/manhole/61.png",
-    "location_ja": "Toyako",
+    "image": "images/thumbs/61.png",
+    "location_ja": "洞爺湖町",
     "zone_en": "Hokkaido",
-    "location_en": "Toyako"
+    "location_en": "Toyako",
+    "zone_ja": "北海道"
   },
   {
     "id": 62,
@@ -922,10 +979,11 @@
     "longitude": 140.572941,
     "address": "森町本町6-22",
     "link": "https://local.pokemon.jp/manhole/desc/62/",
-    "image": "images/manhole/62.png",
-    "location_ja": "Mori",
+    "image": "images/thumbs/62.png",
+    "location_ja": "森町",
     "zone_en": "Hokkaido",
-    "location_en": "Mori"
+    "location_en": "Mori",
+    "zone_ja": "北海道"
   },
   {
     "id": 63,
@@ -938,10 +996,11 @@
     "longitude": 140.095409,
     "address": "上ノ国町字原歌3番地",
     "link": "https://local.pokemon.jp/manhole/desc/63/",
-    "image": "images/manhole/63.png",
-    "location_ja": "Kaminokuni",
+    "image": "images/thumbs/63.png",
+    "location_ja": "上ノ国町",
     "zone_en": "Hokkaido",
-    "location_en": "Kaminokuni"
+    "location_en": "Kaminokuni",
+    "zone_ja": "北海道"
   },
   {
     "id": 64,
@@ -954,10 +1013,11 @@
     "longitude": 142.392417,
     "address": "士別市大通東5丁目",
     "link": "https://local.pokemon.jp/manhole/desc/64/",
-    "image": "images/manhole/64.png",
-    "location_ja": "Shibetsu",
+    "image": "images/thumbs/64.png",
+    "location_ja": "士別市",
     "zone_en": "Hokkaido",
-    "location_en": "Shibetsu"
+    "location_en": "Shibetsu",
+    "zone_ja": "北海道"
   },
   {
     "id": 65,
@@ -970,10 +1030,11 @@
     "longitude": 142.471699,
     "address": "比布町西町2丁目6番1号",
     "link": "https://local.pokemon.jp/manhole/desc/65/",
-    "image": "images/manhole/65.png",
-    "location_ja": "Pippu",
+    "image": "images/thumbs/65.png",
+    "location_ja": "比布町",
     "zone_en": "Hokkaido",
-    "location_en": "Pippu"
+    "location_en": "Pippu",
+    "zone_ja": "北海道"
   },
   {
     "id": 66,
@@ -986,10 +1047,11 @@
     "longitude": 141.74797,
     "address": "天塩町新開通4丁目7227番地2",
     "link": "https://local.pokemon.jp/manhole/desc/66/",
-    "image": "images/manhole/66.png",
-    "location_ja": "Teshio",
+    "image": "images/thumbs/66.png",
+    "location_ja": "天塩町",
     "zone_en": "Hokkaido",
-    "location_en": "Teshio"
+    "location_en": "Teshio",
+    "zone_ja": "北海道"
   },
   {
     "id": 67,
@@ -1002,10 +1064,11 @@
     "longitude": 141.677095,
     "address": "稚内市中央3-5",
     "link": "https://local.pokemon.jp/manhole/desc/67/",
-    "image": "images/manhole/67.png",
-    "location_ja": "Wakkanai",
+    "image": "images/thumbs/67.png",
+    "location_ja": "稚内市",
     "zone_en": "Hokkaido",
-    "location_en": "Wakkanai"
+    "location_en": "Wakkanai",
+    "zone_ja": "北海道"
   },
   {
     "id": 68,
@@ -1018,10 +1081,11 @@
     "longitude": 141.778643,
     "address": "豊富町東1条6丁目",
     "link": "https://local.pokemon.jp/manhole/desc/68/",
-    "image": "images/manhole/68.png",
-    "location_ja": "Toyotomi",
+    "image": "images/thumbs/68.png",
+    "location_ja": "豊富町",
     "zone_en": "Hokkaido",
-    "location_en": "Toyotomi"
+    "location_en": "Toyotomi",
+    "zone_ja": "北海道"
   },
   {
     "id": 69,
@@ -1034,10 +1098,11 @@
     "longitude": 143.372211,
     "address": "紋別市海洋公園",
     "link": "https://local.pokemon.jp/manhole/desc/69/",
-    "image": "images/manhole/69.png",
-    "location_ja": "Mombetsu",
+    "image": "images/thumbs/69.png",
+    "location_ja": "紋別市",
     "zone_en": "Hokkaido",
-    "location_en": "Mombetsu"
+    "location_en": "Mombetsu",
+    "zone_ja": "北海道"
   },
   {
     "id": 70,
@@ -1050,10 +1115,11 @@
     "longitude": 143.497131,
     "address": "遠軽町野上150番地",
     "link": "https://local.pokemon.jp/manhole/desc/70/",
-    "image": "images/manhole/70.png",
-    "location_ja": "Engaru",
+    "image": "images/thumbs/70.png",
+    "location_ja": "遠軽町",
     "zone_en": "Hokkaido",
-    "location_en": "Engaru"
+    "location_en": "Engaru",
+    "zone_ja": "北海道"
   },
   {
     "id": 71,
@@ -1066,10 +1132,11 @@
     "longitude": 144.17137,
     "address": "網走郡大空町女満別本通1丁目",
     "link": "https://local.pokemon.jp/manhole/desc/71/",
-    "image": "images/manhole/71.png",
-    "location_ja": "Ohzora",
+    "image": "images/thumbs/71.png",
+    "location_ja": "大空町",
     "zone_en": "Hokkaido",
-    "location_en": "Ohzora"
+    "location_en": "Ohzora",
+    "zone_ja": "北海道"
   },
   {
     "id": 72,
@@ -1082,10 +1149,11 @@
     "longitude": 142.832927,
     "address": "新得町本通北1丁目",
     "link": "https://local.pokemon.jp/manhole/desc/72/",
-    "image": "images/manhole/72.png",
-    "location_ja": "Shintoku",
+    "image": "images/thumbs/72.png",
+    "location_ja": "新得町",
     "zone_en": "Hokkaido",
-    "location_en": "Shintoku"
+    "location_en": "Shintoku",
+    "zone_ja": "北海道"
   },
   {
     "id": 73,
@@ -1098,10 +1166,11 @@
     "longitude": 143.546753,
     "address": "足寄町北1条1丁目1",
     "link": "https://local.pokemon.jp/manhole/desc/73/",
-    "image": "images/manhole/73.png",
-    "location_ja": "Ashoro",
+    "image": "images/thumbs/73.png",
+    "location_ja": "足寄町",
     "zone_en": "Hokkaido",
-    "location_en": "Ashoro"
+    "location_en": "Ashoro",
+    "zone_ja": "北海道"
   },
   {
     "id": 74,
@@ -1114,10 +1183,11 @@
     "longitude": 134.237266,
     "address": "鳥取市福部町湯山2083-17地先",
     "link": "https://local.pokemon.jp/manhole/desc/74/",
-    "image": "images/manhole/74.png",
-    "location_ja": "Tottori",
+    "image": "images/thumbs/74.png",
+    "location_ja": "鳥取市",
     "zone_en": "Tottori",
-    "location_en": "Tottori"
+    "location_en": "Tottori",
+    "zone_ja": "鳥取県"
   },
   {
     "id": 75,
@@ -1130,10 +1200,11 @@
     "longitude": 133.361525,
     "address": "米子市皆生温泉3丁目1番1号",
     "link": "https://local.pokemon.jp/manhole/desc/75/",
-    "image": "images/manhole/75.png",
-    "location_ja": "Yonago",
+    "image": "images/thumbs/75.png",
+    "location_ja": "米子市",
     "zone_en": "Tottori",
-    "location_en": "Yonago"
+    "location_en": "Yonago",
+    "zone_ja": "鳥取県"
   },
   {
     "id": 76,
@@ -1146,10 +1217,11 @@
     "longitude": 133.850116,
     "address": "倉吉市上井195",
     "link": "https://local.pokemon.jp/manhole/desc/76/",
-    "image": "images/manhole/76.png",
-    "location_ja": "Kurayoshi",
+    "image": "images/thumbs/76.png",
+    "location_ja": "倉吉市",
     "zone_en": "Tottori",
-    "location_en": "Kurayoshi"
+    "location_en": "Kurayoshi",
+    "zone_ja": "鳥取県"
   },
   {
     "id": 77,
@@ -1162,10 +1234,11 @@
     "longitude": 133.258356,
     "address": "境港市竹内団地252-2",
     "link": "https://local.pokemon.jp/manhole/desc/77/",
-    "image": "images/manhole/77.png",
-    "location_ja": "Sakaiminato",
+    "image": "images/thumbs/77.png",
+    "location_ja": "境港市",
     "zone_en": "Tottori",
-    "location_en": "Sakaiminato"
+    "location_en": "Sakaiminato",
+    "zone_ja": "鳥取県"
   },
   {
     "id": 78,
@@ -1178,10 +1251,11 @@
     "longitude": 134.321556,
     "address": "岩美町浦富2475-17",
     "link": "https://local.pokemon.jp/manhole/desc/78/",
-    "image": "images/manhole/78.png",
-    "location_ja": "Iwami",
+    "image": "images/thumbs/78.png",
+    "location_ja": "岩美町",
     "zone_en": "Tottori",
-    "location_en": "Iwami"
+    "location_en": "Iwami",
+    "zone_ja": "鳥取県"
   },
   {
     "id": 79,
@@ -1194,10 +1268,11 @@
     "longitude": 134.400345,
     "address": "八頭郡若桜町若桜983-2",
     "link": "https://local.pokemon.jp/manhole/desc/79/",
-    "image": "images/manhole/79.png",
-    "location_ja": "Wakasa",
+    "image": "images/thumbs/79.png",
+    "location_ja": "若桜町",
     "zone_en": "Tottori",
-    "location_en": "Wakasa"
+    "location_en": "Wakasa",
+    "zone_ja": "鳥取県"
   },
   {
     "id": 80,
@@ -1210,10 +1285,11 @@
     "longitude": 133.894397,
     "address": "三朝町三朝783",
     "link": "https://local.pokemon.jp/manhole/desc/80/",
-    "image": "images/manhole/80.png",
-    "location_ja": "Misasa",
+    "image": "images/thumbs/80.png",
+    "location_ja": "三朝町",
     "zone_en": "Tottori",
-    "location_en": "Misasa"
+    "location_en": "Misasa",
+    "zone_ja": "鳥取県"
   },
   {
     "id": 81,
@@ -1226,10 +1302,11 @@
     "longitude": 133.88401,
     "address": "湯梨浜町はわい温泉3-13",
     "link": "https://local.pokemon.jp/manhole/desc/81/",
-    "image": "images/manhole/81.png",
-    "location_ja": "Yurihama",
+    "image": "images/thumbs/81.png",
+    "location_ja": "湯梨浜町",
     "zone_en": "Tottori",
-    "location_en": "Yurihama"
+    "location_en": "Yurihama",
+    "zone_ja": "鳥取県"
   },
   {
     "id": 82,
@@ -1242,10 +1319,11 @@
     "longitude": 133.661612,
     "address": "東伯郡琴浦町別所270-4",
     "link": "https://local.pokemon.jp/manhole/desc/82/",
-    "image": "images/manhole/82.png",
-    "location_ja": "Kotoura",
+    "image": "images/thumbs/82.png",
+    "location_ja": "琴浦町",
     "zone_en": "Tottori",
-    "location_en": "Kotoura"
+    "location_en": "Kotoura",
+    "zone_ja": "鳥取県"
   },
   {
     "id": 83,
@@ -1258,10 +1336,11 @@
     "longitude": 133.502093,
     "address": "大山町名和951-6",
     "link": "https://local.pokemon.jp/manhole/desc/83/",
-    "image": "images/manhole/83.png",
-    "location_ja": "Daisen",
+    "image": "images/thumbs/83.png",
+    "location_ja": "大山町",
     "zone_en": "Tottori",
-    "location_en": "Daisen"
+    "location_en": "Daisen",
+    "zone_ja": "鳥取県"
   },
   {
     "id": 84,
@@ -1274,10 +1353,11 @@
     "longitude": 133.423398,
     "address": "南部町鶴田110",
     "link": "https://local.pokemon.jp/manhole/desc/84/",
-    "image": "images/manhole/84.png",
-    "location_ja": "Nanbu",
+    "image": "images/thumbs/84.png",
+    "location_ja": "南部町",
     "zone_en": "Tottori",
-    "location_en": "Nanbu"
+    "location_en": "Nanbu",
+    "zone_ja": "鳥取県"
   },
   {
     "id": 85,
@@ -1290,10 +1370,11 @@
     "longitude": 133.458512,
     "address": "伯耆町大原997-12",
     "link": "https://local.pokemon.jp/manhole/desc/85/",
-    "image": "images/manhole/85.png",
-    "location_ja": "Houki",
+    "image": "images/thumbs/85.png",
+    "location_ja": "伯耆町",
     "zone_en": "Tottori",
-    "location_en": "Houki"
+    "location_en": "Houki",
+    "zone_ja": "鳥取県"
   },
   {
     "id": 86,
@@ -1306,10 +1387,11 @@
     "longitude": 133.31094,
     "address": "日南町生山354番地2",
     "link": "https://local.pokemon.jp/manhole/desc/86/",
-    "image": "images/manhole/86.png",
-    "location_ja": "Nichinan",
+    "image": "images/thumbs/86.png",
+    "location_ja": "日南町",
     "zone_en": "Tottori",
-    "location_en": "Nichinan"
+    "location_en": "Nichinan",
+    "zone_ja": "鳥取県"
   },
   {
     "id": 87,
@@ -1322,10 +1404,11 @@
     "longitude": 133.441049,
     "address": "日野郡日野町根雨170番地1",
     "link": "https://local.pokemon.jp/manhole/desc/87/",
-    "image": "images/manhole/87.png",
-    "location_ja": "Hino",
+    "image": "images/thumbs/87.png",
+    "location_ja": "日野町",
     "zone_en": "Tottori",
-    "location_en": "Hino"
+    "location_en": "Hino",
+    "zone_ja": "鳥取県"
   },
   {
     "id": 88,
@@ -1338,10 +1421,11 @@
     "longitude": 140.925027,
     "address": "新地町駅前1丁目3番地",
     "link": "https://local.pokemon.jp/manhole/desc/88/",
-    "image": "images/manhole/88.png",
-    "location_ja": "Shinchi",
+    "image": "images/thumbs/88.png",
+    "location_ja": "新地町",
     "zone_en": "Fukushima",
-    "location_en": "Shinchi"
+    "location_en": "Shinchi",
+    "zone_ja": "福島県"
   },
   {
     "id": 89,
@@ -1354,10 +1438,11 @@
     "longitude": 140.963244,
     "address": "相馬市尾浜字寺前111-1",
     "link": "https://local.pokemon.jp/manhole/desc/89/",
-    "image": "images/manhole/89.png",
-    "location_ja": "Soma",
+    "image": "images/thumbs/89.png",
+    "location_ja": "相馬市",
     "zone_en": "Fukushima",
-    "location_en": "Soma"
+    "location_en": "Soma",
+    "zone_ja": "福島県"
   },
   {
     "id": 90,
@@ -1370,10 +1455,11 @@
     "longitude": 140.983041,
     "address": "南相馬市原町区高見町2-30-1",
     "link": "https://local.pokemon.jp/manhole/desc/90/",
-    "image": "images/manhole/90.png",
-    "location_ja": "Minamisoma",
+    "image": "images/thumbs/90.png",
+    "location_ja": "南相馬市",
     "zone_en": "Fukushima",
-    "location_en": "Minamisoma"
+    "location_en": "Minamisoma",
+    "zone_ja": "福島県"
   },
   {
     "id": 91,
@@ -1386,10 +1472,11 @@
     "longitude": 141.000919,
     "address": "浪江町大字幾世橋字六反田7-2",
     "link": "https://local.pokemon.jp/manhole/desc/91/",
-    "image": "images/manhole/91.png",
-    "location_ja": "Namie",
+    "image": "images/thumbs/91.png",
+    "location_ja": "浪江町",
     "zone_en": "Fukushima",
-    "location_en": "Namie"
+    "location_en": "Namie",
+    "zone_ja": "福島県"
   },
   {
     "id": 92,
@@ -1402,10 +1489,11 @@
     "longitude": 140.9975789,
     "address": "楢葉町大字山田岡字大堤入22-1",
     "link": "https://local.pokemon.jp/manhole/desc/92/",
-    "image": "images/manhole/92.png",
-    "location_ja": "Naraha",
+    "image": "images/thumbs/92.png",
+    "location_ja": "楢葉町",
     "zone_en": "Fukushima",
-    "location_en": "Naraha"
+    "location_en": "Naraha",
+    "zone_ja": "福島県"
   },
   {
     "id": 93,
@@ -1418,10 +1506,11 @@
     "longitude": 140.9932743,
     "address": "いわき市四倉町字5-218-1",
     "link": "https://local.pokemon.jp/manhole/desc/93/",
-    "image": "images/manhole/93.png",
-    "location_ja": "Iwaki",
+    "image": "images/thumbs/93.png",
+    "location_ja": "いわき市",
     "zone_en": "Fukushima",
-    "location_en": "Iwaki"
+    "location_en": "Iwaki",
+    "zone_ja": "福島県"
   },
   {
     "id": 94,
@@ -1434,10 +1523,11 @@
     "longitude": 140.57675,
     "address": "川俣町大字鶴沢字東13-1",
     "link": "https://local.pokemon.jp/manhole/desc/94/",
-    "image": "images/manhole/94.png",
-    "location_ja": "Kawamata",
+    "image": "images/thumbs/94.png",
+    "location_ja": "川俣町",
     "zone_en": "Fukushima",
-    "location_en": "Kawamata"
+    "location_en": "Kawamata",
+    "zone_ja": "福島県"
   },
   {
     "id": 95,
@@ -1450,10 +1540,11 @@
     "longitude": 140.674289,
     "address": "田村市滝根町菅谷字東釜山１",
     "link": "https://local.pokemon.jp/manhole/desc/95/",
-    "image": "images/manhole/95.png",
-    "location_ja": "Tamura",
+    "image": "images/thumbs/95.png",
+    "location_ja": "田村市",
     "zone_en": "Fukushima",
-    "location_en": "Tamura"
+    "location_en": "Tamura",
+    "zone_ja": "福島県"
   },
   {
     "id": 96,
@@ -1466,10 +1557,11 @@
     "longitude": 140.82162,
     "address": "川内村大字下川内字宮ノ下25-1",
     "link": "https://local.pokemon.jp/manhole/desc/96/",
-    "image": "images/manhole/96.png",
-    "location_ja": "Kawauchi",
+    "image": "images/thumbs/96.png",
+    "location_ja": "川内村",
     "zone_en": "Fukushima",
-    "location_en": "Kawauchi"
+    "location_en": "Kawauchi",
+    "zone_ja": "福島県"
   },
   {
     "id": 97,
@@ -1482,10 +1574,11 @@
     "longitude": 133.807869,
     "address": "宇多津町浜一番丁4番地",
     "link": "https://local.pokemon.jp/manhole/desc/97/",
-    "image": "images/manhole/97.png",
-    "location_ja": "Utazu",
+    "image": "images/thumbs/97.png",
+    "location_ja": "宇多津町",
     "zone_en": "Kagawa",
-    "location_en": "Utazu"
+    "location_en": "Utazu",
+    "zone_ja": "香川県"
   },
   {
     "id": 98,
@@ -1498,10 +1591,11 @@
     "longitude": 139.45034,
     "address": "町田市原町田5-16",
     "link": "https://local.pokemon.jp/manhole/desc/98/",
-    "image": "images/manhole/98.png",
-    "location_ja": "Machida",
+    "image": "images/thumbs/98.png",
+    "location_ja": "町田市",
     "zone_en": "Tokyo",
-    "location_en": "Machida"
+    "location_en": "Machida",
+    "zone_ja": "東京都"
   },
   {
     "id": 99,
@@ -1514,10 +1608,11 @@
     "longitude": 139.4513,
     "address": "町田市原町田5-16",
     "link": "https://local.pokemon.jp/manhole/desc/99/",
-    "image": "images/manhole/99.png",
-    "location_ja": "Machida",
+    "image": "images/thumbs/99.png",
+    "location_ja": "町田市",
     "zone_en": "Tokyo",
-    "location_en": "Machida"
+    "location_en": "Machida",
+    "zone_ja": "東京都"
   },
   {
     "id": 100,
@@ -1530,10 +1625,11 @@
     "longitude": 139.45501,
     "address": "町田市原町田5-16",
     "link": "https://local.pokemon.jp/manhole/desc/100/",
-    "image": "images/manhole/100.png",
-    "location_ja": "Machida",
+    "image": "images/thumbs/100.png",
+    "location_ja": "町田市",
     "zone_en": "Tokyo",
-    "location_en": "Machida"
+    "location_en": "Machida",
+    "zone_ja": "東京都"
   },
   {
     "id": 101,
@@ -1546,10 +1642,11 @@
     "longitude": 139.45436,
     "address": "町田市原町田5-16",
     "link": "https://local.pokemon.jp/manhole/desc/101/",
-    "image": "images/manhole/101.png",
-    "location_ja": "Machida",
+    "image": "images/thumbs/101.png",
+    "location_ja": "町田市",
     "zone_en": "Tokyo",
-    "location_en": "Machida"
+    "location_en": "Machida",
+    "zone_ja": "東京都"
   },
   {
     "id": 102,
@@ -1562,10 +1659,11 @@
     "longitude": 139.45488,
     "address": "町田市原町田5-16",
     "link": "https://local.pokemon.jp/manhole/desc/102/",
-    "image": "images/manhole/102.png",
-    "location_ja": "Machida",
+    "image": "images/thumbs/102.png",
+    "location_ja": "町田市",
     "zone_en": "Tokyo",
-    "location_en": "Machida"
+    "location_en": "Machida",
+    "zone_ja": "東京都"
   },
   {
     "id": 103,
@@ -1578,10 +1676,11 @@
     "longitude": 139.45398,
     "address": "町田市原町田5-16",
     "link": "https://local.pokemon.jp/manhole/desc/103/",
-    "image": "images/manhole/103.png",
-    "location_ja": "Machida",
+    "image": "images/thumbs/103.png",
+    "location_ja": "町田市",
     "zone_en": "Tokyo",
-    "location_en": "Machida"
+    "location_en": "Machida",
+    "zone_ja": "東京都"
   },
   {
     "id": 104,
@@ -1594,10 +1693,11 @@
     "longitude": 135.8699,
     "address": "島の関14",
     "link": "https://local.pokemon.jp/manhole/desc/104/",
-    "image": "images/manhole/104.png",
-    "location_ja": "Otsu",
+    "image": "images/thumbs/104.png",
+    "location_ja": "大津市",
     "zone_en": "Shiga",
-    "location_en": "Otsu"
+    "location_en": "Otsu",
+    "zone_ja": "滋賀県"
   },
   {
     "id": 105,
@@ -1610,10 +1710,11 @@
     "longitude": 135.8946,
     "address": "由美浜",
     "link": "https://local.pokemon.jp/manhole/desc/105/",
-    "image": "images/manhole/105.png",
-    "location_ja": "Otsu",
+    "image": "images/thumbs/105.png",
+    "location_ja": "大津市",
     "zone_en": "Shiga",
-    "location_en": "Otsu"
+    "location_en": "Otsu",
+    "zone_ja": "滋賀県"
   },
   {
     "id": 106,
@@ -1626,10 +1727,11 @@
     "longitude": 134.226103,
     "address": "智頭町大字智頭2067-1",
     "link": "https://local.pokemon.jp/manhole/desc/106/",
-    "image": "images/manhole/106.png",
-    "location_ja": "Chizu",
+    "image": "images/thumbs/106.png",
+    "location_ja": "智頭町",
     "zone_en": "Tottori",
-    "location_en": "Chizu"
+    "location_en": "Chizu",
+    "zone_ja": "鳥取県"
   },
   {
     "id": 107,
@@ -1642,10 +1744,11 @@
     "longitude": 134.339426,
     "address": "八頭町徳丸625",
     "link": "https://local.pokemon.jp/manhole/desc/107/",
-    "image": "images/manhole/107.png",
-    "location_ja": "Yazu",
+    "image": "images/thumbs/107.png",
+    "location_ja": "八頭町",
     "zone_en": "Tottori",
-    "location_en": "Yazu"
+    "location_en": "Yazu",
+    "zone_ja": "鳥取県"
   },
   {
     "id": 108,
@@ -1658,10 +1761,11 @@
     "longitude": 133.81794,
     "address": "北栄町国坂1525-92",
     "link": "https://local.pokemon.jp/manhole/desc/108/",
-    "image": "images/manhole/108.png",
-    "location_ja": "Hokuei",
+    "image": "images/thumbs/108.png",
+    "location_ja": "北栄町",
     "zone_en": "Tottori",
-    "location_en": "Hokuei"
+    "location_en": "Hokuei",
+    "zone_ja": "鳥取県"
   },
   {
     "id": 109,
@@ -1674,10 +1778,11 @@
     "longitude": 133.379578,
     "address": "日吉津村大字日吉津930番地",
     "link": "https://local.pokemon.jp/manhole/desc/109/",
-    "image": "images/manhole/109.png",
-    "location_ja": "Hiezu",
+    "image": "images/thumbs/109.png",
+    "location_ja": "日吉津村",
     "zone_en": "Tottori",
-    "location_en": "Hiezu"
+    "location_en": "Hiezu",
+    "zone_ja": "鳥取県"
   },
   {
     "id": 110,
@@ -1690,10 +1795,11 @@
     "longitude": 133.474089,
     "address": "江府町佐川908-3",
     "link": "https://local.pokemon.jp/manhole/desc/110/",
-    "image": "images/manhole/110.png",
-    "location_ja": "Kofu",
+    "image": "images/thumbs/110.png",
+    "location_ja": "江府町",
     "zone_en": "Tottori",
-    "location_en": "Kofu"
+    "location_en": "Kofu",
+    "zone_ja": "鳥取県"
   },
   {
     "id": 111,
@@ -1706,10 +1812,11 @@
     "longitude": 131.457839,
     "address": "宮崎市大字加江田7275-1",
     "link": "https://local.pokemon.jp/manhole/desc/111/",
-    "image": "images/manhole/111.png",
-    "location_ja": "Miyazaki",
+    "image": "images/thumbs/111.png",
+    "location_ja": "宮崎市",
     "zone_en": "Miyazaki",
-    "location_en": "Miyazaki"
+    "location_en": "Miyazaki",
+    "zone_ja": "宮崎県"
   },
   {
     "id": 112,
@@ -1722,10 +1829,11 @@
     "longitude": 131.0661894,
     "address": "都城市天神町3",
     "link": "https://local.pokemon.jp/manhole/desc/112/",
-    "image": "images/manhole/112.png",
-    "location_ja": "Miyakonojo",
+    "image": "images/thumbs/112.png",
+    "location_ja": "都城市",
     "zone_en": "Miyazaki",
-    "location_en": "Miyakonojo"
+    "location_en": "Miyakonojo",
+    "zone_ja": "宮崎県"
   },
   {
     "id": 113,
@@ -1738,10 +1846,11 @@
     "longitude": 131.801103,
     "address": "延岡市北浦町古江3337-1",
     "link": "https://local.pokemon.jp/manhole/desc/113/",
-    "image": "images/manhole/113.png",
-    "location_ja": "Nobeoka",
+    "image": "images/thumbs/113.png",
+    "location_ja": "延岡市",
     "zone_en": "Miyazaki",
-    "location_en": "Nobeoka"
+    "location_en": "Nobeoka",
+    "zone_ja": "宮崎県"
   },
   {
     "id": 114,
@@ -1754,10 +1863,11 @@
     "longitude": 131.4017058,
     "address": "日南市材木町1-10",
     "link": "https://local.pokemon.jp/manhole/desc/114/",
-    "image": "images/manhole/114.png",
-    "location_ja": "Nichinan",
+    "image": "images/thumbs/114.png",
+    "location_ja": "日南市",
     "zone_en": "Miyazaki",
-    "location_en": "Nichinan"
+    "location_en": "Nichinan",
+    "zone_ja": "宮崎県"
   },
   {
     "id": 115,
@@ -1770,10 +1880,11 @@
     "longitude": 131.12641,
     "address": "小林市野尻町東麓5160番地",
     "link": "https://local.pokemon.jp/manhole/desc/115/",
-    "image": "images/manhole/115.png",
-    "location_ja": "Kobayashi",
+    "image": "images/thumbs/115.png",
+    "location_ja": "小林市",
     "zone_en": "Miyazaki",
-    "location_en": "Kobayashi"
+    "location_en": "Kobayashi",
+    "zone_ja": "宮崎県"
   },
   {
     "id": 116,
@@ -1786,10 +1897,11 @@
     "longitude": 131.6277364,
     "address": "日向市上町10736番15",
     "link": "https://local.pokemon.jp/manhole/desc/116/",
-    "image": "images/manhole/116.png",
-    "location_ja": "Hyuga",
+    "image": "images/thumbs/116.png",
+    "location_ja": "日向市",
     "zone_en": "Miyazaki",
-    "location_en": "Hyuga"
+    "location_en": "Hyuga",
+    "zone_ja": "宮崎県"
   },
   {
     "id": 117,
@@ -1802,10 +1914,11 @@
     "longitude": 131.332809,
     "address": "串間市大字大納42-3",
     "link": "https://local.pokemon.jp/manhole/desc/117/",
-    "image": "images/manhole/117.png",
-    "location_ja": "Kushima",
+    "image": "images/thumbs/117.png",
+    "location_ja": "串間市",
     "zone_en": "Miyazaki",
-    "location_en": "Kushima"
+    "location_en": "Kushima",
+    "zone_ja": "宮崎県"
   },
   {
     "id": 118,
@@ -1818,10 +1931,11 @@
     "longitude": 131.404508,
     "address": "西都市小野崎1丁目77番地",
     "link": "https://local.pokemon.jp/manhole/desc/118/",
-    "image": "images/manhole/118.png",
-    "location_ja": "Saito",
+    "image": "images/thumbs/118.png",
+    "location_ja": "西都市",
     "zone_en": "Miyazaki",
-    "location_en": "Saito"
+    "location_en": "Saito",
+    "zone_ja": "宮崎県"
   },
   {
     "id": 119,
@@ -1834,10 +1948,11 @@
     "longitude": 130.80595,
     "address": "えびの市大字永山1006番地1",
     "link": "https://local.pokemon.jp/manhole/desc/119/",
-    "image": "images/manhole/119.png",
-    "location_ja": "ebino",
+    "image": "images/thumbs/119.png",
+    "location_ja": "えびの市",
     "zone_en": "Miyazaki",
-    "location_en": "ebino"
+    "location_en": "ebino",
+    "zone_ja": "宮崎県"
   },
   {
     "id": 120,
@@ -1850,10 +1965,11 @@
     "longitude": 140.61735,
     "address": "白石市益岡町1-16",
     "link": "https://local.pokemon.jp/manhole/desc/120/",
-    "image": "images/manhole/120.png",
-    "location_ja": "Shiroishi",
+    "image": "images/thumbs/120.png",
+    "location_ja": "白石市",
     "zone_en": "Miyagi",
-    "location_en": "Shiroishi"
+    "location_en": "Shiroishi",
+    "zone_ja": "宮城県"
   },
   {
     "id": 121,
@@ -1866,10 +1982,11 @@
     "longitude": 140.807077,
     "address": "角田市枝野字北島81-1",
     "link": "https://local.pokemon.jp/manhole/desc/121/",
-    "image": "images/manhole/121.png",
-    "location_ja": "Kakuda",
+    "image": "images/thumbs/121.png",
+    "location_ja": "角田市",
     "zone_en": "Miyagi",
-    "location_en": "Kakuda"
+    "location_en": "Kakuda",
+    "zone_ja": "宮城県"
   },
   {
     "id": 122,
@@ -1882,10 +1999,11 @@
     "longitude": 141.235491,
     "address": "登米市米山町字桜岡貝待井581-2",
     "link": "https://local.pokemon.jp/manhole/desc/122/",
-    "image": "images/manhole/122.png",
-    "location_ja": "Tome",
+    "image": "images/thumbs/122.png",
+    "location_ja": "登米市",
     "zone_en": "Miyagi",
-    "location_en": "Tome"
+    "location_en": "Tome",
+    "zone_ja": "宮城県"
   },
   {
     "id": 123,
@@ -1898,10 +2016,11 @@
     "longitude": 140.844403,
     "address": "栗原市花山字本沢北ノ前112-1",
     "link": "https://local.pokemon.jp/manhole/desc/123/",
-    "image": "images/manhole/123.png",
-    "location_ja": "Kurihara",
+    "image": "images/thumbs/123.png",
+    "location_ja": "栗原市",
     "zone_en": "Miyagi",
-    "location_en": "Kurihara"
+    "location_en": "Kurihara",
+    "zone_ja": "宮城県"
   },
   {
     "id": 124,
@@ -1914,10 +2033,11 @@
     "longitude": 140.967465,
     "address": "大崎市古川駅前大通り1丁目５",
     "link": "https://local.pokemon.jp/manhole/desc/124/",
-    "image": "images/manhole/124.png",
-    "location_ja": "Osaki",
+    "image": "images/thumbs/124.png",
+    "location_ja": "大崎市（移設済※ポケストップは順次対応）",
     "zone_en": "Miyagi",
-    "location_en": "Osaki"
+    "location_en": "Osaki",
+    "zone_ja": "宮城県"
   },
   {
     "id": 125,
@@ -1930,10 +2050,11 @@
     "longitude": 140.8875,
     "address": "富谷市富谷新町111",
     "link": "https://local.pokemon.jp/manhole/desc/125/",
-    "image": "images/manhole/125.png",
-    "location_ja": "Tomiya",
+    "image": "images/thumbs/125.png",
+    "location_ja": "富谷市",
     "zone_en": "Miyagi",
-    "location_en": "Tomiya"
+    "location_en": "Tomiya",
+    "zone_ja": "宮城県"
   },
   {
     "id": 126,
@@ -1946,10 +2067,11 @@
     "longitude": 140.577192,
     "address": "蔵王町遠刈田温泉仲町34",
     "link": "https://local.pokemon.jp/manhole/desc/126/",
-    "image": "images/manhole/126.png",
-    "location_ja": "Zao",
+    "image": "images/thumbs/126.png",
+    "location_ja": "蔵王町",
     "zone_en": "Miyagi",
-    "location_en": "Zao"
+    "location_en": "Zao",
+    "zone_ja": "宮城県"
   },
   {
     "id": 127,
@@ -1962,10 +2084,11 @@
     "longitude": 140.46662,
     "address": "七ヶ宿町字上野8-1",
     "link": "https://local.pokemon.jp/manhole/desc/127/",
-    "image": "images/manhole/127.png",
-    "location_ja": "Shichikashuku",
+    "image": "images/thumbs/127.png",
+    "location_ja": "七ヶ宿町",
     "zone_en": "Miyagi",
-    "location_en": "Shichikashuku"
+    "location_en": "Shichikashuku",
+    "zone_ja": "宮城県"
   },
   {
     "id": 128,
@@ -1978,10 +2101,11 @@
     "longitude": 140.738089,
     "address": "大河原町大谷字町向116-26地先",
     "link": "https://local.pokemon.jp/manhole/desc/128/",
-    "image": "images/manhole/128.png",
-    "location_ja": "Ogawara",
+    "image": "images/thumbs/128.png",
+    "location_ja": "大河原町",
     "zone_en": "Miyagi",
-    "location_en": "Ogawara"
+    "location_en": "Ogawara",
+    "zone_ja": "宮城県"
   },
   {
     "id": 129,
@@ -1994,10 +2118,11 @@
     "longitude": 140.717821,
     "address": "村田町大字村田字北塩内41",
     "link": "https://local.pokemon.jp/manhole/desc/129/",
-    "image": "images/manhole/129.png",
-    "location_ja": "Murata",
+    "image": "images/thumbs/129.png",
+    "location_ja": "村田町",
     "zone_en": "Miyagi",
-    "location_en": "Murata"
+    "location_en": "Murata",
+    "zone_ja": "宮城県"
   },
   {
     "id": 130,
@@ -2010,10 +2135,11 @@
     "longitude": 140.768239,
     "address": "柴田町船岡中央1丁目1-1",
     "link": "https://local.pokemon.jp/manhole/desc/130/",
-    "image": "images/manhole/130.png",
-    "location_ja": "Shibata",
+    "image": "images/thumbs/130.png",
+    "location_ja": "柴田町",
     "zone_en": "Miyagi",
-    "location_en": "Shibata"
+    "location_en": "Shibata",
+    "zone_ja": "宮城県"
   },
   {
     "id": 131,
@@ -2026,10 +2152,11 @@
     "longitude": 140.643653,
     "address": "川崎町大字前川字裏丁175-1",
     "link": "https://local.pokemon.jp/manhole/desc/131/",
-    "image": "images/manhole/131.png",
-    "location_ja": "Kawasaki",
+    "image": "images/thumbs/131.png",
+    "location_ja": "川崎町",
     "zone_en": "Miyagi",
-    "location_en": "Kawasaki"
+    "location_en": "Kawasaki",
+    "zone_ja": "宮城県"
   },
   {
     "id": 132,
@@ -2042,10 +2169,11 @@
     "longitude": 140.762531,
     "address": "丸森町字町東77-1",
     "link": "https://local.pokemon.jp/manhole/desc/132/",
-    "image": "images/manhole/132.png",
-    "location_ja": "Marumori",
+    "image": "images/thumbs/132.png",
+    "location_ja": "丸森町",
     "zone_en": "Miyagi",
-    "location_en": "Marumori"
+    "location_en": "Marumori",
+    "zone_ja": "宮城県"
   },
   {
     "id": 133,
@@ -2058,10 +2186,11 @@
     "longitude": 140.885648,
     "address": "大和町吉岡まほろば一丁目1-1前",
     "link": "https://local.pokemon.jp/manhole/desc/133/",
-    "image": "images/manhole/133.png",
-    "location_ja": "Taiwa",
+    "image": "images/thumbs/133.png",
+    "location_ja": "大和町",
     "zone_en": "Miyagi",
-    "location_en": "Taiwa"
+    "location_en": "Taiwa",
+    "zone_ja": "宮城県"
   },
   {
     "id": 134,
@@ -2074,10 +2203,11 @@
     "longitude": 140.992673,
     "address": "大郷町中村字北浦51-6",
     "link": "https://local.pokemon.jp/manhole/desc/134/",
-    "image": "images/manhole/134.png",
-    "location_ja": "Osato",
+    "image": "images/thumbs/134.png",
+    "location_ja": "大郷町",
     "zone_en": "Miyagi",
-    "location_en": "Osato"
+    "location_en": "Osato",
+    "zone_ja": "宮城県"
   },
   {
     "id": 135,
@@ -2090,10 +2220,11 @@
     "longitude": 140.8902292,
     "address": "大衡村大衡字鐙沢12-2",
     "link": "https://local.pokemon.jp/manhole/desc/135/",
-    "image": "images/manhole/135.png",
-    "location_ja": "Ohira",
+    "image": "images/thumbs/135.png",
+    "location_ja": "大衡村",
     "zone_en": "Miyagi",
-    "location_en": "Ohira"
+    "location_en": "Ohira",
+    "zone_ja": "宮城県"
   },
   {
     "id": 136,
@@ -2106,10 +2237,11 @@
     "longitude": 140.86142,
     "address": "色麻町四竃字東原1-12",
     "link": "https://local.pokemon.jp/manhole/desc/136/",
-    "image": "images/manhole/136.png",
-    "location_ja": "shikam",
+    "image": "images/thumbs/136.png",
+    "location_ja": "色麻町",
     "zone_en": "Miyagi",
-    "location_en": "shikam"
+    "location_en": "shikam",
+    "zone_ja": "宮城県"
   },
   {
     "id": 137,
@@ -2122,10 +2254,11 @@
     "longitude": 140.72859,
     "address": "加美町味ヶ袋薬莱原1-76",
     "link": "https://local.pokemon.jp/manhole/desc/137/",
-    "image": "images/manhole/137.png",
-    "location_ja": "Kami",
+    "image": "images/thumbs/137.png",
+    "location_ja": "加美町",
     "zone_en": "Miyagi",
-    "location_en": "Kami"
+    "location_en": "Kami",
+    "zone_ja": "宮城県"
   },
   {
     "id": 138,
@@ -2138,10 +2271,11 @@
     "longitude": 141.1267433,
     "address": "涌谷町字新町裏110",
     "link": "https://local.pokemon.jp/manhole/desc/138/",
-    "image": "images/manhole/138.png",
-    "location_ja": "Wakuya",
+    "image": "images/thumbs/138.png",
+    "location_ja": "涌谷町",
     "zone_en": "Miyagi",
-    "location_en": "Wakuya"
+    "location_en": "Wakuya",
+    "zone_ja": "宮城県"
   },
   {
     "id": 139,
@@ -2154,10 +2288,11 @@
     "longitude": 141.133053,
     "address": "美里町木間塚原田5",
     "link": "https://local.pokemon.jp/manhole/desc/139/",
-    "image": "images/manhole/139.png",
-    "location_ja": "Misato",
+    "image": "images/thumbs/139.png",
+    "location_ja": "美里町",
     "zone_en": "Miyagi",
-    "location_en": "Misato"
+    "location_en": "Misato",
+    "zone_ja": "宮城県"
   },
   {
     "id": 140,
@@ -2170,10 +2305,11 @@
     "longitude": 141.61009,
     "address": "苫小牧市末広町3丁目1",
     "link": "https://local.pokemon.jp/manhole/desc/140/",
-    "image": "images/manhole/140.png",
-    "location_ja": "Tomakomai",
+    "image": "images/thumbs/140.png",
+    "location_ja": "苫小牧市",
     "zone_en": "Hokkaido",
-    "location_en": "Tomakomai"
+    "location_en": "Tomakomai",
+    "zone_ja": "北海道"
   },
   {
     "id": 141,
@@ -2186,10 +2322,11 @@
     "longitude": 141.9626673,
     "address": "三笠市幾春別錦町1-212-1",
     "link": "https://local.pokemon.jp/manhole/desc/141/",
-    "image": "images/manhole/141.png",
-    "location_ja": "Mikasa",
+    "image": "images/thumbs/141.png",
+    "location_ja": "三笠市",
     "zone_en": "Hokkaido",
-    "location_en": "Mikasa"
+    "location_en": "Mikasa",
+    "zone_ja": "北海道"
   },
   {
     "id": 142,
@@ -2202,10 +2339,11 @@
     "longitude": 142.479068,
     "address": "上富良野町東1線北27号",
     "link": "https://local.pokemon.jp/manhole/desc/142/",
-    "image": "images/manhole/142.png",
-    "location_ja": "Kamifurano",
+    "image": "images/thumbs/142.png",
+    "location_ja": "上富良野町",
     "zone_en": "Hokkaido",
-    "location_en": "Kamifurano"
+    "location_en": "Kamifurano",
+    "zone_ja": "北海道"
   },
   {
     "id": 143,
@@ -2218,10 +2356,11 @@
     "longitude": 142.3593096,
     "address": "剣淵町緑町15-3",
     "link": "https://local.pokemon.jp/manhole/desc/143/",
-    "image": "images/manhole/143.png",
-    "location_ja": "Kembuchi",
+    "image": "images/thumbs/143.png",
+    "location_ja": "剣淵町",
     "zone_en": "Hokkaido",
-    "location_en": "Kembuchi"
+    "location_en": "Kembuchi",
+    "zone_ja": "北海道"
   },
   {
     "id": 144,
@@ -2234,10 +2373,11 @@
     "longitude": 138.794792,
     "address": "小千谷市城内2-7-5",
     "link": "https://local.pokemon.jp/manhole/desc/144/",
-    "image": "images/manhole/144.png",
-    "location_ja": "Ojiya",
+    "image": "images/thumbs/144.png",
+    "location_ja": "小千谷市",
     "zone_en": "Niigata",
-    "location_en": "Ojiya"
+    "location_en": "Ojiya",
+    "zone_ja": "新潟県"
   },
   {
     "id": 145,
@@ -2250,10 +2390,11 @@
     "longitude": 138.812636,
     "address": "小千谷市東栄1-1付近",
     "link": "https://local.pokemon.jp/manhole/desc/145/",
-    "image": "images/manhole/145.png",
-    "location_ja": "Ojiya",
+    "image": "images/thumbs/145.png",
+    "location_ja": "小千谷市",
     "zone_en": "Niigata",
-    "location_en": "Ojiya"
+    "location_en": "Ojiya",
+    "zone_ja": "新潟県"
   },
   {
     "id": 146,
@@ -2266,10 +2407,11 @@
     "longitude": 138.795653,
     "address": "小千谷市城内1-8-22",
     "link": "https://local.pokemon.jp/manhole/desc/146/",
-    "image": "images/manhole/146.png",
-    "location_ja": "Ojiya",
+    "image": "images/thumbs/146.png",
+    "location_ja": "小千谷市",
     "zone_en": "Niigata",
-    "location_en": "Ojiya"
+    "location_en": "Ojiya",
+    "zone_ja": "新潟県"
   },
   {
     "id": 147,
@@ -2282,10 +2424,11 @@
     "longitude": 138.7835,
     "address": "小千谷市大字桜町4915",
     "link": "https://local.pokemon.jp/manhole/desc/147/",
-    "image": "images/manhole/147.png",
-    "location_ja": "Ojiya",
+    "image": "images/thumbs/147.png",
+    "location_ja": "小千谷市",
     "zone_en": "Niigata",
-    "location_en": "Ojiya"
+    "location_en": "Ojiya",
+    "zone_ja": "新潟県"
   },
   {
     "id": 148,
@@ -2298,10 +2441,11 @@
     "longitude": 135.73917,
     "address": "斑鳩町興留7丁目3番地内",
     "link": "https://local.pokemon.jp/manhole/desc/148/",
-    "image": "images/manhole/148.png",
-    "location_ja": "Ikaruga",
+    "image": "images/thumbs/148.png",
+    "location_ja": "斑鳩町",
     "zone_en": "Nara",
-    "location_en": "Ikaruga"
+    "location_en": "Ikaruga",
+    "zone_ja": "奈良県"
   },
   {
     "id": 149,
@@ -2314,10 +2458,11 @@
     "longitude": 135.7376,
     "address": "斑鳩町興留5丁目5番28号",
     "link": "https://local.pokemon.jp/manhole/desc/149/",
-    "image": "images/manhole/149.png",
-    "location_ja": "Ikaruga",
+    "image": "images/thumbs/149.png",
+    "location_ja": "斑鳩町",
     "zone_en": "Nara",
-    "location_en": "Ikaruga"
+    "location_en": "Ikaruga",
+    "zone_ja": "奈良県"
   },
   {
     "id": 150,
@@ -2330,10 +2475,11 @@
     "longitude": 135.73769,
     "address": "斑鳩町興留2丁目1番地内",
     "link": "https://local.pokemon.jp/manhole/desc/150/",
-    "image": "images/manhole/150.png",
-    "location_ja": "Ikaruga",
+    "image": "images/thumbs/150.png",
+    "location_ja": "斑鳩町",
     "zone_en": "Nara",
-    "location_en": "Ikaruga"
+    "location_en": "Ikaruga",
+    "zone_ja": "奈良県"
   },
   {
     "id": 151,
@@ -2346,10 +2492,11 @@
     "longitude": 135.73755,
     "address": "斑鳩町法隆寺南1丁目2番地内",
     "link": "https://local.pokemon.jp/manhole/desc/151/",
-    "image": "images/manhole/151.png",
-    "location_ja": "Ikaruga",
+    "image": "images/thumbs/151.png",
+    "location_ja": "斑鳩町",
     "zone_en": "Nara",
-    "location_en": "Ikaruga"
+    "location_en": "Ikaruga",
+    "zone_ja": "奈良県"
   },
   {
     "id": 152,
@@ -2362,10 +2509,11 @@
     "longitude": 135.73529,
     "address": "斑鳩町法隆寺1丁目8番25号",
     "link": "https://local.pokemon.jp/manhole/desc/152/",
-    "image": "images/manhole/152.png",
-    "location_ja": "Ikaruga",
+    "image": "images/thumbs/152.png",
+    "location_ja": "斑鳩町",
     "zone_en": "Nara",
-    "location_en": "Ikaruga"
+    "location_en": "Ikaruga",
+    "zone_ja": "奈良県"
   },
   {
     "id": 153,
@@ -2378,10 +2526,11 @@
     "longitude": 142.194033,
     "address": "小笠原村父島字東町",
     "link": "https://local.pokemon.jp/manhole/desc/153/",
-    "image": "images/manhole/153.png",
-    "location_ja": "Ogasawara",
+    "image": "images/thumbs/153.png",
+    "location_ja": "小笠原村",
     "zone_en": "Tokyo",
-    "location_en": "Ogasawara"
+    "location_en": "Ogasawara",
+    "zone_ja": "東京都"
   },
   {
     "id": 154,
@@ -2394,10 +2543,11 @@
     "longitude": 142.193279,
     "address": "小笠原村父島字東町",
     "link": "https://local.pokemon.jp/manhole/desc/154/",
-    "image": "images/manhole/154.png",
-    "location_ja": "Ogasawara",
+    "image": "images/thumbs/154.png",
+    "location_ja": "小笠原村",
     "zone_en": "Tokyo",
-    "location_en": "Ogasawara"
+    "location_en": "Ogasawara",
+    "zone_ja": "東京都"
   },
   {
     "id": 155,
@@ -2410,10 +2560,11 @@
     "longitude": 142.192781,
     "address": "小笠原村父島字東町",
     "link": "https://local.pokemon.jp/manhole/desc/155/",
-    "image": "images/manhole/155.png",
-    "location_ja": "Ogasawara",
+    "image": "images/thumbs/155.png",
+    "location_ja": "小笠原村",
     "zone_en": "Tokyo",
-    "location_en": "Ogasawara"
+    "location_en": "Ogasawara",
+    "zone_ja": "東京都"
   },
   {
     "id": 156,
@@ -2426,10 +2577,11 @@
     "longitude": 142.19235,
     "address": "小笠原村父島字東町",
     "link": "https://local.pokemon.jp/manhole/desc/156/",
-    "image": "images/manhole/156.png",
-    "location_ja": "Ogasawara",
+    "image": "images/thumbs/156.png",
+    "location_ja": "小笠原村",
     "zone_en": "Tokyo",
-    "location_en": "Ogasawara"
+    "location_en": "Ogasawara",
+    "zone_ja": "東京都"
   },
   {
     "id": 157,
@@ -2442,10 +2594,11 @@
     "longitude": 141.558034,
     "address": "八戸市大字鮫町鮫付近",
     "link": "https://local.pokemon.jp/manhole/desc/157/",
-    "image": "images/manhole/157.png",
-    "location_ja": "Hachinohe",
+    "image": "images/thumbs/157.png",
+    "location_ja": "八戸市",
     "zone_en": "Aomori",
-    "location_en": "Hachinohe"
+    "location_en": "Hachinohe",
+    "zone_ja": "青森県"
   },
   {
     "id": 158,
@@ -2458,10 +2611,11 @@
     "longitude": 141.608335,
     "address": "階上町大字道仏字耳ケ吠3-3",
     "link": "https://local.pokemon.jp/manhole/desc/158/",
-    "image": "images/manhole/158.png",
-    "location_ja": "Hashikami",
+    "image": "images/thumbs/158.png",
+    "location_ja": "階上町",
     "zone_en": "Aomori",
-    "location_en": "Hashikami"
+    "location_en": "Hashikami",
+    "zone_ja": "青森県"
   },
   {
     "id": 159,
@@ -2474,10 +2628,11 @@
     "longitude": 135.678745,
     "address": "京都市右京区嵯峨中ノ島町",
     "link": "https://local.pokemon.jp/manhole/desc/159/",
-    "image": "images/manhole/159.png",
-    "location_ja": "Kyoto",
+    "image": "images/thumbs/159.png",
+    "location_ja": "京都市",
     "zone_en": "Kyoto",
-    "location_en": "Kyoto"
+    "location_en": "Kyoto",
+    "zone_ja": "京都府"
   },
   {
     "id": 160,
@@ -2490,10 +2645,11 @@
     "longitude": 135.780573,
     "address": "京都市東山区円山町",
     "link": "https://local.pokemon.jp/manhole/desc/160/",
-    "image": "images/manhole/160.png",
-    "location_ja": "Kyoto",
+    "image": "images/thumbs/160.png",
+    "location_ja": "京都市",
     "zone_en": "Kyoto",
-    "location_en": "Kyoto"
+    "location_en": "Kyoto",
+    "zone_ja": "京都府"
   },
   {
     "id": 161,
@@ -2506,10 +2662,11 @@
     "longitude": 135.714323,
     "address": "京都市右京区西京極新明町",
     "link": "https://local.pokemon.jp/manhole/desc/161/",
-    "image": "images/manhole/161.png",
-    "location_ja": "Kyoto",
+    "image": "images/thumbs/161.png",
+    "location_ja": "京都市",
     "zone_en": "Kyoto",
-    "location_en": "Kyoto"
+    "location_en": "Kyoto",
+    "zone_ja": "京都府"
   },
   {
     "id": 162,
@@ -2522,10 +2679,11 @@
     "longitude": 135.782013,
     "address": "京都市左京区岡崎最勝寺町",
     "link": "https://local.pokemon.jp/manhole/desc/162/",
-    "image": "images/manhole/162.png",
-    "location_ja": "Kyoto",
+    "image": "images/thumbs/162.png",
+    "location_ja": "京都市",
     "zone_en": "Kyoto",
-    "location_en": "Kyoto"
+    "location_en": "Kyoto",
+    "zone_ja": "京都府"
   },
   {
     "id": 163,
@@ -2538,10 +2696,11 @@
     "longitude": 135.743538,
     "address": "京都市下京区観喜寺町",
     "link": "https://local.pokemon.jp/manhole/desc/163/",
-    "image": "images/manhole/163.png",
-    "location_ja": "Kyoto",
+    "image": "images/thumbs/163.png",
+    "location_ja": "京都市",
     "zone_en": "Kyoto",
-    "location_en": "Kyoto"
+    "location_en": "Kyoto",
+    "zone_ja": "京都府"
   },
   {
     "id": 164,
@@ -2554,10 +2713,11 @@
     "longitude": 131.120309,
     "address": "三股町大字樺山4421-22",
     "link": "https://local.pokemon.jp/manhole/desc/164/",
-    "image": "images/manhole/164.png",
-    "location_ja": "Mimata",
+    "image": "images/thumbs/164.png",
+    "location_ja": "三股町",
     "zone_en": "Miyazaki",
-    "location_en": "Mimata"
+    "location_en": "Mimata",
+    "zone_ja": "宮崎県"
   },
   {
     "id": 165,
@@ -2570,10 +2730,11 @@
     "longitude": 131.532841,
     "address": "高鍋町大字蚊口浦字蚊口6259-1",
     "link": "https://local.pokemon.jp/manhole/desc/165/",
-    "image": "images/manhole/165.png",
-    "location_ja": "Takanabe",
+    "image": "images/thumbs/165.png",
+    "location_ja": "高鍋町",
     "zone_en": "Miyazaki",
-    "location_en": "Takanabe"
+    "location_en": "Takanabe",
+    "zone_ja": "宮崎県"
   },
   {
     "id": 166,
@@ -2586,10 +2747,11 @@
     "longitude": 131.495719,
     "address": "新富町大字三納代1839（三納代広場）",
     "link": "https://local.pokemon.jp/manhole/desc/166/",
-    "image": "images/manhole/166.png",
-    "location_ja": "Shintomi",
+    "image": "images/thumbs/166.png",
+    "location_ja": "新富町",
     "zone_en": "Miyazaki",
-    "location_en": "Shintomi"
+    "location_en": "Shintomi",
+    "zone_ja": "宮崎県"
   },
   {
     "id": 167,
@@ -2602,10 +2764,11 @@
     "longitude": 131.4782857,
     "address": "木城町大字高城1403-1",
     "link": "https://local.pokemon.jp/manhole/desc/167/",
-    "image": "images/manhole/167.png",
-    "location_ja": "Kijo",
+    "image": "images/thumbs/167.png",
+    "location_ja": "木城町",
     "zone_en": "Miyazaki",
-    "location_en": "Kijo"
+    "location_en": "Kijo",
+    "zone_ja": "宮崎県"
   },
   {
     "id": 168,
@@ -2618,10 +2781,11 @@
     "longitude": 131.528984,
     "address": "川南町大字平田2386-3",
     "link": "https://local.pokemon.jp/manhole/desc/168/",
-    "image": "images/manhole/168.png",
-    "location_ja": "Kawaminami",
+    "image": "images/thumbs/168.png",
+    "location_ja": "川南町",
     "zone_en": "Miyazaki",
-    "location_en": "Kawaminami"
+    "location_en": "Kawaminami",
+    "zone_ja": "宮崎県"
   },
   {
     "id": 169,
@@ -2634,10 +2798,11 @@
     "longitude": 131.5575768,
     "address": "都農町大字川北5129",
     "link": "https://local.pokemon.jp/manhole/desc/169/",
-    "image": "images/manhole/169.png",
-    "location_ja": "Tsuno",
+    "image": "images/thumbs/169.png",
+    "location_ja": "都農町",
     "zone_en": "Miyazaki",
-    "location_en": "Tsuno"
+    "location_en": "Tsuno",
+    "zone_ja": "宮崎県"
   },
   {
     "id": 170,
@@ -2650,10 +2815,11 @@
     "longitude": 131.676733,
     "address": "門川町大字庵川2822",
     "link": "https://local.pokemon.jp/manhole/desc/170/",
-    "image": "images/manhole/170.png",
-    "location_ja": "Kadogawa",
+    "image": "images/thumbs/170.png",
+    "location_ja": "門川町",
     "zone_en": "Miyazaki",
-    "location_en": "Kadogawa"
+    "location_en": "Kadogawa",
+    "zone_ja": "宮崎県"
   },
   {
     "id": 171,
@@ -2666,10 +2832,11 @@
     "longitude": 131.467551,
     "address": "美郷町西郷田代5812-1",
     "link": "https://local.pokemon.jp/manhole/desc/171/",
-    "image": "images/manhole/171.png",
-    "location_ja": "Misato",
+    "image": "images/thumbs/171.png",
+    "location_ja": "三郷町",
     "zone_en": "Miyazaki",
-    "location_en": "Misato"
+    "location_en": "Misato",
+    "zone_ja": "宮崎県"
   },
   {
     "id": 172,
@@ -2682,10 +2849,11 @@
     "longitude": 139.776399,
     "address": "上野公園7-20",
     "link": "https://local.pokemon.jp/manhole/desc/172/",
-    "image": "images/manhole/172.png",
-    "location_ja": "Ueno",
+    "image": "images/thumbs/172.png",
+    "location_ja": "台東区",
     "zone_en": "Tokyo",
-    "location_en": "Ueno"
+    "location_en": "Ueno",
+    "zone_ja": "東京都"
   },
   {
     "id": 173,
@@ -2698,10 +2866,11 @@
     "longitude": 139.775397,
     "address": "上野公園13-9",
     "link": "https://local.pokemon.jp/manhole/desc/173/",
-    "image": "images/manhole/173.png",
-    "location_ja": "Ueno",
+    "image": "images/thumbs/173.png",
+    "location_ja": "台東区",
     "zone_en": "Tokyo",
-    "location_en": "Ueno"
+    "location_en": "Ueno",
+    "zone_ja": "東京都"
   },
   {
     "id": 174,
@@ -2714,10 +2883,11 @@
     "longitude": 127.68942,
     "address": "牧志3-2",
     "link": "https://local.pokemon.jp/manhole/desc/174/",
-    "image": "images/manhole/174.png",
-    "location_ja": "Naha",
+    "image": "images/thumbs/174.png",
+    "location_ja": "那覇市",
     "zone_en": "Okinawa",
-    "location_en": "Naha"
+    "location_en": "Naha",
+    "zone_ja": "沖縄県"
   },
   {
     "id": 175,
@@ -2730,10 +2900,11 @@
     "longitude": 127.7318125,
     "address": "真志喜4-2-1",
     "link": "https://local.pokemon.jp/manhole/desc/175/",
-    "image": "images/manhole/175.png",
-    "location_ja": "Ginowan",
+    "image": "images/thumbs/175.png",
+    "location_ja": "宜野湾市",
     "zone_en": "Okinawa",
-    "location_en": "Ginowan"
+    "location_en": "Ginowan",
+    "zone_ja": "沖縄県"
   },
   {
     "id": 176,
@@ -2746,10 +2917,11 @@
     "longitude": 127.803001,
     "address": "胡屋5-7-1",
     "link": "https://local.pokemon.jp/manhole/desc/176/",
-    "image": "images/manhole/176.png",
-    "location_ja": "Okinawa",
+    "image": "images/thumbs/176.png",
+    "location_ja": "沖縄市",
     "zone_en": "Okinawa",
-    "location_en": "Okinawa"
+    "location_en": "Okinawa",
+    "zone_ja": "沖縄県"
   },
   {
     "id": 177,
@@ -2762,10 +2934,11 @@
     "longitude": 127.826113,
     "address": "石川2316",
     "link": "https://local.pokemon.jp/manhole/desc/177/",
-    "image": "images/manhole/177.png",
-    "location_ja": "Uruma",
+    "image": "images/thumbs/177.png",
+    "location_ja": "うるま市",
     "zone_en": "Okinawa",
-    "location_en": "Uruma"
+    "location_en": "Uruma",
+    "zone_ja": "沖縄県"
   },
   {
     "id": 178,
@@ -2778,10 +2951,11 @@
     "longitude": 130.960187,
     "address": "高原町大字蒲牟田3-251",
     "link": "https://local.pokemon.jp/manhole/desc/178/",
-    "image": "images/manhole/178.png",
-    "location_ja": "Takaharu",
+    "image": "images/thumbs/178.png",
+    "location_ja": "高原町",
     "zone_en": "Miyazaki",
-    "location_en": "Takaharu"
+    "location_en": "Takaharu",
+    "zone_ja": "宮崎県"
   },
   {
     "id": 179,
@@ -2794,10 +2968,11 @@
     "longitude": 131.321916,
     "address": "国富町大字本庄4043-5",
     "link": "https://local.pokemon.jp/manhole/desc/179/",
-    "image": "images/manhole/179.png",
-    "location_ja": "Kunitomi",
+    "image": "images/thumbs/179.png",
+    "location_ja": "国富町",
     "zone_en": "Miyazaki",
-    "location_en": "Kunitomi"
+    "location_en": "Kunitomi",
+    "zone_ja": "宮崎県"
   },
   {
     "id": 180,
@@ -2810,10 +2985,11 @@
     "longitude": 131.2537536,
     "address": "綾町大字南俣515",
     "link": "https://local.pokemon.jp/manhole/desc/180/",
-    "image": "images/manhole/180.png",
-    "location_ja": "Aya",
+    "image": "images/thumbs/180.png",
+    "location_ja": "綾町",
     "zone_en": "Miyazaki",
-    "location_en": "Aya"
+    "location_en": "Aya",
+    "zone_ja": "宮崎県"
   },
   {
     "id": 181,
@@ -2826,10 +3002,11 @@
     "longitude": 131.16329,
     "address": "西米良村大字村所260-6",
     "link": "https://local.pokemon.jp/manhole/desc/181/",
-    "image": "images/manhole/181.png",
-    "location_ja": "Nishimera",
+    "image": "images/thumbs/181.png",
+    "location_ja": "西米良村",
     "zone_en": "Miyazaki",
-    "location_en": "Nishimera"
+    "location_en": "Nishimera",
+    "zone_ja": "宮崎県"
   },
   {
     "id": 182,
@@ -2842,10 +3019,11 @@
     "longitude": 131.331498,
     "address": "諸塚村大字家代2640-18",
     "link": "https://local.pokemon.jp/manhole/desc/182/",
-    "image": "images/manhole/182.png",
-    "location_ja": "Morotsuka",
+    "image": "images/thumbs/182.png",
+    "location_ja": "諸塚村",
     "zone_en": "Miyazaki",
-    "location_en": "Morotsuka"
+    "location_en": "Morotsuka",
+    "zone_ja": "宮崎県"
   },
   {
     "id": 183,
@@ -2858,10 +3036,11 @@
     "longitude": 131.153831,
     "address": "椎葉村大字下福良1829-57",
     "link": "https://local.pokemon.jp/manhole/desc/183/",
-    "image": "images/manhole/183.png",
-    "location_ja": "Shiiba",
+    "image": "images/thumbs/183.png",
+    "location_ja": "椎葉村",
     "zone_en": "Miyazaki",
-    "location_en": "Shiiba"
+    "location_en": "Shiiba",
+    "zone_ja": "宮崎県"
   },
   {
     "id": 184,
@@ -2874,10 +3053,11 @@
     "longitude": 131.305889,
     "address": "高千穂町大字三田井1099-1",
     "link": "https://local.pokemon.jp/manhole/desc/184/",
-    "image": "images/manhole/184.png",
-    "location_ja": "Takachiho",
+    "image": "images/thumbs/184.png",
+    "location_ja": "高千穂町",
     "zone_en": "Miyazaki",
-    "location_en": "Takachiho"
+    "location_en": "Takachiho",
+    "zone_ja": "宮崎県"
   },
   {
     "id": 185,
@@ -2890,10 +3070,11 @@
     "longitude": 131.388639,
     "address": "日之影町大字七折8705-12",
     "link": "https://local.pokemon.jp/manhole/desc/185/",
-    "image": "images/manhole/185.png",
-    "location_ja": "Hinokage",
+    "image": "images/thumbs/185.png",
+    "location_ja": "日之影町",
     "zone_en": "Miyazaki",
-    "location_en": "Hinokage"
+    "location_en": "Hinokage",
+    "zone_ja": "宮崎県"
   },
   {
     "id": 186,
@@ -2906,10 +3087,11 @@
     "longitude": 131.210041,
     "address": "五ヶ瀬町三ヶ所9400 Gパーク五ヶ瀬町総合公園内",
     "link": "https://local.pokemon.jp/manhole/desc/186/",
-    "image": "images/manhole/186.png",
-    "location_ja": "Gokase",
+    "image": "images/thumbs/186.png",
+    "location_ja": "五ヶ瀬町",
     "zone_en": "Miyazaki",
-    "location_en": "Gokase"
+    "location_en": "Gokase",
+    "zone_ja": "宮崎県"
   },
   {
     "id": 187,
@@ -2922,10 +3104,11 @@
     "longitude": 140.715684,
     "address": "函館市青柳町17",
     "link": "https://local.pokemon.jp/manhole/desc/187/",
-    "image": "images/manhole/187.png",
-    "location_ja": "Hakodate",
+    "image": "images/thumbs/187.png",
+    "location_ja": "函館市",
     "zone_en": "Hokkaido",
-    "location_en": "Hakodate"
+    "location_en": "Hakodate",
+    "zone_ja": "北海道"
   },
   {
     "id": 188,
@@ -2938,10 +3121,11 @@
     "longitude": 140.998285,
     "address": "小樽市稲穂1-4-14付近　サンモール一番街内",
     "link": "https://local.pokemon.jp/manhole/desc/188/",
-    "image": "images/manhole/188.png",
-    "location_ja": "Otaru",
+    "image": "images/thumbs/188.png",
+    "location_ja": "小樽市",
     "zone_en": "Hokkaido",
-    "location_en": "Otaru"
+    "location_en": "Otaru",
+    "zone_ja": "北海道"
   },
   {
     "id": 189,
@@ -2954,10 +3138,11 @@
     "longitude": 145.598194,
     "address": "根室市常盤町2-27",
     "link": "https://local.pokemon.jp/manhole/desc/189/",
-    "image": "images/manhole/189.png",
-    "location_ja": "Nemuro",
+    "image": "images/thumbs/189.png",
+    "location_ja": "根室市",
     "zone_en": "Hokkaido",
-    "location_en": "Nemuro"
+    "location_en": "Nemuro",
+    "zone_ja": "北海道"
   },
   {
     "id": 190,
@@ -2970,10 +3155,11 @@
     "longitude": 141.180999,
     "address": "登別市登別港町１丁目4-9",
     "link": "https://local.pokemon.jp/manhole/desc/190/",
-    "image": "images/manhole/190.png",
-    "location_ja": "Noboribetsu",
+    "image": "images/thumbs/190.png",
+    "location_ja": "登別市",
     "zone_en": "Hokkaido",
-    "location_en": "Noboribetsu"
+    "location_en": "Noboribetsu",
+    "zone_ja": "北海道"
   },
   {
     "id": 191,
@@ -2986,10 +3172,11 @@
     "longitude": 143.613441,
     "address": "本別町北3丁目1-2",
     "link": "https://local.pokemon.jp/manhole/desc/191/",
-    "image": "images/manhole/191.png",
-    "location_ja": "Honbetsu",
+    "image": "images/thumbs/191.png",
+    "location_ja": "本別町",
     "zone_en": "Hokkaido",
-    "location_en": "Honbetsu"
+    "location_en": "Honbetsu",
+    "zone_ja": "北海道"
   },
   {
     "id": 192,
@@ -3002,10 +3189,11 @@
     "longitude": 143.742721,
     "address": "陸別町字陸別原野基線69-1",
     "link": "https://local.pokemon.jp/manhole/desc/192/",
-    "image": "images/manhole/192.png",
-    "location_ja": "Rikubetsu",
+    "image": "images/thumbs/192.png",
+    "location_ja": "陸別町",
     "zone_en": "Hokkaido",
-    "location_en": "Rikubetsu"
+    "location_en": "Rikubetsu",
+    "zone_ja": "北海道"
   },
   {
     "id": 193,
@@ -3018,10 +3206,11 @@
     "longitude": 144.969609,
     "address": "中標津町丸山2-1-18",
     "link": "https://local.pokemon.jp/manhole/desc/193/",
-    "image": "images/manhole/193.png",
-    "location_ja": "Nakashibetsu",
+    "image": "images/thumbs/193.png",
+    "location_ja": "中標津町",
     "zone_en": "Hokkaido",
-    "location_en": "Nakashibetsu"
+    "location_en": "Nakashibetsu",
+    "zone_ja": "北海道"
   },
   {
     "id": 194,
@@ -3034,10 +3223,11 @@
     "longitude": 133.81388,
     "address": "倉敷市下津井田之浦1-1",
     "link": "https://local.pokemon.jp/manhole/desc/194/",
-    "image": "images/manhole/194.png",
-    "location_ja": "Kurashiki",
+    "image": "images/thumbs/194.png",
+    "location_ja": "倉敷市",
     "zone_en": "Okayama",
-    "location_en": "Kurashiki"
+    "location_en": "Kurashiki",
+    "zone_ja": "岡山県"
   },
   {
     "id": 195,
@@ -3050,10 +3240,11 @@
     "longitude": 133.76888,
     "address": "倉敷市中央2-6-1",
     "link": "https://local.pokemon.jp/manhole/desc/195/",
-    "image": "images/manhole/195.png",
-    "location_ja": "Kurashiki",
+    "image": "images/thumbs/195.png",
+    "location_ja": "倉敷市",
     "zone_en": "Okayama",
-    "location_en": "Kurashiki"
+    "location_en": "Kurashiki",
+    "zone_ja": "岡山県"
   },
   {
     "id": 196,
@@ -3066,10 +3257,11 @@
     "longitude": 133.77046,
     "address": "倉敷市中央1-18-1",
     "link": "https://local.pokemon.jp/manhole/desc/196/",
-    "image": "images/manhole/196.png",
-    "location_ja": "Kurashiki",
+    "image": "images/thumbs/196.png",
+    "location_ja": "倉敷市",
     "zone_en": "Okayama",
-    "location_en": "Kurashiki"
+    "location_en": "Kurashiki",
+    "zone_ja": "岡山県"
   },
   {
     "id": 197,
@@ -3082,10 +3274,11 @@
     "longitude": 133.77029,
     "address": "倉敷市阿知2-17",
     "link": "https://local.pokemon.jp/manhole/desc/197/",
-    "image": "images/manhole/197.png",
-    "location_ja": "Kurashiki",
+    "image": "images/thumbs/197.png",
+    "location_ja": "倉敷市",
     "zone_en": "Okayama",
-    "location_en": "Kurashiki"
+    "location_en": "Kurashiki",
+    "zone_ja": "岡山県"
   },
   {
     "id": 198,
@@ -3098,10 +3291,11 @@
     "longitude": 130.876213,
     "address": "北九州市小倉北区室町一丁目1　リバーウォーク北九州",
     "link": "https://local.pokemon.jp/manhole/desc/198/",
-    "image": "images/manhole/198.png",
-    "location_ja": "Kitakyushu",
+    "image": "images/thumbs/198.png",
+    "location_ja": "北九州市",
     "zone_en": "Fukuoka",
-    "location_en": "Kitakyushu"
+    "location_en": "Kitakyushu",
+    "zone_ja": "福岡県"
   },
   {
     "id": 199,
@@ -3114,10 +3308,11 @@
     "longitude": 130.884609,
     "address": "北九州市小倉北区浅野三丁目5　あさの汐風公園",
     "link": "https://local.pokemon.jp/manhole/desc/199/",
-    "image": "images/manhole/199.png",
-    "location_ja": "Kitakyushu",
+    "image": "images/thumbs/199.png",
+    "location_ja": "北九州市",
     "zone_en": "Fukuoka",
-    "location_en": "Kitakyushu"
+    "location_en": "Kitakyushu",
+    "zone_ja": "福岡県"
   },
   {
     "id": 200,
@@ -3130,10 +3325,11 @@
     "longitude": 130.807892,
     "address": "北九州市八幡東区東田二丁目3　東田エリア",
     "link": "https://local.pokemon.jp/manhole/desc/200/",
-    "image": "images/manhole/200.png",
-    "location_ja": "Kitakyushu",
+    "image": "images/thumbs/200.png",
+    "location_ja": "北九州市",
     "zone_en": "Fukuoka",
-    "location_en": "Kitakyushu"
+    "location_en": "Kitakyushu",
+    "zone_ja": "福岡県"
   },
   {
     "id": 201,
@@ -3146,10 +3342,11 @@
     "longitude": 130.964119,
     "address": "北九州市門司区港町5　門司港レトロ地区",
     "link": "https://local.pokemon.jp/manhole/desc/201/",
-    "image": "images/manhole/201.png",
-    "location_ja": "Kitakyushu",
+    "image": "images/thumbs/201.png",
+    "location_ja": "北九州市",
     "zone_en": "Fukuoka",
-    "location_en": "Kitakyushu"
+    "location_en": "Kitakyushu",
+    "zone_ja": "福岡県"
   },
   {
     "id": 202,
@@ -3162,10 +3359,11 @@
     "longitude": 130.96161,
     "address": "北九州市門司区旧門司二丁目5　ノーフォーク広場",
     "link": "https://local.pokemon.jp/manhole/desc/202/",
-    "image": "images/manhole/202.png",
-    "location_ja": "Kitakyushu",
+    "image": "images/thumbs/202.png",
+    "location_ja": "北九州市",
     "zone_en": "Fukuoka",
-    "location_en": "Kitakyushu"
+    "location_en": "Kitakyushu",
+    "zone_ja": "福岡県"
   },
   {
     "id": 203,
@@ -3178,10 +3376,11 @@
     "longitude": 135.009441,
     "address": "淡路市岩屋1873-1",
     "link": "https://local.pokemon.jp/manhole/desc/203/",
-    "image": "images/manhole/203.png",
-    "location_ja": "Awaji",
+    "image": "images/thumbs/203.png",
+    "location_ja": "淡路市",
     "zone_en": "Hyogo",
-    "location_en": "Awaji"
+    "location_en": "Awaji",
+    "zone_ja": "兵庫県"
   },
   {
     "id": 204,
@@ -3194,10 +3393,11 @@
     "longitude": 134.938094,
     "address": "淡路市小倉177",
     "link": "https://local.pokemon.jp/manhole/desc/204/",
-    "image": "images/manhole/204.png",
-    "location_ja": "Awaji",
+    "image": "images/thumbs/204.png",
+    "location_ja": "淡路市",
     "zone_en": "Hyogo",
-    "location_en": "Awaji"
+    "location_en": "Awaji",
+    "zone_ja": "兵庫県"
   },
   {
     "id": 205,
@@ -3210,10 +3410,11 @@
     "longitude": 134.873103,
     "address": "淡路市尾崎3025-1",
     "link": "https://local.pokemon.jp/manhole/desc/205/",
-    "image": "images/manhole/205.png",
-    "location_ja": "Awaji",
+    "image": "images/thumbs/205.png",
+    "location_ja": "淡路市",
     "zone_en": "Hyogo",
-    "location_en": "Awaji"
+    "location_en": "Awaji",
+    "zone_ja": "兵庫県"
   },
   {
     "id": 206,
@@ -3226,10 +3427,11 @@
     "longitude": 135.601221,
     "address": "東大阪市荒本北1丁目1番1号",
     "link": "https://local.pokemon.jp/manhole/desc/206/",
-    "image": "images/manhole/206.png",
-    "location_ja": "Higashiosaka",
+    "image": "images/thumbs/206.png",
+    "location_ja": "東大阪市",
     "zone_en": "Osaka",
-    "location_en": "Higashiosaka"
+    "location_en": "Higashiosaka",
+    "zone_ja": "大阪府"
   },
   {
     "id": 207,
@@ -3242,10 +3444,11 @@
     "longitude": 135.63989,
     "address": "東大阪市旭町1番1号",
     "link": "https://local.pokemon.jp/manhole/desc/207/",
-    "image": "images/manhole/207.png",
-    "location_ja": "Higashiosaka",
+    "image": "images/thumbs/207.png",
+    "location_ja": "東大阪市",
     "zone_en": "Osaka",
-    "location_en": "Higashiosaka"
+    "location_en": "Higashiosaka",
+    "zone_ja": "大阪府"
   },
   {
     "id": 208,
@@ -3258,10 +3461,11 @@
     "longitude": 135.650788,
     "address": "東大阪市東石切町2-4",
     "link": "https://local.pokemon.jp/manhole/desc/208/",
-    "image": "images/manhole/208.png",
-    "location_ja": "Higashiosaka",
+    "image": "images/thumbs/208.png",
+    "location_ja": "東大阪市",
     "zone_en": "Osaka",
-    "location_en": "Higashiosaka"
+    "location_en": "Higashiosaka",
+    "zone_ja": "大阪府"
   },
   {
     "id": 209,
@@ -3274,10 +3478,11 @@
     "longitude": 135.626309,
     "address": "東大阪市松原南1-1",
     "link": "https://local.pokemon.jp/manhole/desc/209/",
-    "image": "images/manhole/209.png",
-    "location_ja": "Higashiosaka",
+    "image": "images/thumbs/209.png",
+    "location_ja": "東大阪市",
     "zone_en": "Osaka",
-    "location_en": "Higashiosaka"
+    "location_en": "Higashiosaka",
+    "zone_ja": "大阪府"
   },
   {
     "id": 210,
@@ -3290,10 +3495,11 @@
     "longitude": 135.630586,
     "address": "東大阪市松原南2-6",
     "link": "https://local.pokemon.jp/manhole/desc/210/",
-    "image": "images/manhole/210.png",
-    "location_ja": "Higashiosaka",
+    "image": "images/thumbs/210.png",
+    "location_ja": "東大阪市",
     "zone_en": "Osaka",
-    "location_en": "Higashiosaka"
+    "location_en": "Higashiosaka",
+    "zone_ja": "大阪府"
   },
   {
     "id": 211,
@@ -3306,10 +3512,11 @@
     "longitude": 139.505528,
     "address": "所沢市松郷143-3",
     "link": "https://local.pokemon.jp/manhole/desc/211/",
-    "image": "images/manhole/211.png",
-    "location_ja": "Tokorozawa",
+    "image": "images/thumbs/211.png",
+    "location_ja": "所沢市",
     "zone_en": "Saitama",
-    "location_en": "Tokorozawa"
+    "location_en": "Tokorozawa",
+    "zone_ja": "埼玉県"
   },
   {
     "id": 212,
@@ -3322,10 +3529,11 @@
     "longitude": 139.472881,
     "address": "所沢市日吉町1",
     "link": "https://local.pokemon.jp/manhole/desc/212/",
-    "image": "images/manhole/212.png",
-    "location_ja": "Tokorozawa",
+    "image": "images/thumbs/212.png",
+    "location_ja": "所沢市",
     "zone_en": "Saitama",
-    "location_en": "Tokorozawa"
+    "location_en": "Tokorozawa",
+    "zone_ja": "埼玉県"
   },
   {
     "id": 213,
@@ -3338,10 +3546,11 @@
     "longitude": 139.471991,
     "address": "所沢市並木1-13",
     "link": "https://local.pokemon.jp/manhole/desc/213/",
-    "image": "images/manhole/213.png",
-    "location_ja": "Tokorozawa",
+    "image": "images/thumbs/213.png",
+    "location_ja": "所沢市",
     "zone_en": "Saitama",
-    "location_en": "Tokorozawa"
+    "location_en": "Tokorozawa",
+    "zone_ja": "埼玉県"
   },
   {
     "id": 214,
@@ -3354,10 +3563,11 @@
     "longitude": 142.3485094,
     "address": "旭川市神楽4条6丁目1-12",
     "link": "https://local.pokemon.jp/manhole/desc/214/",
-    "image": "images/manhole/214.png",
-    "location_ja": "Asahikawa",
+    "image": "images/thumbs/214.png",
+    "location_ja": "旭川市",
     "zone_en": "Hokkaido",
-    "location_en": "Asahikawa"
+    "location_en": "Asahikawa",
+    "zone_ja": "北海道"
   },
   {
     "id": 215,
@@ -3370,10 +3580,11 @@
     "longitude": 144.14549,
     "address": "釧路市阿寒町上阿寒23線36番地1",
     "link": "https://local.pokemon.jp/manhole/desc/215/",
-    "image": "images/manhole/215.png",
-    "location_ja": "Kushiro",
+    "image": "images/thumbs/215.png",
+    "location_ja": "釧路市",
     "zone_en": "Hokkaido",
-    "location_en": "Kushiro"
+    "location_en": "Kushiro",
+    "zone_ja": "北海道"
   },
   {
     "id": 216,
@@ -3386,10 +3597,11 @@
     "longitude": 143.202563,
     "address": "帯広市西2条南12丁目6",
     "link": "https://local.pokemon.jp/manhole/desc/216/",
-    "image": "images/manhole/216.png",
-    "location_ja": "Obihiro",
+    "image": "images/thumbs/216.png",
+    "location_ja": "帯広市",
     "zone_en": "Hokkaido",
-    "location_en": "Obihiro"
+    "location_en": "Obihiro",
+    "zone_ja": "北海道"
   },
   {
     "id": 217,
@@ -3402,10 +3614,11 @@
     "longitude": 144.274423,
     "address": "網走市南3条東4丁目5-1",
     "link": "https://local.pokemon.jp/manhole/desc/217/",
-    "image": "images/manhole/217.png",
-    "location_ja": "Abashiri",
+    "image": "images/thumbs/217.png",
+    "location_ja": "網走市",
     "zone_en": "Hokkaido",
-    "location_en": "Abashiri"
+    "location_en": "Abashiri",
+    "zone_ja": "北海道"
   },
   {
     "id": 218,
@@ -3418,10 +3631,11 @@
     "longitude": 140.844262,
     "address": "赤井川村字都190番地16",
     "link": "https://local.pokemon.jp/manhole/desc/218/",
-    "image": "images/manhole/218.png",
-    "location_ja": "Akaigawa",
+    "image": "images/thumbs/218.png",
+    "location_ja": "赤井川村",
     "zone_en": "Hokkaido",
-    "location_en": "Akaigawa"
+    "location_en": "Akaigawa",
+    "zone_ja": "北海道"
   },
   {
     "id": 219,
@@ -3434,10 +3648,11 @@
     "longitude": 142.507039,
     "address": "東川町北町1丁目1番2号",
     "link": "https://local.pokemon.jp/manhole/desc/219/",
-    "image": "images/manhole/219.png",
-    "location_ja": "Higashikawa",
+    "image": "images/thumbs/219.png",
+    "location_ja": "東川町",
     "zone_en": "Hokkaido",
-    "location_en": "Higashikawa"
+    "location_en": "Higashikawa",
+    "zone_ja": "北海道"
   },
   {
     "id": 220,
@@ -3450,10 +3665,11 @@
     "longitude": 144.99062,
     "address": "斜里町ウトロ西186番地8",
     "link": "https://local.pokemon.jp/manhole/desc/220/",
-    "image": "images/manhole/220.png",
-    "location_ja": "Shari",
+    "image": "images/thumbs/220.png",
+    "location_ja": "斜里町",
     "zone_en": "Hokkaido",
-    "location_en": "Shari"
+    "location_en": "Shari",
+    "zone_ja": "北海道"
   },
   {
     "id": 221,
@@ -3466,10 +3682,11 @@
     "longitude": 143.14619,
     "address": "えりも町字本町53-1",
     "link": "https://local.pokemon.jp/manhole/desc/221/",
-    "image": "images/manhole/221.png",
-    "location_ja": "Erimo",
+    "image": "images/thumbs/221.png",
+    "location_ja": "えりも町",
     "zone_en": "Hokkaido",
-    "location_en": "Erimo"
+    "location_en": "Erimo",
+    "zone_ja": "北海道"
   },
   {
     "id": 222,
@@ -3482,10 +3699,11 @@
     "longitude": 140.493902,
     "address": "香取市佐原イ109-14",
     "link": "https://local.pokemon.jp/manhole/desc/222/",
-    "image": "images/manhole/222.png",
-    "location_ja": "Katori",
+    "image": "images/thumbs/222.png",
+    "location_ja": "香取市",
     "zone_en": "Chiba",
-    "location_en": "Katori"
+    "location_en": "Katori",
+    "zone_ja": "千葉県"
   },
   {
     "id": 223,
@@ -3498,10 +3716,11 @@
     "longitude": 140.497568,
     "address": "香取市佐原イ1722-1",
     "link": "https://local.pokemon.jp/manhole/desc/223/",
-    "image": "images/manhole/223.png",
-    "location_ja": "Katori",
+    "image": "images/thumbs/223.png",
+    "location_ja": "香取市",
     "zone_en": "Chiba",
-    "location_en": "Katori"
+    "location_en": "Katori",
+    "zone_ja": "千葉県"
   },
   {
     "id": 224,
@@ -3514,10 +3733,11 @@
     "longitude": 140.523401,
     "address": "香取市佐原ハ4549-1",
     "link": "https://local.pokemon.jp/manhole/desc/224/",
-    "image": "images/manhole/224.png",
-    "location_ja": "Katori",
+    "image": "images/thumbs/224.png",
+    "location_ja": "香取市",
     "zone_en": "Chiba",
-    "location_en": "Katori"
+    "location_en": "Katori",
+    "zone_ja": "千葉県"
   },
   {
     "id": 225,
@@ -3530,10 +3750,11 @@
     "longitude": 140.506419,
     "address": "香取市佐原イ4053-3",
     "link": "https://local.pokemon.jp/manhole/desc/225/",
-    "image": "images/manhole/225.png",
-    "location_ja": "Katori",
+    "image": "images/thumbs/225.png",
+    "location_ja": "香取市",
     "zone_en": "Chiba",
-    "location_en": "Katori"
+    "location_en": "Katori",
+    "zone_ja": "千葉県"
   },
   {
     "id": 226,
@@ -3546,10 +3767,11 @@
     "longitude": 139.908695,
     "address": "元今泉5丁目10－1",
     "link": "https://local.pokemon.jp/manhole/desc/226/",
-    "image": "images/manhole/226.png",
-    "location_ja": "Utsunomiya",
+    "image": "images/thumbs/226.png",
+    "location_ja": "宇都宮市",
     "zone_en": "Tochigi",
-    "location_en": "Utsunomiya"
+    "location_en": "Utsunomiya",
+    "zone_ja": "栃木県"
   },
   {
     "id": 227,
@@ -3562,10 +3784,11 @@
     "longitude": 139.83098,
     "address": "新里町丙254番地",
     "link": "https://local.pokemon.jp/manhole/desc/227/",
-    "image": "images/manhole/227.png",
-    "location_ja": "Utsunomiya",
+    "image": "images/thumbs/227.png",
+    "location_ja": "宇都宮市",
     "zone_en": "Tochigi",
-    "location_en": "Utsunomiya"
+    "location_en": "Utsunomiya",
+    "zone_ja": "栃木県"
   },
   {
     "id": 228,
@@ -3578,10 +3801,11 @@
     "longitude": 139.887334,
     "address": "大曽2丁目地内",
     "link": "https://local.pokemon.jp/manhole/desc/228/",
-    "image": "images/manhole/228.png",
-    "location_ja": "Utsunomiya",
+    "image": "images/thumbs/228.png",
+    "location_ja": "宇都宮市",
     "zone_en": "Tochigi",
-    "location_en": "Utsunomiya"
+    "location_en": "Utsunomiya",
+    "zone_ja": "栃木県"
   },
   {
     "id": 229,
@@ -3594,10 +3818,11 @@
     "longitude": 127.687899,
     "address": "勢理客4-14-1",
     "link": "https://local.pokemon.jp/manhole/desc/229/",
-    "image": "images/manhole/229.png",
-    "location_ja": "Urasoe",
+    "image": "images/thumbs/229.png",
+    "location_ja": "浦添市",
     "zone_en": "Okinawa",
-    "location_en": "Urasoe"
+    "location_en": "Urasoe",
+    "zone_ja": "沖縄県"
   },
   {
     "id": 230,
@@ -3610,10 +3835,11 @@
     "longitude": 127.985744,
     "address": "城二丁目321番3",
     "link": "https://local.pokemon.jp/manhole/desc/230/",
-    "image": "images/manhole/230.png",
-    "location_ja": "Nago",
+    "image": "images/thumbs/230.png",
+    "location_ja": "名護市",
     "zone_en": "Okinawa",
-    "location_en": "Nago"
+    "location_en": "Nago",
+    "zone_ja": "沖縄県"
   },
   {
     "id": 231,
@@ -3626,10 +3852,11 @@
     "longitude": 127.661336,
     "address": "西崎町4丁目19-1",
     "link": "https://local.pokemon.jp/manhole/desc/231/",
-    "image": "images/manhole/231.png",
-    "location_ja": "Itoman",
+    "image": "images/thumbs/231.png",
+    "location_ja": "糸満市",
     "zone_en": "Okinawa",
-    "location_en": "Itoman"
+    "location_en": "Itoman",
+    "zone_ja": "沖縄県"
   },
   {
     "id": 232,
@@ -3642,10 +3869,11 @@
     "longitude": 127.877972,
     "address": "字石川　海洋博公園地内",
     "link": "https://local.pokemon.jp/manhole/desc/232/",
-    "image": "images/manhole/232.png",
-    "location_ja": "Motobu",
+    "image": "images/thumbs/232.png",
+    "location_ja": "本部町",
     "zone_en": "Okinawa",
-    "location_en": "Motobu"
+    "location_en": "Motobu",
+    "zone_ja": "沖縄県"
   },
   {
     "id": 233,
@@ -3658,10 +3886,11 @@
     "longitude": 127.656121,
     "address": "宜保一丁目1番地1",
     "link": "https://local.pokemon.jp/manhole/desc/233/",
-    "image": "images/manhole/233.png",
-    "location_ja": "Tomigusuku",
+    "image": "images/thumbs/233.png",
+    "location_ja": "豊見城市",
     "zone_en": "Okinawa",
-    "location_en": "Tomigusuku"
+    "location_en": "Tomigusuku",
+    "zone_ja": "沖縄県"
   },
   {
     "id": 234,
@@ -3674,10 +3903,11 @@
     "longitude": 127.827083,
     "address": "知念久手堅541",
     "link": "https://local.pokemon.jp/manhole/desc/234/",
-    "image": "images/manhole/234.png",
-    "location_ja": "Nanjo",
+    "image": "images/thumbs/234.png",
+    "location_ja": "南城市",
     "zone_en": "Okinawa",
-    "location_en": "Nanjo"
+    "location_en": "Nanjo",
+    "zone_ja": "沖縄県"
   },
   {
     "id": 235,
@@ -3690,10 +3920,11 @@
     "longitude": 124.156947,
     "address": "美崎町1",
     "link": "https://local.pokemon.jp/manhole/desc/235/",
-    "image": "images/manhole/235.png",
-    "location_ja": "Ishigaki",
+    "image": "images/thumbs/235.png",
+    "location_ja": "石垣市",
     "zone_en": "Okinawa",
-    "location_en": "Ishigaki"
+    "location_en": "Ishigaki",
+    "zone_ja": "沖縄県"
   },
   {
     "id": 236,
@@ -3706,10 +3937,11 @@
     "longitude": 125.263088,
     "address": "下地与那覇1199-1",
     "link": "https://local.pokemon.jp/manhole/desc/236/",
-    "image": "images/manhole/236.png",
-    "location_ja": "Miyakojima",
+    "image": "images/thumbs/236.png",
+    "location_ja": "宮古島市",
     "zone_en": "Okinawa",
-    "location_en": "Miyakojima"
+    "location_en": "Miyakojima",
+    "zone_ja": "沖縄県"
   },
   {
     "id": 237,
@@ -3722,10 +3954,11 @@
     "longitude": 136.170196,
     "address": "甲南町竜法師600",
     "link": "https://local.pokemon.jp/manhole/desc/237/",
-    "image": "images/manhole/237.png",
-    "location_ja": "Koka",
+    "image": "images/thumbs/237.png",
+    "location_ja": "甲賀市",
     "zone_en": "Shiga",
-    "location_en": "Koka"
+    "location_en": "Koka",
+    "zone_ja": "滋賀県"
   },
   {
     "id": 238,
@@ -3738,10 +3971,11 @@
     "longitude": 136.165168,
     "address": "水口町北内貴230",
     "link": "https://local.pokemon.jp/manhole/desc/238/",
-    "image": "images/manhole/238.png",
-    "location_ja": "Koka",
+    "image": "images/thumbs/238.png",
+    "location_ja": "甲賀市",
     "zone_en": "Shiga",
-    "location_en": "Koka"
+    "location_en": "Koka",
+    "zone_ja": "滋賀県"
   },
   {
     "id": 239,
@@ -3754,10 +3988,11 @@
     "longitude": 136.229399,
     "address": "甲賀町大久保507番地2",
     "link": "https://local.pokemon.jp/manhole/desc/239/",
-    "image": "images/manhole/239.png",
-    "location_ja": "Koka",
+    "image": "images/thumbs/239.png",
+    "location_ja": "甲賀市",
     "zone_en": "Shiga",
-    "location_en": "Koka"
+    "location_en": "Koka",
+    "zone_ja": "滋賀県"
   },
   {
     "id": 240,
@@ -3770,10 +4005,11 @@
     "longitude": 136.5108,
     "address": "西丸之内23番1号",
     "link": "https://local.pokemon.jp/manhole/desc/240/",
-    "image": "images/manhole/240.png",
-    "location_ja": "Tsu",
+    "image": "images/thumbs/240.png",
+    "location_ja": "津市",
     "zone_en": "Mie",
-    "location_en": "Tsu"
+    "location_en": "Tsu",
+    "zone_ja": "三重県"
   },
   {
     "id": 241,
@@ -3786,10 +4022,11 @@
     "longitude": 136.611964,
     "address": "日永東一丁目3-21",
     "link": "https://local.pokemon.jp/manhole/desc/241/",
-    "image": "images/manhole/241.png",
-    "location_ja": "Yokkaichi",
+    "image": "images/thumbs/241.png",
+    "location_ja": "四日市市",
     "zone_en": "Mie",
-    "location_en": "Yokkaichi"
+    "location_en": "Yokkaichi",
+    "zone_ja": "三重県"
   },
   {
     "id": 242,
@@ -3802,10 +4039,11 @@
     "longitude": 136.707097,
     "address": "本町20",
     "link": "https://local.pokemon.jp/manhole/desc/242/",
-    "image": "images/manhole/242.png",
-    "location_ja": "Ise",
+    "image": "images/thumbs/242.png",
+    "location_ja": "伊勢市",
     "zone_en": "Mie",
-    "location_en": "Ise"
+    "location_en": "Ise",
+    "zone_ja": "三重県"
   },
   {
     "id": 243,
@@ -3818,10 +4056,11 @@
     "longitude": 136.844825,
     "address": "鳥羽一丁目2383-42",
     "link": "https://local.pokemon.jp/manhole/desc/243/",
-    "image": "images/manhole/243.png",
-    "location_ja": "Toba",
+    "image": "images/thumbs/243.png",
+    "location_ja": "鳥羽市",
     "zone_en": "Mie",
-    "location_en": "Toba"
+    "location_en": "Toba",
+    "zone_ja": "三重県"
   },
   {
     "id": 244,
@@ -3834,10 +4073,11 @@
     "longitude": 136.116125,
     "address": "木本町1835-7",
     "link": "https://local.pokemon.jp/manhole/desc/244/",
-    "image": "images/manhole/244.png",
-    "location_ja": "Kumano",
+    "image": "images/thumbs/244.png",
+    "location_ja": "熊野市",
     "zone_en": "Mie",
-    "location_en": "Kumano"
+    "location_en": "Kumano",
+    "zone_ja": "三重県"
   },
   {
     "id": 245,
@@ -3850,10 +4090,11 @@
     "longitude": 136.898317,
     "address": "大王町波切110-3",
     "link": "https://local.pokemon.jp/manhole/desc/245/",
-    "image": "images/manhole/245.png",
-    "location_ja": "Shima",
+    "image": "images/thumbs/245.png",
+    "location_ja": "志摩市",
     "zone_en": "Mie",
-    "location_en": "Shima"
+    "location_en": "Shima",
+    "zone_ja": "三重県"
   },
   {
     "id": 246,
@@ -3866,10 +4107,11 @@
     "longitude": 136.130081,
     "address": "上野丸之内504",
     "link": "https://local.pokemon.jp/manhole/desc/246/",
-    "image": "images/manhole/246.png",
-    "location_ja": "Iga",
+    "image": "images/thumbs/246.png",
+    "location_ja": "伊賀市",
     "zone_en": "Mie",
-    "location_en": "Iga"
+    "location_en": "Iga",
+    "zone_ja": "三重県"
   },
   {
     "id": 247,
@@ -3882,10 +4124,11 @@
     "longitude": 140.41091,
     "address": "福島市大笹生字月崎１－１",
     "link": "https://local.pokemon.jp/manhole/desc/247/",
-    "image": "images/manhole/247.png",
-    "location_ja": "Fukushima",
+    "image": "images/thumbs/247.png",
+    "location_ja": "福島市",
     "zone_en": "Fukushima",
-    "location_en": "Fukushima"
+    "location_en": "Fukushima",
+    "zone_ja": "福島県"
   },
   {
     "id": 248,
@@ -3898,10 +4141,11 @@
     "longitude": 139.927475,
     "address": "会津若松市門田町大字堤沢北村",
     "link": "https://local.pokemon.jp/manhole/desc/248/",
-    "image": "images/manhole/248.png",
-    "location_ja": "Aizuwakamatsu",
+    "image": "images/thumbs/248.png",
+    "location_ja": "会津若松市",
     "zone_en": "Fukushima",
-    "location_en": "Aizuwakamatsu"
+    "location_en": "Aizuwakamatsu",
+    "zone_ja": "福島県"
   },
   {
     "id": 249,
@@ -3914,10 +4158,11 @@
     "longitude": 140.35612,
     "address": "郡山市開成一丁目５",
     "link": "https://local.pokemon.jp/manhole/desc/249/",
-    "image": "images/manhole/249.png",
-    "location_ja": "Koriyama",
+    "image": "images/thumbs/249.png",
+    "location_ja": "郡山市",
     "zone_en": "Fukushima",
-    "location_en": "Koriyama"
+    "location_en": "Koriyama",
+    "zone_ja": "福島県"
   },
   {
     "id": 250,
@@ -3930,10 +4175,11 @@
     "longitude": 139.7778739,
     "address": "南会津町田島字宮本東33番地１",
     "link": "https://local.pokemon.jp/manhole/desc/250/",
-    "image": "images/manhole/250.png",
-    "location_ja": "Minamiaizu",
+    "image": "images/thumbs/250.png",
+    "location_ja": "南会津町",
     "zone_en": "Fukushima",
-    "location_en": "Minamiaizu"
+    "location_en": "Minamiaizu",
+    "zone_ja": "福島県"
   },
   {
     "id": 251,
@@ -3946,10 +4192,11 @@
     "longitude": 139.722662,
     "address": "柳津町大字柳津字下平乙161番地1",
     "link": "https://local.pokemon.jp/manhole/desc/251/",
-    "image": "images/manhole/251.png",
-    "location_ja": "Yanaizu",
+    "image": "images/thumbs/251.png",
+    "location_ja": "柳津町",
     "zone_en": "Fukushima",
-    "location_en": "Yanaizu"
+    "location_en": "Yanaizu",
+    "zone_ja": "福島県"
   },
   {
     "id": 252,
@@ -3962,10 +4209,11 @@
     "longitude": 139.630359,
     "address": "昭和村大字佐倉字上ノ原1番地",
     "link": "https://local.pokemon.jp/manhole/desc/252/",
-    "image": "images/manhole/252.png",
-    "location_ja": "Showa",
+    "image": "images/thumbs/252.png",
+    "location_ja": "昭和村",
     "zone_en": "Fukushima",
-    "location_en": "Showa"
+    "location_en": "Showa",
+    "zone_ja": "福島県"
   },
   {
     "id": 253,
@@ -3978,10 +4226,11 @@
     "longitude": 141.02692,
     "address": "双葉町大字中野字高田１番地１",
     "link": "https://local.pokemon.jp/manhole/desc/253/",
-    "image": "images/manhole/253.png",
-    "location_ja": "Futaba",
+    "image": "images/thumbs/253.png",
+    "location_ja": "双葉町",
     "zone_en": "Fukushima",
-    "location_en": "Futaba"
+    "location_en": "Futaba",
+    "zone_ja": "福島県"
   },
   {
     "id": 254,
@@ -3994,10 +4243,11 @@
     "longitude": 140.735552,
     "address": "飯舘村深谷字深谷前11-1",
     "link": "https://local.pokemon.jp/manhole/desc/254/",
-    "image": "images/manhole/254.png",
-    "location_ja": "Iitate",
+    "image": "images/thumbs/254.png",
+    "location_ja": "飯舘村",
     "zone_en": "Fukushima",
-    "location_en": "Iitate"
+    "location_en": "Iitate",
+    "zone_ja": "福島県"
   },
   {
     "id": 255,
@@ -4010,10 +4260,11 @@
     "longitude": 130.2989299,
     "address": "松原1丁目1-1",
     "link": "https://local.pokemon.jp/manhole/desc/255/",
-    "image": "images/manhole/255.png",
-    "location_ja": "Saga",
+    "image": "images/thumbs/255.png",
+    "location_ja": "佐賀市",
     "zone_en": "Saga",
-    "location_en": "Saga"
+    "location_en": "Saga",
+    "zone_ja": "佐賀県"
   },
   {
     "id": 256,
@@ -4026,10 +4277,11 @@
     "longitude": 130.3089011,
     "address": "水ヶ江2丁目11-11",
     "link": "https://local.pokemon.jp/manhole/desc/256/",
-    "image": "images/manhole/256.png",
-    "location_ja": "Saga",
+    "image": "images/thumbs/256.png",
+    "location_ja": "佐賀市",
     "zone_en": "Saga",
-    "location_en": "Saga"
+    "location_en": "Saga",
+    "zone_ja": "佐賀県"
   },
   {
     "id": 257,
@@ -4042,10 +4294,11 @@
     "longitude": 130.3003128,
     "address": "城内1丁目1-59",
     "link": "https://local.pokemon.jp/manhole/desc/257/",
-    "image": "images/manhole/257.png",
-    "location_ja": "Saga",
+    "image": "images/thumbs/257.png",
+    "location_ja": "佐賀市",
     "zone_en": "Saga",
-    "location_en": "Saga"
+    "location_en": "Saga",
+    "zone_ja": "佐賀県"
   },
   {
     "id": 258,
@@ -4058,10 +4311,11 @@
     "longitude": 141.11169,
     "address": "花巻市大通り1丁目2−21",
     "link": "https://local.pokemon.jp/manhole/desc/258/",
-    "image": "images/manhole/258.png",
-    "location_ja": "Hanamaki",
+    "image": "images/thumbs/258.png",
+    "location_ja": "花巻市",
     "zone_en": "Iwate",
-    "location_en": "Hanamaki"
+    "location_en": "Hanamaki",
+    "zone_ja": "岩手県"
   },
   {
     "id": 259,
@@ -4074,10 +4328,11 @@
     "longitude": 141.528872,
     "address": "遠野市中央通り4−6",
     "link": "https://local.pokemon.jp/manhole/desc/259/",
-    "image": "images/manhole/259.png",
-    "location_ja": "Tono",
+    "image": "images/thumbs/259.png",
+    "location_ja": "遠野市",
     "zone_en": "Iwate",
-    "location_en": "Tono"
+    "location_en": "Tono",
+    "zone_ja": "岩手県"
   },
   {
     "id": 260,
@@ -4090,10 +4345,11 @@
     "longitude": 141.25527,
     "address": "一関市東山町長坂字町467-1",
     "link": "https://local.pokemon.jp/manhole/desc/260/",
-    "image": "images/manhole/260.png",
-    "location_ja": "Ichinoseki",
+    "image": "images/thumbs/260.png",
+    "location_ja": "一関市",
     "zone_en": "Iwate",
-    "location_en": "Ichinoseki"
+    "location_en": "Ichinoseki",
+    "zone_ja": "岩手県"
   },
   {
     "id": 261,
@@ -4106,10 +4362,11 @@
     "longitude": 141.318849,
     "address": "二戸市金田一字湯田41",
     "link": "https://local.pokemon.jp/manhole/desc/261/",
-    "image": "images/manhole/261.png",
-    "location_ja": "Ninohe",
+    "image": "images/thumbs/261.png",
+    "location_ja": "二戸市",
     "zone_en": "Iwate",
-    "location_en": "Ninohe"
+    "location_en": "Ninohe",
+    "zone_ja": "岩手県"
   },
   {
     "id": 262,
@@ -4122,10 +4379,11 @@
     "longitude": 141.099388,
     "address": "八幡平市大更第2地割154−36",
     "link": "https://local.pokemon.jp/manhole/desc/262/",
-    "image": "images/manhole/262.png",
-    "location_ja": "Hachimantai",
+    "image": "images/thumbs/262.png",
+    "location_ja": "八幡平市",
     "zone_en": "Iwate",
-    "location_en": "Hachimantai"
+    "location_en": "Hachimantai",
+    "zone_ja": "岩手県"
   },
   {
     "id": 263,
@@ -4138,10 +4396,11 @@
     "longitude": 141.07829,
     "address": "滝沢市下鵜飼1−15",
     "link": "https://local.pokemon.jp/manhole/desc/263/",
-    "image": "images/manhole/263.png",
-    "location_ja": "Takizawa",
+    "image": "images/thumbs/263.png",
+    "location_ja": "滝沢市",
     "zone_en": "Iwate",
-    "location_en": "Takizawa"
+    "location_en": "Takizawa",
+    "zone_ja": "岩手県"
   },
   {
     "id": 264,
@@ -4154,10 +4413,11 @@
     "longitude": 141.213736,
     "address": "岩手町五日市第10地割121−20",
     "link": "https://local.pokemon.jp/manhole/desc/264/",
-    "image": "images/manhole/264.png",
-    "location_ja": "Iwate",
+    "image": "images/thumbs/264.png",
+    "location_ja": "岩手町",
     "zone_en": "Iwate",
-    "location_en": "Iwate"
+    "location_en": "Iwate",
+    "zone_ja": "岩手県"
   },
   {
     "id": 265,
@@ -4170,10 +4430,11 @@
     "longitude": 141.158293,
     "address": "紫波町紫波中央駅前1丁目",
     "link": "https://local.pokemon.jp/manhole/desc/265/",
-    "image": "images/manhole/265.png",
-    "location_ja": "Shiwa",
+    "image": "images/thumbs/265.png",
+    "location_ja": "紫波町",
     "zone_en": "Iwate",
-    "location_en": "Shiwa"
+    "location_en": "Shiwa",
+    "zone_ja": "岩手県"
   },
   {
     "id": 266,
@@ -4186,10 +4447,11 @@
     "longitude": 140.77649,
     "address": "西和賀町川尻40地割",
     "link": "https://local.pokemon.jp/manhole/desc/266/",
-    "image": "images/manhole/266.png",
-    "location_ja": "Nishiwaga",
+    "image": "images/thumbs/266.png",
+    "location_ja": "西和賀町",
     "zone_en": "Iwate",
-    "location_en": "Nishiwaga"
+    "location_en": "Nishiwaga",
+    "zone_ja": "岩手県"
   },
   {
     "id": 267,
@@ -4202,10 +4464,11 @@
     "longitude": 141.108167,
     "address": "平泉町平泉大沢",
     "link": "https://local.pokemon.jp/manhole/desc/267/",
-    "image": "images/manhole/267.png",
-    "location_ja": "Hiraizumi",
+    "image": "images/thumbs/267.png",
+    "location_ja": "平泉町",
     "zone_en": "Iwate",
-    "location_en": "Hiraizumi"
+    "location_en": "Hiraizumi",
+    "zone_ja": "岩手県"
   },
   {
     "id": 268,
@@ -4218,10 +4481,11 @@
     "longitude": 141.381779,
     "address": "軽米町晴山第22地割38",
     "link": "https://local.pokemon.jp/manhole/desc/268/",
-    "image": "images/manhole/268.png",
-    "location_ja": "Karumai",
+    "image": "images/thumbs/268.png",
+    "location_ja": "軽米町",
     "zone_en": "Iwate",
-    "location_en": "Karumai"
+    "location_en": "Karumai",
+    "zone_ja": "岩手県"
   },
   {
     "id": 269,
@@ -4234,10 +4498,11 @@
     "longitude": 141.416759,
     "address": "九戸村山屋第2地割28-1",
     "link": "https://local.pokemon.jp/manhole/desc/269/",
-    "image": "images/manhole/269.png",
-    "location_ja": "Kunohe",
+    "image": "images/thumbs/269.png",
+    "location_ja": "九戸村",
     "zone_en": "Iwate",
-    "location_en": "Kunohe"
+    "location_en": "Kunohe",
+    "zone_ja": "岩手県"
   },
   {
     "id": 270,
@@ -4250,10 +4515,11 @@
     "longitude": 141.30468,
     "address": "一戸町一戸砂森",
     "link": "https://local.pokemon.jp/manhole/desc/270/",
-    "image": "images/manhole/270.png",
-    "location_ja": "Ichinohe",
+    "image": "images/thumbs/270.png",
+    "location_ja": "一戸町",
     "zone_en": "Iwate",
-    "location_en": "Ichinohe"
+    "location_en": "Ichinohe",
+    "zone_ja": "岩手県"
   },
   {
     "id": 271,
@@ -4266,10 +4532,11 @@
     "longitude": 137.429448,
     "address": "豊橋市大岩町大穴1-238",
     "link": "https://local.pokemon.jp/manhole/desc/271/",
-    "image": "images/manhole/271.png",
-    "location_ja": "Toyohashi",
+    "image": "images/thumbs/271.png",
+    "location_ja": "豊橋市",
     "zone_en": "Aichi",
-    "location_en": "Toyohashi"
+    "location_en": "Toyohashi",
+    "zone_ja": "愛知県"
   },
   {
     "id": 272,
@@ -4282,10 +4549,11 @@
     "longitude": 137.382958,
     "address": "豊橋市駅前大通1-134",
     "link": "https://local.pokemon.jp/manhole/desc/272/",
-    "image": "images/manhole/272.png",
-    "location_ja": "Toyohashi",
+    "image": "images/thumbs/272.png",
+    "location_ja": "豊橋市",
     "zone_en": "Aichi",
-    "location_en": "Toyohashi"
+    "location_en": "Toyohashi",
+    "zone_ja": "愛知県"
   },
   {
     "id": 273,
@@ -4298,10 +4566,11 @@
     "longitude": 137.413953,
     "address": "豊橋市東七根町一の沢113-2",
     "link": "https://local.pokemon.jp/manhole/desc/273/",
-    "image": "images/manhole/273.png",
-    "location_ja": "Toyohashi",
+    "image": "images/thumbs/273.png",
+    "location_ja": "豊橋市",
     "zone_en": "Aichi",
-    "location_en": "Toyohashi"
+    "location_en": "Toyohashi",
+    "zone_ja": "愛知県"
   },
   {
     "id": 274,
@@ -4314,10 +4583,11 @@
     "longitude": 137.393843,
     "address": "豊橋市今橋町3",
     "link": "https://local.pokemon.jp/manhole/desc/274/",
-    "image": "images/manhole/274.png",
-    "location_ja": "Toyohashi",
+    "image": "images/thumbs/274.png",
+    "location_ja": "豊橋市",
     "zone_en": "Aichi",
-    "location_en": "Toyohashi"
+    "location_en": "Toyohashi",
+    "zone_ja": "愛知県"
   },
   {
     "id": 275,
@@ -4330,10 +4600,11 @@
     "longitude": 137.164366,
     "address": "富山市呉羽町2247-3",
     "link": "https://local.pokemon.jp/manhole/desc/275/",
-    "image": "images/manhole/275.png",
-    "location_ja": "Toyama",
+    "image": "images/thumbs/275.png",
+    "location_ja": "富山市",
     "zone_en": "Toyama",
-    "location_en": "Toyama"
+    "location_en": "Toyama",
+    "zone_ja": "富山県"
   },
   {
     "id": 276,
@@ -4346,10 +4617,11 @@
     "longitude": 137.213161,
     "address": "富山市湊入船町75-1",
     "link": "https://local.pokemon.jp/manhole/desc/276/",
-    "image": "images/manhole/276.png",
-    "location_ja": "Toyama",
+    "image": "images/thumbs/276.png",
+    "location_ja": "富山市",
     "zone_en": "Toyama",
-    "location_en": "Toyama"
+    "location_en": "Toyama",
+    "zone_ja": "富山県"
   },
   {
     "id": 277,
@@ -4362,10 +4634,11 @@
     "longitude": 137.210281,
     "address": "富山市丸の内三丁目1-1",
     "link": "https://local.pokemon.jp/manhole/desc/277/",
-    "image": "images/manhole/277.png",
-    "location_ja": "Toyama",
+    "image": "images/thumbs/277.png",
+    "location_ja": "富山市",
     "zone_en": "Toyama",
-    "location_en": "Toyama"
+    "location_en": "Toyama",
+    "zone_ja": "富山県"
   },
   {
     "id": 278,
@@ -4378,10 +4651,11 @@
     "longitude": 141.4485234,
     "address": "当別町当別太774-11",
     "link": "https://local.pokemon.jp/manhole/desc/278/",
-    "image": "images/manhole/278.png",
-    "location_ja": "Tobetsu",
+    "image": "images/thumbs/278.png",
+    "location_ja": "当別町",
     "zone_en": "Hokkaido",
-    "location_en": "Tobetsu"
+    "location_en": "Tobetsu",
+    "zone_ja": "北海道"
   },
   {
     "id": 279,
@@ -4394,10 +4668,11 @@
     "longitude": 140.464001,
     "address": "二本松市安達ヶ原四丁目100番地",
     "link": "https://local.pokemon.jp/manhole/desc/279/",
-    "image": "images/manhole/279.png",
-    "location_ja": "Nihonmatsu",
+    "image": "images/thumbs/279.png",
+    "location_ja": "二本松市",
     "zone_en": "Fukushima",
-    "location_en": "Nihonmatsu"
+    "location_en": "Nihonmatsu",
+    "zone_ja": "福島県"
   },
   {
     "id": 280,
@@ -4410,10 +4685,11 @@
     "longitude": 140.691402,
     "address": "伊達市霊山町石田字中沢19-1",
     "link": "https://local.pokemon.jp/manhole/desc/280/",
-    "image": "images/manhole/280.png",
-    "location_ja": "Date",
+    "image": "images/thumbs/280.png",
+    "location_ja": "伊達市",
     "zone_en": "Fukushima",
-    "location_en": "Date"
+    "location_en": "Date",
+    "zone_ja": "福島県"
   },
   {
     "id": 281,
@@ -4426,10 +4702,11 @@
     "longitude": 140.089446,
     "address": "北塩原村大字桧原字剣ヶ峯1093-1055",
     "link": "https://local.pokemon.jp/manhole/desc/281/",
-    "image": "images/manhole/281.png",
-    "location_ja": "Kitashiobara",
+    "image": "images/thumbs/281.png",
+    "location_ja": "北塩原村",
     "zone_en": "Fukushima",
-    "location_en": "Kitashiobara"
+    "location_en": "Kitashiobara",
+    "zone_ja": "福島県"
   },
   {
     "id": 282,
@@ -4442,10 +4719,11 @@
     "longitude": 140.107546,
     "address": "猪苗代町大字堅田字五百苅1番地",
     "link": "https://local.pokemon.jp/manhole/desc/282/",
-    "image": "images/manhole/282.png",
-    "location_ja": "Iwanashiro",
+    "image": "images/thumbs/282.png",
+    "location_ja": "猪苗代町",
     "zone_en": "Fukushima",
-    "location_en": "Iwanashiro"
+    "location_en": "Iwanashiro",
+    "zone_ja": "福島県"
   },
   {
     "id": 283,
@@ -4458,10 +4736,11 @@
     "longitude": 139.840297,
     "address": "会津美里町字宮林甲4377番地１",
     "link": "https://local.pokemon.jp/manhole/desc/283/",
-    "image": "images/manhole/283.png",
-    "location_ja": "Aizumisato",
+    "image": "images/thumbs/283.png",
+    "location_ja": "会津美里町",
     "zone_en": "Fukushima",
-    "location_en": "Aizumisato"
+    "location_en": "Aizumisato",
+    "zone_ja": "福島県"
   },
   {
     "id": 284,
@@ -4474,10 +4753,11 @@
     "longitude": 140.15467,
     "address": "西郷村大字熊倉字折口原146",
     "link": "https://local.pokemon.jp/manhole/desc/284/",
-    "image": "images/manhole/284.png",
-    "location_ja": "Nishigo",
+    "image": "images/thumbs/284.png",
+    "location_ja": "西郷村",
     "zone_en": "Fukushima",
-    "location_en": "Nishigo"
+    "location_en": "Nishigo",
+    "zone_ja": "福島県"
   },
   {
     "id": 285,
@@ -4490,10 +4770,11 @@
     "longitude": 140.335635,
     "address": "矢吹町大池145",
     "link": "https://local.pokemon.jp/manhole/desc/285/",
-    "image": "images/manhole/285.png",
-    "location_ja": "Yabuki",
+    "image": "images/thumbs/285.png",
+    "location_ja": "矢吹町",
     "zone_en": "Fukushima",
-    "location_en": "Yabuki"
+    "location_en": "Yabuki",
+    "zone_ja": "福島県"
   },
   {
     "id": 286,
@@ -4506,10 +4787,11 @@
     "longitude": 140.529749,
     "address": "古殿町大字田口字平舘25番地",
     "link": "https://local.pokemon.jp/manhole/desc/286/",
-    "image": "images/manhole/286.png",
-    "location_ja": "Furudono",
+    "image": "images/thumbs/286.png",
+    "location_ja": "古殿町",
     "zone_en": "Fukushima",
-    "location_en": "Furudono"
+    "location_en": "Furudono",
+    "zone_ja": "福島県"
   },
   {
     "id": 287,
@@ -4522,10 +4804,11 @@
     "longitude": 140.49124,
     "address": "三春町字北町10",
     "link": "https://local.pokemon.jp/manhole/desc/287/",
-    "image": "images/manhole/287.png",
-    "location_ja": "Miharu",
+    "image": "images/thumbs/287.png",
+    "location_ja": "三春町",
     "zone_en": "Fukushima",
-    "location_en": "Miharu"
+    "location_en": "Miharu",
+    "zone_ja": "福島県"
   },
   {
     "id": 288,
@@ -4538,10 +4821,11 @@
     "longitude": 130.948691,
     "address": "下関市阿弥陀寺町6",
     "link": "https://local.pokemon.jp/manhole/desc/288/",
-    "image": "images/manhole/288.png",
-    "location_ja": "Shimonoseki",
+    "image": "images/thumbs/288.png",
+    "location_ja": "下関市",
     "zone_en": "Yamaguchi",
-    "location_en": "Shimonoseki"
+    "location_en": "Shimonoseki",
+    "zone_ja": "山口県"
   },
   {
     "id": 289,
@@ -4554,10 +4838,11 @@
     "longitude": 130.9416769,
     "address": "下関市あるかぽーと6",
     "link": "https://local.pokemon.jp/manhole/desc/289/",
-    "image": "images/manhole/289.png",
-    "location_ja": "Shimonoseki",
+    "image": "images/thumbs/289.png",
+    "location_ja": "下関市",
     "zone_en": "Yamaguchi",
-    "location_en": "Shimonoseki"
+    "location_en": "Shimonoseki",
+    "zone_ja": "山口県"
   },
   {
     "id": 290,
@@ -4570,10 +4855,11 @@
     "longitude": 130.930909,
     "address": "下関市大字彦島字船島648",
     "link": "https://local.pokemon.jp/manhole/desc/290/",
-    "image": "images/manhole/290.png",
-    "location_ja": "Shimonoseki",
+    "image": "images/thumbs/290.png",
+    "location_ja": "下関市",
     "zone_en": "Yamaguchi",
-    "location_en": "Shimonoseki"
+    "location_en": "Shimonoseki",
+    "zone_ja": "山口県"
   },
   {
     "id": 291,
@@ -4586,10 +4872,11 @@
     "longitude": 130.929705,
     "address": "下関市大字彦島字船島648",
     "link": "https://local.pokemon.jp/manhole/desc/291/",
-    "image": "images/manhole/291.png",
-    "location_ja": "Shimonoseki",
+    "image": "images/thumbs/291.png",
+    "location_ja": "下関市",
     "zone_en": "Yamaguchi",
-    "location_en": "Shimonoseki"
+    "location_en": "Shimonoseki",
+    "zone_ja": "山口県"
   },
   {
     "id": 292,
@@ -4602,10 +4889,11 @@
     "longitude": 136.4474608,
     "address": "亀山市若山町4番地の7",
     "link": "https://local.pokemon.jp/manhole/desc/292/",
-    "image": "images/manhole/292.png",
-    "location_ja": "Kameyama",
+    "image": "images/thumbs/292.png",
+    "location_ja": "亀山市",
     "zone_en": "Mie",
-    "location_en": "Kameyama"
+    "location_en": "Kameyama",
+    "zone_ja": "三重県"
   },
   {
     "id": 293,
@@ -4618,10 +4906,11 @@
     "longitude": 136.658857,
     "address": "朝日町柿2340-36",
     "link": "https://local.pokemon.jp/manhole/desc/293/",
-    "image": "images/manhole/293.png",
-    "location_ja": "Asahi",
+    "image": "images/thumbs/293.png",
+    "location_ja": "朝日町",
     "zone_en": "Mie",
-    "location_en": "Asahi"
+    "location_en": "Asahi",
+    "zone_ja": "三重県"
   },
   {
     "id": 294,
@@ -4634,10 +4923,11 @@
     "longitude": 136.6184925,
     "address": "明和町大字斎宮2811",
     "link": "https://local.pokemon.jp/manhole/desc/294/",
-    "image": "images/manhole/294.png",
-    "location_ja": "Meiwa",
+    "image": "images/thumbs/294.png",
+    "location_ja": "明和町",
     "zone_en": "Mie",
-    "location_en": "Meiwa"
+    "location_en": "Meiwa",
+    "zone_ja": "三重県"
   },
   {
     "id": 295,
@@ -4650,10 +4940,11 @@
     "longitude": 136.34766,
     "address": "大台町薗993",
     "link": "https://local.pokemon.jp/manhole/desc/295/",
-    "image": "images/manhole/295.png",
-    "location_ja": "Odai",
+    "image": "images/thumbs/295.png",
+    "location_ja": "大台町",
     "zone_en": "Mie",
-    "location_en": "Odai"
+    "location_en": "Odai",
+    "zone_ja": "三重県"
   },
   {
     "id": 296,
@@ -4666,10 +4957,11 @@
     "longitude": 136.6313249,
     "address": "度会町棚橋2",
     "link": "https://local.pokemon.jp/manhole/desc/296/",
-    "image": "images/manhole/296.png",
-    "location_ja": "Watarai",
+    "image": "images/thumbs/296.png",
+    "location_ja": "度会町",
     "zone_en": "Mie",
-    "location_en": "Watarai"
+    "location_en": "Watarai",
+    "zone_ja": "三重県"
   },
   {
     "id": 297,
@@ -4682,10 +4974,11 @@
     "longitude": 136.028632,
     "address": "紀宝町井田568-7",
     "link": "https://local.pokemon.jp/manhole/desc/297/",
-    "image": "images/manhole/297.png",
-    "location_ja": "Kiho",
+    "image": "images/thumbs/297.png",
+    "location_ja": "紀宝町",
     "zone_en": "Mie",
-    "location_en": "Kiho"
+    "location_en": "Kiho",
+    "zone_ja": "三重県"
   },
   {
     "id": 298,
@@ -4698,10 +4991,11 @@
     "longitude": 133.9327735,
     "address": "綾川町萱原253-7",
     "link": "https://local.pokemon.jp/manhole/desc/298/",
-    "image": "images/manhole/298.png",
-    "location_ja": "Ayagawa",
+    "image": "images/thumbs/298.png",
+    "location_ja": "綾川町",
     "zone_en": "Kagawa",
-    "location_en": "Ayagawa"
+    "location_en": "Ayagawa",
+    "zone_ja": "香川県"
   },
   {
     "id": 299,
@@ -4714,10 +5008,11 @@
     "longitude": 141.781703,
     "address": "久慈市夏井町第7地割3-2",
     "link": "https://local.pokemon.jp/manhole/desc/299/",
-    "image": "images/manhole/299.png",
-    "location_ja": "Kuji",
+    "image": "images/thumbs/299.png",
+    "location_ja": "久慈市",
     "zone_en": "Iwate",
-    "location_en": "Kuji"
+    "location_en": "Kuji",
+    "zone_ja": "岩手県"
   },
   {
     "id": 300,
@@ -4730,10 +5025,11 @@
     "longitude": 134.224478,
     "address": "鳥取市浜坂1157-1",
     "link": "https://local.pokemon.jp/manhole/desc/300/",
-    "image": "images/manhole/300.png",
-    "location_ja": "Tottori",
+    "image": "images/thumbs/300.png",
+    "location_ja": "鳥取市",
     "zone_en": "Tottori",
-    "location_en": "Tottori"
+    "location_en": "Tottori",
+    "zone_ja": "鳥取県"
   },
   {
     "id": 301,
@@ -4746,10 +5042,11 @@
     "longitude": 136.661926,
     "address": "金沢市出羽町3-2",
     "link": "https://local.pokemon.jp/manhole/desc/301/",
-    "image": "images/manhole/301.png",
-    "location_ja": "Kanazawa",
+    "image": "images/thumbs/301.png",
+    "location_ja": "金沢市",
     "zone_en": "Ishikawa",
-    "location_en": "Kanazawa"
+    "location_en": "Kanazawa",
+    "zone_ja": "石川県"
   },
   {
     "id": 302,
@@ -4762,10 +5059,11 @@
     "longitude": 140.973986,
     "address": "室蘭市本町2-2",
     "link": "https://local.pokemon.jp/manhole/desc/302/",
-    "image": "images/manhole/302.png",
-    "location_ja": "Muroran",
+    "image": "images/thumbs/302.png",
+    "location_ja": "室蘭市",
     "zone_en": "Hokkaido",
-    "location_en": "Muroran"
+    "location_en": "Muroran",
+    "zone_ja": "北海道"
   },
   {
     "id": 303,
@@ -4778,10 +5076,11 @@
     "longitude": 143.500587,
     "address": "北見市留辺蘂町松山1-4",
     "link": "https://local.pokemon.jp/manhole/desc/303/",
-    "image": "images/manhole/303.png",
-    "location_ja": "Kitami",
+    "image": "images/thumbs/303.png",
+    "location_ja": "北見市",
     "zone_en": "Hokkaido",
-    "location_en": "Kitami"
+    "location_en": "Kitami",
+    "zone_ja": "北海道"
   },
   {
     "id": 304,
@@ -4794,10 +5093,11 @@
     "longitude": 142.005914,
     "address": "歌志内市字中村72番地2",
     "link": "https://local.pokemon.jp/manhole/desc/304/",
-    "image": "images/manhole/304.png",
-    "location_ja": "Utashinai",
+    "image": "images/thumbs/304.png",
+    "location_ja": "歌志内市",
     "zone_en": "Hokkaido",
-    "location_en": "Utashinai"
+    "location_en": "Utashinai",
+    "zone_ja": "北海道"
   },
   {
     "id": 305,
@@ -4810,10 +5110,11 @@
     "longitude": 140.43558,
     "address": "木古内町字本町338-14",
     "link": "https://local.pokemon.jp/manhole/desc/305/",
-    "image": "images/manhole/305.png",
-    "location_ja": "Kikonai",
+    "image": "images/thumbs/305.png",
+    "location_ja": "木古内町",
     "zone_en": "Hokkaido",
-    "location_en": "Kikonai"
+    "location_en": "Kikonai",
+    "zone_ja": "北海道"
   },
   {
     "id": 306,
@@ -4826,10 +5127,11 @@
     "longitude": 142.177267,
     "address": "猿払村浜鬼志別214-7",
     "link": "https://local.pokemon.jp/manhole/desc/306/",
-    "image": "images/manhole/306.png",
-    "location_ja": "Sarufutsu",
+    "image": "images/thumbs/306.png",
+    "location_ja": "猿払村",
     "zone_en": "Hokkaido",
-    "location_en": "Sarufutsu"
+    "location_en": "Sarufutsu",
+    "zone_ja": "北海道"
   },
   {
     "id": 307,
@@ -4842,10 +5144,11 @@
     "longitude": 144.105878,
     "address": "美幌町字新町3丁目97",
     "link": "https://local.pokemon.jp/manhole/desc/307/",
-    "image": "images/manhole/307.png",
-    "location_ja": "Bihoro",
+    "image": "images/thumbs/307.png",
+    "location_ja": "美幌町",
     "zone_en": "Hokkaido",
-    "location_en": "Bihoro"
+    "location_en": "Bihoro",
+    "zone_ja": "北海道"
   },
   {
     "id": 308,
@@ -4858,10 +5161,11 @@
     "longitude": 136.088911,
     "address": "朝日町1319番地5",
     "link": "https://local.pokemon.jp/manhole/desc/308/",
-    "image": "images/manhole/308.png",
-    "location_ja": "Nabari",
+    "image": "images/thumbs/308.png",
+    "location_ja": "名張市",
     "zone_en": "Mie",
-    "location_en": "Nabari"
+    "location_en": "Nabari",
+    "zone_ja": "三重県"
   },
   {
     "id": 309,
@@ -4874,10 +5178,11 @@
     "longitude": 136.7318048,
     "address": "西対海地251番地",
     "link": "https://local.pokemon.jp/manhole/desc/309/",
-    "image": "images/manhole/309.png",
-    "location_ja": "Kisosaki",
+    "image": "images/thumbs/309.png",
+    "location_ja": "木曽岬町",
     "zone_en": "Mie",
-    "location_en": "Kisosaki"
+    "location_en": "Kisosaki",
+    "zone_ja": "三重県"
   },
   {
     "id": 310,
@@ -4890,10 +5195,11 @@
     "longitude": 136.581108,
     "address": "北大社1634番地",
     "link": "https://local.pokemon.jp/manhole/desc/310/",
-    "image": "images/manhole/310.png",
-    "location_ja": "Toin",
+    "image": "images/thumbs/310.png",
+    "location_ja": "東員町",
     "zone_en": "Mie",
-    "location_en": "Toin"
+    "location_en": "Toin",
+    "zone_ja": "三重県"
   },
   {
     "id": 311,
@@ -4906,10 +5212,11 @@
     "longitude": 139.644154,
     "address": "中区新港一丁目",
     "link": "https://local.pokemon.jp/manhole/desc/311/",
-    "image": "images/manhole/311.png",
-    "location_ja": "Yokohama",
+    "image": "images/thumbs/311.png",
+    "location_ja": "横浜市",
     "zone_en": "Kanagawa",
-    "location_en": "Yokohama"
+    "location_en": "Yokohama",
+    "zone_ja": "神奈川県"
   },
   {
     "id": 312,
@@ -4922,10 +5229,11 @@
     "longitude": 139.650904,
     "address": "中区山下町14-1",
     "link": "https://local.pokemon.jp/manhole/desc/312/",
-    "image": "images/manhole/312.png",
-    "location_ja": "Yokohama",
+    "image": "images/thumbs/312.png",
+    "location_ja": "横浜市",
     "zone_en": "Kanagawa",
-    "location_en": "Yokohama"
+    "location_en": "Yokohama",
+    "zone_ja": "神奈川県"
   },
   {
     "id": 313,
@@ -4938,10 +5246,11 @@
     "longitude": 139.638331,
     "address": "西区みなとみらい一丁目",
     "link": "https://local.pokemon.jp/manhole/desc/313/",
-    "image": "images/manhole/313.png",
-    "location_ja": "Yokohama",
+    "image": "images/thumbs/313.png",
+    "location_ja": "横浜市",
     "zone_en": "Kanagawa",
-    "location_en": "Yokohama"
+    "location_en": "Yokohama",
+    "zone_ja": "神奈川県"
   },
   {
     "id": 314,
@@ -4954,10 +5263,11 @@
     "longitude": 139.631688,
     "address": "西区みなとみらい2-1-1",
     "link": "https://local.pokemon.jp/manhole/desc/314/",
-    "image": "images/manhole/314.png",
-    "location_ja": "Yokohama",
+    "image": "images/thumbs/314.png",
+    "location_ja": "横浜市",
     "zone_en": "Kanagawa",
-    "location_en": "Yokohama"
+    "location_en": "Yokohama",
+    "zone_ja": "神奈川県"
   },
   {
     "id": 315,
@@ -4970,10 +5280,11 @@
     "longitude": 130.515174,
     "address": "観世音寺4-6",
     "link": "https://local.pokemon.jp/manhole/desc/315/",
-    "image": "images/manhole/315.png",
-    "location_ja": "Dazaifu",
+    "image": "images/thumbs/315.png",
+    "location_ja": "太宰府市",
     "zone_en": "Fukuoka",
-    "location_en": "Dazaifu"
+    "location_en": "Dazaifu",
+    "zone_ja": "福岡県"
   },
   {
     "id": 316,
@@ -4986,10 +5297,11 @@
     "longitude": 130.531372,
     "address": "宰府2-5",
     "link": "https://local.pokemon.jp/manhole/desc/316/",
-    "image": "images/manhole/316.png",
-    "location_ja": "Dazaifu",
+    "image": "images/thumbs/316.png",
+    "location_ja": "太宰府市",
     "zone_en": "Fukuoka",
-    "location_en": "Dazaifu"
+    "location_en": "Dazaifu",
+    "zone_ja": "福岡県"
   },
   {
     "id": 317,
@@ -5002,10 +5314,11 @@
     "longitude": 130.516571,
     "address": "朱雀3-13",
     "link": "https://local.pokemon.jp/manhole/desc/317/",
-    "image": "images/manhole/317.png",
-    "location_ja": "Dazaifu",
+    "image": "images/thumbs/317.png",
+    "location_ja": "太宰府市",
     "zone_en": "Fukuoka",
-    "location_en": "Dazaifu"
+    "location_en": "Dazaifu",
+    "zone_ja": "福岡県"
   },
   {
     "id": 318,
@@ -5018,10 +5331,11 @@
     "longitude": 140.061295,
     "address": "土崎港西１丁目9-1",
     "link": "https://local.pokemon.jp/manhole/desc/318/",
-    "image": "images/manhole/318.png",
-    "location_ja": "Akita",
+    "image": "images/thumbs/318.png",
+    "location_ja": "秋田市",
     "zone_en": "Akita",
-    "location_en": "Akita"
+    "location_en": "Akita",
+    "zone_ja": "秋田県"
   },
   {
     "id": 319,
@@ -5034,10 +5348,11 @@
     "longitude": 140.545941,
     "address": "赤坂富ケ沢62-46",
     "link": "https://local.pokemon.jp/manhole/desc/319/",
-    "image": "images/manhole/319.png",
-    "location_ja": "Yokote",
+    "image": "images/thumbs/319.png",
+    "location_ja": "横手市",
     "zone_en": "Akita",
-    "location_en": "Yokote"
+    "location_en": "Yokote",
+    "zone_ja": "秋田県"
   },
   {
     "id": 320,
@@ -5050,10 +5365,11 @@
     "longitude": 139.84772,
     "address": "船川新浜町1-19",
     "link": "https://local.pokemon.jp/manhole/desc/320/",
-    "image": "images/manhole/320.png",
-    "location_ja": "Oga",
+    "image": "images/thumbs/320.png",
+    "location_ja": "男鹿市",
     "zone_en": "Akita",
-    "location_en": "Oga"
+    "location_en": "Oga",
+    "zone_ja": "秋田県"
   },
   {
     "id": 321,
@@ -5066,10 +5382,11 @@
     "longitude": 140.785474,
     "address": "新田町11-4",
     "link": "https://local.pokemon.jp/manhole/desc/321/",
-    "image": "images/manhole/321.png",
-    "location_ja": "Kazuno",
+    "image": "images/thumbs/321.png",
+    "location_ja": "鹿角市",
     "zone_en": "Akita",
-    "location_en": "Kazuno"
+    "location_en": "Kazuno",
+    "zone_ja": "秋田県"
   },
   {
     "id": 322,
@@ -5082,10 +5399,11 @@
     "longitude": 140.662631,
     "address": "ヨテコ沢４",
     "link": "https://local.pokemon.jp/manhole/desc/322/",
-    "image": "images/manhole/322.png",
-    "location_ja": "Senboku",
+    "image": "images/thumbs/322.png",
+    "location_ja": "仙北市",
     "zone_en": "Akita",
-    "location_en": "Senboku"
+    "location_en": "Senboku",
+    "zone_ja": "秋田県"
   },
   {
     "id": 323,
@@ -5098,10 +5416,11 @@
     "longitude": 141.122747,
     "address": "川岸一丁目１（さくらＰＯＲＴ・スクエア内）",
     "link": "https://local.pokemon.jp/manhole/desc/323/",
-    "image": "images/manhole/323.png",
-    "location_ja": "Kitakami",
+    "image": "images/thumbs/323.png",
+    "location_ja": "北上市",
     "zone_en": "Iwate",
-    "location_en": "Kitakami"
+    "location_en": "Kitakami",
+    "zone_ja": "岩手県"
   },
   {
     "id": 324,
@@ -5114,10 +5433,11 @@
     "longitude": 142.46372,
     "address": "本町1丁目9番21号",
     "link": "https://local.pokemon.jp/manhole/desc/324/",
-    "image": "images/manhole/324.png",
-    "location_ja": "Biei",
+    "image": "images/thumbs/324.png",
+    "location_ja": "美瑛町",
     "zone_en": "Hokkaido",
-    "location_en": "Biei"
+    "location_en": "Biei",
+    "zone_ja": "北海道"
   },
   {
     "id": 325,
@@ -5130,10 +5450,11 @@
     "longitude": 132.77024,
     "address": "大街道2丁目 大街道アーケード",
     "link": "https://local.pokemon.jp/manhole/desc/325/",
-    "image": "images/manhole/325.png",
-    "location_ja": "Matsuyama",
+    "image": "images/thumbs/325.png",
+    "location_ja": "松山市",
     "zone_en": "Ehime",
-    "location_en": "Matsuyama"
+    "location_en": "Matsuyama",
+    "zone_ja": "愛媛県"
   },
   {
     "id": 326,
@@ -5146,10 +5467,11 @@
     "longitude": 132.74078,
     "address": "朝日ヶ丘1丁目　松山総合公園展望広場",
     "link": "https://local.pokemon.jp/manhole/desc/326/",
-    "image": "images/manhole/326.png",
-    "location_ja": "Matsuyama",
+    "image": "images/thumbs/326.png",
+    "location_ja": "松山市",
     "zone_en": "Ehime",
-    "location_en": "Matsuyama"
+    "location_en": "Matsuyama",
+    "zone_ja": "愛媛県"
   },
   {
     "id": 327,
@@ -5162,10 +5484,11 @@
     "longitude": 134.636196,
     "address": "鳴門市鳴門町土佐泊浦字大毛82-100",
     "link": "https://local.pokemon.jp/manhole/desc/327/",
-    "image": "images/manhole/327.png",
-    "location_ja": "Naruto",
+    "image": "images/thumbs/327.png",
+    "location_ja": "鳴門市",
     "zone_en": "Tokushima",
-    "location_en": "Naruto"
+    "location_en": "Naruto",
+    "zone_ja": "徳島県"
   },
   {
     "id": 328,
@@ -5178,10 +5501,11 @@
     "longitude": 134.601709,
     "address": "鳴門市撫養町斎田字北浜157",
     "link": "https://local.pokemon.jp/manhole/desc/328/",
-    "image": "images/manhole/328.png",
-    "location_ja": "Naruto",
+    "image": "images/thumbs/328.png",
+    "location_ja": "鳴門市",
     "zone_en": "Tokushima",
-    "location_en": "Naruto"
+    "location_en": "Naruto",
+    "zone_ja": "徳島県"
   },
   {
     "id": 329,
@@ -5194,10 +5518,11 @@
     "longitude": 134.616371,
     "address": "鳴門市撫養町立岩字四枚61",
     "link": "https://local.pokemon.jp/manhole/desc/329/",
-    "image": "images/manhole/329.png",
-    "location_ja": "Naruto",
+    "image": "images/thumbs/329.png",
+    "location_ja": "鳴門市",
     "zone_en": "Tokushima",
-    "location_en": "Naruto"
+    "location_en": "Naruto",
+    "zone_ja": "徳島県"
   },
   {
     "id": 330,
@@ -5210,10 +5535,11 @@
     "longitude": 136.584609,
     "address": "鈴鹿市寺家3-10-1",
     "link": "https://local.pokemon.jp/manhole/desc/330/",
-    "image": "images/manhole/330.png",
-    "location_ja": "Suzuka",
+    "image": "images/thumbs/330.png",
+    "location_ja": "鈴鹿市",
     "zone_en": "Mie",
-    "location_en": "Suzuka"
+    "location_en": "Suzuka",
+    "zone_ja": "三重県"
   },
   {
     "id": 331,
@@ -5226,10 +5552,11 @@
     "longitude": 136.659834,
     "address": "川越町大字豊田283番4",
     "link": "https://local.pokemon.jp/manhole/desc/331/",
-    "image": "images/manhole/331.png",
-    "location_ja": "Kawagoe",
+    "image": "images/thumbs/331.png",
+    "location_ja": "川越町",
     "zone_en": "Mie",
-    "location_en": "Kawagoe"
+    "location_en": "Kawagoe",
+    "zone_ja": "三重県"
   },
   {
     "id": 332,
@@ -5242,10 +5569,11 @@
     "longitude": 136.5537339,
     "address": "多気町五桂956",
     "link": "https://local.pokemon.jp/manhole/desc/332/",
-    "image": "images/manhole/332.png",
-    "location_ja": "Taki",
+    "image": "images/thumbs/332.png",
+    "location_ja": "多気町",
     "zone_en": "Mie",
-    "location_en": "Taki"
+    "location_en": "Taki",
+    "zone_ja": "三重県"
   },
   {
     "id": 333,
@@ -5258,10 +5586,11 @@
     "longitude": 136.519839,
     "address": "松阪市外五曲町１番地１",
     "link": "https://local.pokemon.jp/manhole/desc/333/",
-    "image": "images/manhole/333.png",
-    "location_ja": "Matsusaka",
+    "image": "images/thumbs/333.png",
+    "location_ja": "松阪市",
     "zone_en": "Mie",
-    "location_en": "Matsusaka"
+    "location_en": "Matsusaka",
+    "zone_ja": "三重県"
   },
   {
     "id": 334,
@@ -5274,10 +5603,11 @@
     "longitude": 136.5876056,
     "address": "度会郡玉城町原4266",
     "link": "https://local.pokemon.jp/manhole/desc/334/",
-    "image": "images/manhole/334.png",
-    "location_ja": "Tamashiro",
+    "image": "images/thumbs/334.png",
+    "location_ja": "玉城町",
     "zone_en": "Mie",
-    "location_en": "Tamashiro"
+    "location_en": "Tamashiro",
+    "zone_ja": "三重県"
   },
   {
     "id": 335,
@@ -5290,10 +5620,11 @@
     "longitude": 136.54891,
     "address": "度会郡南伊勢町道行竈（見江島展望台）",
     "link": "https://local.pokemon.jp/manhole/desc/335/",
-    "image": "images/manhole/335.png",
-    "location_ja": "Minamiise",
+    "image": "images/thumbs/335.png",
+    "location_ja": "南伊勢町",
     "zone_en": "Mie",
-    "location_en": "Minamiise"
+    "location_en": "Minamiise",
+    "zone_ja": "三重県"
   },
   {
     "id": 336,
@@ -5306,10 +5637,11 @@
     "longitude": 136.492007,
     "address": "勝山市遅羽町比島34-2-7",
     "link": "https://local.pokemon.jp/manhole/desc/336/",
-    "image": "images/manhole/336.png",
-    "location_ja": "Katsuyama",
+    "image": "images/thumbs/336.png",
+    "location_ja": "勝山市",
     "zone_en": "Fukui",
-    "location_en": "Katsuyama"
+    "location_en": "Katsuyama",
+    "zone_ja": "福井県"
   },
   {
     "id": 337,
@@ -5322,10 +5654,11 @@
     "longitude": 136.234226,
     "address": "あわら市春宮1-13",
     "link": "https://local.pokemon.jp/manhole/desc/337/",
-    "image": "images/manhole/337.png",
-    "location_ja": "Awara",
+    "image": "images/thumbs/337.png",
+    "location_ja": "あわら市",
     "zone_en": "Fukui",
-    "location_en": "Awara"
+    "location_en": "Awara",
+    "zone_ja": "福井県"
   },
   {
     "id": 338,
@@ -5338,10 +5671,11 @@
     "longitude": 136.198727,
     "address": "越前市大屋町38-5-1",
     "link": "https://local.pokemon.jp/manhole/desc/338/",
-    "image": "images/manhole/338.png",
-    "location_ja": "Echizen-shi",
+    "image": "images/thumbs/338.png",
+    "location_ja": "越前市",
     "zone_en": "Fukui",
-    "location_en": "Echizen-shi"
+    "location_en": "Echizen-shi",
+    "zone_ja": "福井県"
   },
   {
     "id": 339,
@@ -5354,10 +5688,11 @@
     "longitude": 136.399312,
     "address": "永平寺町清水2-21-1",
     "link": "https://local.pokemon.jp/manhole/desc/339/",
-    "image": "images/manhole/339.png",
-    "location_ja": "Eiheiji-cho",
+    "image": "images/thumbs/339.png",
+    "location_ja": "永平寺町",
     "zone_en": "Fukui",
-    "location_en": "Eiheiji-cho"
+    "location_en": "Eiheiji-cho",
+    "zone_ja": "福井県"
   },
   {
     "id": 340,
@@ -5370,10 +5705,11 @@
     "longitude": 135.54556,
     "address": "高浜町塩土第1号200番地",
     "link": "https://local.pokemon.jp/manhole/desc/340/",
-    "image": "images/manhole/340.png",
-    "location_ja": "Takahama",
+    "image": "images/thumbs/340.png",
+    "location_ja": "高浜町",
     "zone_en": "Fukui",
-    "location_en": "Takahama"
+    "location_en": "Takahama",
+    "zone_ja": "福井県"
   },
   {
     "id": 341,
@@ -5386,10 +5722,11 @@
     "longitude": 135.936876,
     "address": "美浜町松原35-15-1",
     "link": "https://local.pokemon.jp/manhole/desc/341/",
-    "image": "images/manhole/341.png",
-    "location_ja": "Mihama",
+    "image": "images/thumbs/341.png",
+    "location_ja": "美浜町",
     "zone_en": "Fukui",
-    "location_en": "Mihama"
+    "location_en": "Mihama",
+    "zone_ja": "福井県"
   },
   {
     "id": 342,
@@ -5402,10 +5739,11 @@
     "longitude": 135.171405,
     "address": "和歌山市七番丁23",
     "link": "https://local.pokemon.jp/manhole/desc/342/",
-    "image": "images/manhole/342.png",
-    "location_ja": "Wakayama",
+    "image": "images/thumbs/342.png",
+    "location_ja": "和歌山市",
     "zone_en": "Wakayama",
-    "location_en": "Wakayama"
+    "location_en": "Wakayama",
+    "zone_ja": "和歌山県"
   },
   {
     "id": 343,
@@ -5418,10 +5756,11 @@
     "longitude": 135.583052,
     "address": "高野町高野山357",
     "link": "https://local.pokemon.jp/manhole/desc/343/",
-    "image": "images/manhole/343.png",
-    "location_ja": "Koya",
+    "image": "images/thumbs/343.png",
+    "location_ja": "高野町",
     "zone_en": "Wakayama",
-    "location_en": "Koya"
+    "location_en": "Koya",
+    "zone_ja": "和歌山県"
   },
   {
     "id": 344,
@@ -5434,10 +5773,11 @@
     "longitude": 135.387056,
     "address": "白浜町堅田1474",
     "link": "https://local.pokemon.jp/manhole/desc/344/",
-    "image": "images/manhole/344.png",
-    "location_ja": "Shirahama",
+    "image": "images/thumbs/344.png",
+    "location_ja": "白浜町",
     "zone_en": "Wakayama",
-    "location_en": "Shirahama"
+    "location_en": "Shirahama",
+    "zone_ja": "和歌山県"
   },
   {
     "id": 345,
@@ -5450,10 +5790,11 @@
     "longitude": 135.823074,
     "address": "串本町西向359番地",
     "link": "https://local.pokemon.jp/manhole/desc/345/",
-    "image": "images/manhole/345.png",
-    "location_ja": "Kushimoto",
+    "image": "images/thumbs/345.png",
+    "location_ja": "串本町",
     "zone_en": "Wakayama",
-    "location_en": "Kushimoto"
+    "location_en": "Kushimoto",
+    "zone_ja": "和歌山県"
   },
   {
     "id": 346,
@@ -5466,10 +5807,11 @@
     "longitude": 135.902917,
     "address": "那智勝浦町大字市野々3034-2",
     "link": "https://local.pokemon.jp/manhole/desc/346/",
-    "image": "images/manhole/346.png",
-    "location_ja": "Nachikatsuura",
+    "image": "images/thumbs/346.png",
+    "location_ja": "那智勝浦町",
     "zone_en": "Wakayama",
-    "location_en": "Nachikatsuura"
+    "location_en": "Nachikatsuura",
+    "zone_ja": "和歌山県"
   },
   {
     "id": 347,
@@ -5482,10 +5824,11 @@
     "longitude": 138.382564,
     "address": "葵区追手町５番１号",
     "link": "https://local.pokemon.jp/manhole/desc/347/",
-    "image": "images/manhole/347.png",
-    "location_ja": "Shizuoka",
+    "image": "images/thumbs/347.png",
+    "location_ja": "静岡市",
     "zone_en": "Shizuoka",
-    "location_en": "Shizuoka"
+    "location_en": "Shizuoka",
+    "zone_ja": "静岡県"
   },
   {
     "id": 348,
@@ -5498,10 +5841,11 @@
     "longitude": 137.732587,
     "address": "中央区砂山町320-2（浜松UP-ON付近）",
     "link": "https://local.pokemon.jp/manhole/desc/348/",
-    "image": "images/manhole/348.png",
-    "location_ja": "Hamamatsu",
+    "image": "images/thumbs/348.png",
+    "location_ja": "浜松市",
     "zone_en": "Shizuoka",
-    "location_en": "Hamamatsu"
+    "location_en": "Hamamatsu",
+    "zone_ja": "静岡県"
   },
   {
     "id": 349,
@@ -5514,10 +5858,11 @@
     "longitude": 138.854743,
     "address": "本字千本1905-27",
     "link": "https://local.pokemon.jp/manhole/desc/349/",
-    "image": "images/manhole/349.png",
-    "location_ja": "Numazu",
+    "image": "images/thumbs/349.png",
+    "location_ja": "沼津市",
     "zone_en": "Shizuoka",
-    "location_en": "Numazu"
+    "location_en": "Numazu",
+    "zone_ja": "静岡県"
   },
   {
     "id": 350,
@@ -5530,10 +5875,11 @@
     "longitude": 138.617705,
     "address": "岩淵1488-1",
     "link": "https://local.pokemon.jp/manhole/desc/350/",
-    "image": "images/manhole/350.png",
-    "location_ja": "Fuji",
+    "image": "images/thumbs/350.png",
+    "location_ja": "富士市",
     "zone_en": "Shizuoka",
-    "location_en": "Fuji"
+    "location_en": "Fuji",
+    "zone_ja": "静岡県"
   },
   {
     "id": 351,
@@ -5546,10 +5892,11 @@
     "longitude": 138.927728,
     "address": "修善寺943番地の１",
     "link": "https://local.pokemon.jp/manhole/desc/351/",
-    "image": "images/manhole/351.png",
-    "location_ja": "Izu",
+    "image": "images/thumbs/351.png",
+    "location_ja": "伊豆市",
     "zone_en": "Shizuoka",
-    "location_en": "Izu"
+    "location_en": "Izu",
+    "zone_ja": "静岡県"
   },
   {
     "id": 352,
@@ -5562,10 +5909,11 @@
     "longitude": 135.809787,
     "address": "宇治山田６８−１",
     "link": "https://local.pokemon.jp/manhole/desc/352/",
-    "image": "images/manhole/352.png",
-    "location_ja": "Uji",
+    "image": "images/thumbs/352.png",
+    "location_ja": "宇治市",
     "zone_en": "Kyoto",
-    "location_en": "Uji"
+    "location_en": "Uji",
+    "zone_ja": "京都府"
   },
   {
     "id": 353,
@@ -5578,10 +5926,11 @@
     "longitude": 135.805962,
     "address": "菟道丸山203-1",
     "link": "https://local.pokemon.jp/manhole/desc/353/",
-    "image": "images/manhole/353.png",
-    "location_ja": "Uji",
+    "image": "images/thumbs/353.png",
+    "location_ja": "宇治市",
     "zone_en": "Kyoto",
-    "location_en": "Uji"
+    "location_en": "Uji",
+    "zone_ja": "京都府"
   },
   {
     "id": 354,
@@ -5594,10 +5943,11 @@
     "longitude": 129.86735,
     "address": "長崎市尾上町5-6",
     "link": "https://local.pokemon.jp/manhole/desc/354/",
-    "image": "images/manhole/354.png",
-    "location_ja": "Nagasaki",
+    "image": "images/thumbs/354.png",
+    "location_ja": "長崎市",
     "zone_en": "Nagasaki",
-    "location_en": "Nagasaki"
+    "location_en": "Nagasaki",
+    "zone_ja": "長崎県"
   },
   {
     "id": 355,
@@ -5610,10 +5960,11 @@
     "longitude": 129.724169,
     "address": "佐世保市新港町3",
     "link": "https://local.pokemon.jp/manhole/desc/355/",
-    "image": "images/manhole/355.png",
-    "location_ja": "Sasebo",
+    "image": "images/thumbs/355.png",
+    "location_ja": "佐世保市",
     "zone_en": "Nagasaki",
-    "location_en": "Sasebo"
+    "location_en": "Sasebo",
+    "zone_ja": "長崎県"
   },
   {
     "id": 356,
@@ -5626,10 +5977,11 @@
     "longitude": 129.958278,
     "address": "大村市植松3丁目135-5",
     "link": "https://local.pokemon.jp/manhole/desc/356/",
-    "image": "images/manhole/356.png",
-    "location_ja": "Omura",
+    "image": "images/thumbs/356.png",
+    "location_ja": "大村市",
     "zone_en": "Nagasaki",
-    "location_en": "Omura"
+    "location_en": "Omura",
+    "zone_ja": "長崎県"
   },
   {
     "id": 357,
@@ -5642,10 +5994,11 @@
     "longitude": 130.261106,
     "address": "雲仙市小浜町雲仙320-18",
     "link": "https://local.pokemon.jp/manhole/desc/357/",
-    "image": "images/manhole/357.png",
-    "location_ja": "Unzen",
+    "image": "images/thumbs/357.png",
+    "location_ja": "雲仙市",
     "zone_en": "Nagasaki",
-    "location_en": "Unzen"
+    "location_en": "Unzen",
+    "zone_ja": "長崎県"
   },
   {
     "id": 358,
@@ -5658,10 +6011,11 @@
     "longitude": 129.112745,
     "address": "新上五島町有川郷578-36",
     "link": "https://local.pokemon.jp/manhole/desc/358/",
-    "image": "images/manhole/358.png",
-    "location_ja": "Shinkamigoto",
+    "image": "images/thumbs/358.png",
+    "location_ja": "新上五島町",
     "zone_en": "Nagasaki",
-    "location_en": "Shinkamigoto"
+    "location_en": "Shinkamigoto",
+    "zone_ja": "長崎県"
   },
   {
     "id": 359,
@@ -5674,10 +6028,11 @@
     "longitude": 136.807773,
     "address": "各務原市川島笠田町1569-1",
     "link": "https://local.pokemon.jp/manhole/desc/359/",
-    "image": "images/manhole/359.png",
-    "location_ja": "Kakamigahara",
+    "image": "images/thumbs/359.png",
+    "location_ja": "各務原市",
     "zone_en": "Gifu",
-    "location_en": "Kakamigahara"
+    "location_en": "Kakamigahara",
+    "zone_ja": "岐阜県"
   },
   {
     "id": 360,
@@ -5690,10 +6045,11 @@
     "longitude": 137.242963,
     "address": "下呂市森1075-1",
     "link": "https://local.pokemon.jp/manhole/desc/360/",
-    "image": "images/manhole/360.png",
-    "location_ja": "Gero",
+    "image": "images/thumbs/360.png",
+    "location_ja": "下呂市",
     "zone_en": "Gifu",
-    "location_en": "Gero"
+    "location_en": "Gero",
+    "zone_ja": "岐阜県"
   },
   {
     "id": 361,
@@ -5706,10 +6062,11 @@
     "longitude": 136.91225,
     "address": "関市東桜町8-1",
     "link": "https://local.pokemon.jp/manhole/desc/361/",
-    "image": "images/manhole/361.png",
-    "location_ja": "Seki",
+    "image": "images/thumbs/361.png",
+    "location_ja": "関市",
     "zone_en": "Gifu",
-    "location_en": "Seki"
+    "location_en": "Seki",
+    "zone_ja": "岐阜県"
   },
   {
     "id": 362,
@@ -5722,10 +6079,11 @@
     "longitude": 136.46842,
     "address": "関ケ原町大字関ケ原894-95",
     "link": "https://local.pokemon.jp/manhole/desc/362/",
-    "image": "images/manhole/362.png",
-    "location_ja": "Sekigahara",
+    "image": "images/thumbs/362.png",
+    "location_ja": "関ケ原町",
     "zone_en": "Gifu",
-    "location_en": "Sekigahara"
+    "location_en": "Sekigahara",
+    "zone_ja": "岐阜県"
   },
   {
     "id": 363,
@@ -5738,10 +6096,11 @@
     "longitude": 137.257235,
     "address": "高山市本町4-1",
     "link": "https://local.pokemon.jp/manhole/desc/363/",
-    "image": "images/manhole/363.png",
-    "location_ja": "Takayama",
+    "image": "images/thumbs/363.png",
+    "location_ja": "高山市",
     "zone_en": "Gifu",
-    "location_en": "Takayama"
+    "location_en": "Takayama",
+    "zone_ja": "岐阜県"
   },
   {
     "id": 364,
@@ -5754,10 +6113,11 @@
     "longitude": 136.4859314,
     "address": "大野市城町1-5（大手門広場内）",
     "link": "https://local.pokemon.jp/manhole/desc/364/",
-    "image": "images/manhole/364.png",
-    "location_ja": "Ono",
+    "image": "images/thumbs/364.png",
+    "location_ja": "大野市",
     "zone_en": "Fukui",
-    "location_en": "Ono"
+    "location_en": "Ono",
+    "zone_ja": "福井県"
   },
   {
     "id": 365,
@@ -5770,10 +6130,11 @@
     "longitude": 136.074281,
     "address": "敦賀市金ケ崎町4-1",
     "link": "https://local.pokemon.jp/manhole/desc/365/",
-    "image": "images/manhole/365.png",
-    "location_ja": "Tsuruga",
+    "image": "images/thumbs/365.png",
+    "location_ja": "敦賀市",
     "zone_en": "Fukui",
-    "location_en": "Tsuruga"
+    "location_en": "Tsuruga",
+    "zone_ja": "福井県"
   },
   {
     "id": 366,
@@ -5786,10 +6147,11 @@
     "longitude": 136.201365,
     "address": "南越前町牧谷39-2-2",
     "link": "https://local.pokemon.jp/manhole/desc/366/",
-    "image": "images/manhole/366.png",
-    "location_ja": "Minami Echizen",
+    "image": "images/thumbs/366.png",
+    "location_ja": "南越前町",
     "zone_en": "Fukui",
-    "location_en": "Minami Echizen"
+    "location_en": "Minami Echizen",
+    "zone_ja": "福井県"
   },
   {
     "id": 367,
@@ -5802,10 +6164,11 @@
     "longitude": 135.741761,
     "address": "小浜市小浜白鬚111-1",
     "link": "https://local.pokemon.jp/manhole/desc/367/",
-    "image": "images/manhole/367.png",
-    "location_ja": "Obama",
+    "image": "images/thumbs/367.png",
+    "location_ja": "小浜市",
     "zone_en": "Fukui",
-    "location_en": "Obama"
+    "location_en": "Obama",
+    "zone_ja": "福井県"
   },
   {
     "id": 368,
@@ -5818,10 +6181,11 @@
     "longitude": 136.339213,
     "address": "福井県池田町池田9-6-1",
     "link": "https://local.pokemon.jp/manhole/desc/368/",
-    "image": "images/manhole/368.png",
-    "location_ja": "Ikeda",
+    "image": "images/thumbs/368.png",
+    "location_ja": "池田町",
     "zone_en": "Fukui",
-    "location_en": "Ikeda"
+    "location_en": "Ikeda",
+    "zone_ja": "福井県"
   },
   {
     "id": 369,
@@ -5834,10 +6198,11 @@
     "longitude": 139.821186,
     "address": "字西南町裏甲3998番地2",
     "link": "https://local.pokemon.jp/manhole/desc/369/",
-    "image": "images/manhole/369.png",
-    "location_ja": "Aizubange",
+    "image": "images/thumbs/369.png",
+    "location_ja": "会津坂下町",
     "zone_en": "Fukushima",
-    "location_en": "Aizubange"
+    "location_en": "Aizubange",
+    "zone_ja": "福島県"
   },
   {
     "id": 370,
@@ -5850,10 +6215,11 @@
     "longitude": 140.347153,
     "address": "中央245番地",
     "link": "https://local.pokemon.jp/manhole/desc/370/",
-    "image": "images/manhole/370.png",
-    "location_ja": "Kagamiishi",
+    "image": "images/thumbs/370.png",
+    "location_ja": "鏡石町",
     "zone_en": "Fukushima",
-    "location_en": "Kagamiishi"
+    "location_en": "Kagamiishi",
+    "zone_ja": "福島県"
   },
   {
     "id": 371,
@@ -5866,10 +6232,11 @@
     "longitude": 140.387151,
     "address": "大字棚倉字城跡33-7の先",
     "link": "https://local.pokemon.jp/manhole/desc/371/",
-    "image": "images/manhole/371.png",
-    "location_ja": "Tanagura",
+    "image": "images/thumbs/371.png",
+    "location_ja": "棚倉町",
     "zone_en": "Fukushima",
-    "location_en": "Tanagura"
+    "location_en": "Tanagura",
+    "zone_ja": "福島県"
   },
   {
     "id": 372,
@@ -5882,10 +6249,11 @@
     "longitude": 139.862167,
     "address": "大字佐野目字五丁ノ目78-1",
     "link": "https://local.pokemon.jp/manhole/desc/372/",
-    "image": "images/manhole/372.png",
-    "location_ja": "Yugawa",
+    "image": "images/thumbs/372.png",
+    "location_ja": "湯川村",
     "zone_en": "Fukushima",
-    "location_en": "Yugawa"
+    "location_en": "Yugawa",
+    "zone_ja": "福島県"
   },
   {
     "id": 373,
@@ -5898,10 +6266,11 @@
     "longitude": 140.546861,
     "address": "大字藤田字日渡二18-1",
     "link": "https://local.pokemon.jp/manhole/desc/373/",
-    "image": "images/manhole/373.png",
-    "location_ja": "Kunimi",
+    "image": "images/thumbs/373.png",
+    "location_ja": "国見町",
     "zone_en": "Fukushima",
-    "location_en": "Kunimi"
+    "location_en": "Kunimi",
+    "zone_ja": "福島県"
   },
   {
     "id": 374,
@@ -5914,10 +6283,11 @@
     "longitude": 141.0018,
     "address": "大字下北迫字大谷地原74-1",
     "link": "https://local.pokemon.jp/manhole/desc/374/",
-    "image": "images/manhole/374.png",
-    "location_ja": "Hirono",
+    "image": "images/thumbs/374.png",
+    "location_ja": "広野町",
     "zone_en": "Fukushima",
-    "location_en": "Hirono"
+    "location_en": "Hirono",
+    "zone_ja": "福島県"
   },
   {
     "id": 375,
@@ -5930,10 +6300,11 @@
     "longitude": 140.547538,
     "address": "大字蓬田新田字蓬田岳437",
     "link": "https://local.pokemon.jp/manhole/desc/375/",
-    "image": "images/manhole/375.png",
-    "location_ja": "Hirata",
+    "image": "images/thumbs/375.png",
+    "location_ja": "平田村",
     "zone_en": "Fukushima",
-    "location_en": "Hirata"
+    "location_en": "Hirata",
+    "zone_ja": "福島県"
   },
   {
     "id": 376,
@@ -5946,10 +6317,11 @@
     "longitude": 140.212974,
     "address": "白河市郭内",
     "link": "https://local.pokemon.jp/manhole/desc/376/",
-    "image": "images/manhole/376.png",
-    "location_ja": "Shirakawa",
+    "image": "images/thumbs/376.png",
+    "location_ja": "白河市",
     "zone_en": "Fukushima",
-    "location_en": "Shirakawa"
+    "location_en": "Shirakawa",
+    "zone_ja": "福島県"
   },
   {
     "id": 377,
@@ -5962,10 +6334,11 @@
     "longitude": 132.07129,
     "address": "原井町1203-1",
     "link": "https://local.pokemon.jp/manhole/desc/377/",
-    "image": "images/manhole/377.png",
-    "location_ja": "Hamada",
+    "image": "images/thumbs/377.png",
+    "location_ja": "浜田市",
     "zone_en": "Shimane",
-    "location_en": "Hamada"
+    "location_en": "Hamada",
+    "zone_ja": "島根県"
   },
   {
     "id": 378,
@@ -5978,10 +6351,11 @@
     "longitude": 132.629353,
     "address": "大社町日御碕字秘台原山1481-2",
     "link": "https://local.pokemon.jp/manhole/desc/378/",
-    "image": "images/manhole/378.png",
-    "location_ja": "Izumo",
+    "image": "images/thumbs/378.png",
+    "location_ja": "出雲市",
     "zone_en": "Shimane",
-    "location_en": "Izumo"
+    "location_en": "Izumo",
+    "zone_ja": "島根県"
   },
   {
     "id": 379,
@@ -5994,10 +6368,11 @@
     "longitude": 132.413128,
     "address": "大田市仁摩町大国42-1",
     "link": "https://local.pokemon.jp/manhole/desc/379/",
-    "image": "images/manhole/379.png",
-    "location_ja": "Oda",
+    "image": "images/thumbs/379.png",
+    "location_ja": "大田市",
     "zone_en": "Shimane",
-    "location_en": "Oda"
+    "location_en": "Oda",
+    "zone_ja": "島根県"
   },
   {
     "id": 380,
@@ -6010,10 +6385,11 @@
     "longitude": 133.259012,
     "address": "安来市安来町2093-3",
     "link": "https://local.pokemon.jp/manhole/desc/380/",
-    "image": "images/manhole/380.png",
-    "location_ja": "Yasugi",
+    "image": "images/thumbs/380.png",
+    "location_ja": "安来市",
     "zone_en": "Shimane",
-    "location_en": "Yasugi"
+    "location_en": "Yasugi",
+    "zone_ja": "島根県"
   },
   {
     "id": 381,
@@ -6026,10 +6402,11 @@
     "longitude": 133.3302467,
     "address": "岬町1889番地12",
     "link": "https://local.pokemon.jp/manhole/desc/381/",
-    "image": "images/manhole/381.png",
-    "location_ja": "Okinoshima",
+    "image": "images/thumbs/381.png",
+    "location_ja": "隠岐の島町",
     "zone_en": "Shimane",
-    "location_en": "Okinoshima"
+    "location_en": "Okinoshima",
+    "zone_ja": "島根県"
   },
   {
     "id": 382,
@@ -6042,10 +6419,11 @@
     "longitude": 135.784525,
     "address": "宇治市小倉町神楽田56番地",
     "link": "https://local.pokemon.jp/manhole/desc/382/",
-    "image": "images/manhole/382.png",
-    "location_ja": "Uji",
+    "image": "images/thumbs/382.png",
+    "location_ja": "ニンテンドーミュージアム",
     "zone_en": "Kyoto",
-    "location_en": "Uji"
+    "location_en": "Uji",
+    "zone_ja": "京都府"
   },
   {
     "id": 383,
@@ -6058,10 +6436,11 @@
     "longitude": 136.703006,
     "address": "中央町二丁目37番地",
     "link": "https://local.pokemon.jp/manhole/desc/383/",
-    "image": "images/manhole/383.png",
-    "location_ja": "Kuwana",
+    "image": "images/thumbs/383.png",
+    "location_ja": "桑名市",
     "zone_en": "Mie",
-    "location_en": "Kuwana"
+    "location_en": "Kuwana",
+    "zone_ja": "三重県"
   },
   {
     "id": 384,
@@ -6074,10 +6453,11 @@
     "longitude": 136.216025,
     "address": "尾鷲市向井28",
     "link": "https://local.pokemon.jp/manhole/desc/384/",
-    "image": "images/manhole/384.png",
-    "location_ja": "Owase",
+    "image": "images/thumbs/384.png",
+    "location_ja": "尾鷲市",
     "zone_en": "Mie",
-    "location_en": "Owase"
+    "location_en": "Owase",
+    "zone_ja": "三重県"
   },
   {
     "id": 385,
@@ -6090,10 +6470,11 @@
     "longitude": 136.51618,
     "address": "いなべ市北勢町阿下喜31番地",
     "link": "https://local.pokemon.jp/manhole/desc/385/",
-    "image": "images/manhole/385.png",
-    "location_ja": "Inabe",
+    "image": "images/thumbs/385.png",
+    "location_ja": "いなべ市",
     "zone_en": "Mie",
-    "location_en": "Inabe"
+    "location_en": "Inabe",
+    "zone_ja": "三重県"
   },
   {
     "id": 386,
@@ -6106,10 +6487,11 @@
     "longitude": 136.506542,
     "address": "菰野町大字潤田1281番地",
     "link": "https://local.pokemon.jp/manhole/desc/386/",
-    "image": "images/manhole/386.png",
-    "location_ja": "Komono",
+    "image": "images/thumbs/386.png",
+    "location_ja": "菰野町",
     "zone_en": "Mie",
-    "location_en": "Komono"
+    "location_en": "Komono",
+    "zone_ja": "三重県"
   },
   {
     "id": 387,
@@ -6122,10 +6504,11 @@
     "longitude": 136.399061,
     "address": "大紀町崎2154番地１",
     "link": "https://local.pokemon.jp/manhole/desc/387/",
-    "image": "images/manhole/387.png",
-    "location_ja": "Taiki",
+    "image": "images/thumbs/387.png",
+    "location_ja": "大紀町",
     "zone_en": "Mie",
-    "location_en": "Taiki"
+    "location_en": "Taiki",
+    "zone_ja": "三重県"
   },
   {
     "id": 388,
@@ -6138,10 +6521,11 @@
     "longitude": 136.346376,
     "address": "紀北町東長島2410-73",
     "link": "https://local.pokemon.jp/manhole/desc/388/",
-    "image": "images/manhole/388.png",
-    "location_ja": "Kihoku",
+    "image": "images/thumbs/388.png",
+    "location_ja": "紀北町",
     "zone_en": "Mie",
-    "location_en": "Kihoku"
+    "location_en": "Kihoku",
+    "zone_ja": "三重県"
   },
   {
     "id": 389,
@@ -6154,10 +6538,11 @@
     "longitude": 136.04345,
     "address": "御浜町大字阿田和４９２６番地５",
     "link": "https://local.pokemon.jp/manhole/desc/389/",
-    "image": "images/manhole/389.png",
-    "location_ja": "Mihama",
+    "image": "images/thumbs/389.png",
+    "location_ja": "御浜町",
     "zone_en": "Mie",
-    "location_en": "Mihama"
+    "location_en": "Mihama",
+    "zone_ja": "三重県"
   },
   {
     "id": 390,
@@ -6170,10 +6555,11 @@
     "longitude": 133.874784,
     "address": "物部町大栃872番地2",
     "link": "https://local.pokemon.jp/manhole/desc/390/",
-    "image": "images/manhole/390.png",
-    "location_ja": "Kami",
+    "image": "images/thumbs/390.png",
+    "location_ja": "香美市",
     "zone_en": "Kochi",
-    "location_en": "Kami"
+    "location_en": "Kami",
+    "zone_ja": "高知県"
   },
   {
     "id": 391,
@@ -6186,10 +6572,11 @@
     "longitude": 134.017781,
     "address": "乙4779-3",
     "link": "https://local.pokemon.jp/manhole/desc/391/",
-    "image": "images/manhole/391.png",
-    "location_ja": "Nahari",
+    "image": "images/thumbs/391.png",
+    "location_ja": "奈半利町",
     "zone_en": "Kochi",
-    "location_en": "Nahari"
+    "location_en": "Nahari",
+    "zone_ja": "高知県"
   },
   {
     "id": 392,
@@ -6202,10 +6589,11 @@
     "longitude": 133.684166,
     "address": "中村大王4037-25",
     "link": "https://local.pokemon.jp/manhole/desc/392/",
-    "image": "images/manhole/392.png",
-    "location_ja": "Otoyo",
+    "image": "images/thumbs/392.png",
+    "location_ja": "大豊町",
     "zone_en": "Kochi",
-    "location_en": "Otoyo"
+    "location_en": "Otoyo",
+    "zone_ja": "高知県"
   },
   {
     "id": 393,
@@ -6218,10 +6606,11 @@
     "longitude": 133.3712561,
     "address": "本郷284-2",
     "link": "https://local.pokemon.jp/manhole/desc/393/",
-    "image": "images/manhole/393.png",
-    "location_ja": "Hidaka",
+    "image": "images/thumbs/393.png",
+    "location_ja": "日高村",
     "zone_en": "Kochi",
-    "location_en": "Hidaka"
+    "location_en": "Hidaka",
+    "zone_ja": "高知県"
   },
   {
     "id": 394,
@@ -6234,10 +6623,11 @@
     "longitude": 133.004184,
     "address": "芳生野乙4921-22",
     "link": "https://local.pokemon.jp/manhole/desc/394/",
-    "image": "images/manhole/394.png",
-    "location_ja": "Tsuno",
+    "image": "images/thumbs/394.png",
+    "location_ja": "津野町",
     "zone_en": "Kochi",
-    "location_en": "Tsuno"
+    "location_en": "Tsuno",
+    "zone_ja": "高知県"
   },
   {
     "id": 395,
@@ -6250,10 +6640,11 @@
     "longitude": 132.627259,
     "address": "柏島600番地",
     "link": "https://local.pokemon.jp/manhole/desc/395/",
-    "image": "images/manhole/395.png",
-    "location_ja": "Otsuki",
+    "image": "images/thumbs/395.png",
+    "location_ja": "大月町",
     "zone_en": "Kochi",
-    "location_en": "Otsuki"
+    "location_en": "Otsuki",
+    "zone_ja": "高知県"
   },
   {
     "id": 396,
@@ -6266,10 +6657,11 @@
     "longitude": 132.83982,
     "address": "宮ノ川",
     "link": "https://local.pokemon.jp/manhole/desc/396/",
-    "image": "images/manhole/396.png",
-    "location_ja": "Mihara",
+    "image": "images/thumbs/396.png",
+    "location_ja": "三原村",
     "zone_en": "Kochi",
-    "location_en": "Mihara"
+    "location_en": "Mihara",
+    "zone_ja": "高知県"
   },
   {
     "id": 397,
@@ -6282,10 +6674,11 @@
     "longitude": 141.1282,
     "address": "北上市立花13地割（展勝地公園）",
     "link": "https://local.pokemon.jp/manhole/desc/397/",
-    "image": "images/manhole/397.png",
-    "location_ja": "Kitakami",
+    "image": "images/thumbs/397.png",
+    "location_ja": "北上市（イシツブテ公園）",
     "zone_en": "Iwate",
-    "location_en": "Kitakami"
+    "location_en": "Kitakami",
+    "zone_ja": "岩手県"
   },
   {
     "id": 398,
@@ -6298,10 +6691,11 @@
     "longitude": 141.173111,
     "address": "盛岡市渋民字渋民80番地42",
     "link": "https://local.pokemon.jp/manhole/desc/398/",
-    "image": "images/manhole/398.png",
-    "location_ja": "Morioka",
+    "image": "images/thumbs/398.png",
+    "location_ja": "盛岡市",
     "zone_en": "Iwate",
-    "location_en": "Morioka"
+    "location_en": "Morioka",
+    "zone_ja": "岩手県"
   },
   {
     "id": 399,
@@ -6314,10 +6708,11 @@
     "longitude": 140.325854,
     "address": "山形市双葉町1-2-38",
     "link": "https://local.pokemon.jp/manhole/desc/399/",
-    "image": "images/manhole/399.png",
-    "location_ja": "Yamagata",
+    "image": "images/thumbs/399.png",
+    "location_ja": "山形市",
     "zone_en": "Yamagata",
-    "location_en": "Yamagata"
+    "location_en": "Yamagata",
+    "zone_ja": "山形県"
   },
   {
     "id": 400,
@@ -6330,10 +6725,11 @@
     "longitude": 140.26637,
     "address": "山西甲1269",
     "link": "https://local.pokemon.jp/manhole/desc/400/",
-    "image": "images/manhole/400.png",
-    "location_ja": "Sagae",
+    "image": "images/thumbs/400.png",
+    "location_ja": "寒河江市",
     "zone_en": "Yamagata",
-    "location_en": "Sagae"
+    "location_en": "Sagae",
+    "zone_ja": "山形県"
   },
   {
     "id": 401,
@@ -6346,10 +6742,11 @@
     "longitude": 140.169653,
     "address": "最上郡大蔵村南山４５１－２",
     "link": "https://local.pokemon.jp/manhole/desc/401/",
-    "image": "images/manhole/401.png",
-    "location_ja": "Okura",
+    "image": "images/thumbs/401.png",
+    "location_ja": "大蔵村",
     "zone_en": "Yamagata",
-    "location_en": "Okura"
+    "location_en": "Okura",
+    "zone_ja": "山形県"
   },
   {
     "id": 402,
@@ -6362,10 +6759,11 @@
     "longitude": 139.73128,
     "address": "小国町大字小国小坂町616",
     "link": "https://local.pokemon.jp/manhole/desc/402/",
-    "image": "images/manhole/402.png",
-    "location_ja": "Oguni",
+    "image": "images/thumbs/402.png",
+    "location_ja": "小国町",
     "zone_en": "Yamagata",
-    "location_en": "Oguni"
+    "location_en": "Oguni",
+    "zone_ja": "山形県"
   },
   {
     "id": 403,
@@ -6378,10 +6776,11 @@
     "longitude": 139.684635,
     "address": "鶴岡市由良2-14",
     "link": "https://local.pokemon.jp/manhole/desc/403/",
-    "image": "images/manhole/403.png",
-    "location_ja": "Tsuruoka",
+    "image": "images/thumbs/403.png",
+    "location_ja": "鶴岡市",
     "zone_en": "Yamagata",
-    "location_en": "Tsuruoka"
+    "location_en": "Tsuruoka",
+    "zone_ja": "山形県"
   },
   {
     "id": 404,
@@ -6394,10 +6793,11 @@
     "longitude": 136.9045981,
     "address": "中区二の丸１番2・3号",
     "link": "https://local.pokemon.jp/manhole/desc/404/",
-    "image": "images/manhole/404.png",
-    "location_ja": "Nagoya",
+    "image": "images/thumbs/404.png",
+    "location_ja": "名古屋市",
     "zone_en": "Aichi",
-    "location_en": "Nagoya"
+    "location_en": "Nagoya",
+    "zone_ja": "愛知県"
   },
   {
     "id": 405,
@@ -6410,10 +6810,11 @@
     "longitude": 137.1008385,
     "address": "蔵所町1-1",
     "link": "https://local.pokemon.jp/manhole/desc/405/",
-    "image": "images/manhole/405.png",
-    "location_ja": "Seto",
+    "image": "images/thumbs/405.png",
+    "location_ja": "瀬戸市",
     "zone_en": "Aichi",
-    "location_en": "Seto"
+    "location_en": "Seto",
+    "zone_ja": "愛知県"
   },
   {
     "id": 406,
@@ -6426,10 +6827,11 @@
     "longitude": 136.8231592,
     "address": "りんくう町２丁目　りんくうビーチ",
     "link": "https://local.pokemon.jp/manhole/desc/406/",
-    "image": "images/manhole/406.png",
-    "location_ja": "Tokoname",
+    "image": "images/thumbs/406.png",
+    "location_ja": "常滑市",
     "zone_en": "Aichi",
-    "location_en": "Tokoname"
+    "location_en": "Tokoname",
+    "zone_ja": "愛知県"
   },
   {
     "id": 407,
@@ -6442,10 +6844,11 @@
     "longitude": 137.0481,
     "address": "東境町吉野55",
     "link": "https://local.pokemon.jp/manhole/desc/407/",
-    "image": "images/manhole/407.png",
-    "location_ja": "Kariya",
+    "image": "images/thumbs/407.png",
+    "location_ja": "刈谷市",
     "zone_en": "Aichi",
-    "location_en": "Kariya"
+    "location_en": "Kariya",
+    "zone_ja": "愛知県"
   },
   {
     "id": 408,
@@ -6458,10 +6861,11 @@
     "longitude": 137.048298,
     "address": "錦城町233",
     "link": "https://local.pokemon.jp/manhole/desc/408/",
-    "image": "images/manhole/408.png",
-    "location_ja": "Nishio",
+    "image": "images/thumbs/408.png",
+    "location_ja": "西尾市",
     "zone_en": "Aichi",
-    "location_en": "Nishio"
+    "location_en": "Nishio",
+    "zone_ja": "愛知県"
   },
   {
     "id": 409,
@@ -6474,10 +6878,11 @@
     "longitude": 140.649095,
     "address": "神栖市木崎1203-9",
     "link": "https://local.pokemon.jp/manhole/desc/409/",
-    "image": "images/manhole/409.png",
-    "location_ja": "Kamisu",
+    "image": "images/thumbs/409.png",
+    "location_ja": "神栖市",
     "zone_en": "Ibaraki",
-    "location_en": "Kamisu"
+    "location_en": "Kamisu",
+    "zone_ja": "茨城県"
   },
   {
     "id": 410,
@@ -6490,10 +6895,11 @@
     "longitude": 139.994116,
     "address": "筑西市川澄１８５０",
     "link": "https://local.pokemon.jp/manhole/desc/410/",
-    "image": "images/manhole/410.png",
-    "location_ja": "Chikusei",
+    "image": "images/thumbs/410.png",
+    "location_ja": "筑西市",
     "zone_en": "Ibaraki",
-    "location_en": "Chikusei"
+    "location_en": "Chikusei",
+    "zone_ja": "茨城県"
   },
   {
     "id": 411,
@@ -6506,10 +6912,11 @@
     "longitude": 140.110839,
     "address": "つくば市吾妻2-7-5",
     "link": "https://local.pokemon.jp/manhole/desc/411/",
-    "image": "images/manhole/411.png",
-    "location_ja": "Tsukuba",
+    "image": "images/thumbs/411.png",
+    "location_ja": "つくば市",
     "zone_en": "Ibaraki",
-    "location_en": "Tsukuba"
+    "location_en": "Tsukuba",
+    "zone_ja": "茨城県"
   },
   {
     "id": 412,
@@ -6522,10 +6929,11 @@
     "longitude": 140.525632,
     "address": "常陸太田市下河合町1016-1",
     "link": "https://local.pokemon.jp/manhole/desc/412/",
-    "image": "images/manhole/412.png",
-    "location_ja": "Hitachiota",
+    "image": "images/thumbs/412.png",
+    "location_ja": "常陸太田市",
     "zone_en": "Ibaraki",
-    "location_en": "Hitachiota"
+    "location_en": "Hitachiota",
+    "zone_ja": "茨城県"
   },
   {
     "id": 413,
@@ -6538,10 +6946,11 @@
     "longitude": 140.452358,
     "address": "水戸市見川1-1251",
     "link": "https://local.pokemon.jp/manhole/desc/413/",
-    "image": "images/manhole/413.png",
-    "location_ja": "Mito",
+    "image": "images/thumbs/413.png",
+    "location_ja": "水戸市",
     "zone_en": "Ibaraki",
-    "location_en": "Mito"
+    "location_en": "Mito",
+    "zone_ja": "茨城県"
   },
   {
     "id": 414,
@@ -6554,10 +6963,11 @@
     "longitude": 136.844965,
     "address": "鳥羽一丁目地内",
     "link": "https://local.pokemon.jp/manhole/desc/414/",
-    "image": "images/manhole/414.png",
-    "location_ja": "Toba",
+    "image": "images/thumbs/414.png",
+    "location_ja": "鳥羽市（ミジュマル公園）",
     "zone_en": "Mie",
-    "location_en": "Toba"
+    "location_en": "Toba",
+    "zone_ja": "三重県"
   },
   {
     "id": 415,
@@ -6570,10 +6980,11 @@
     "longitude": 136.538663,
     "address": "住吉町地内",
     "link": "https://local.pokemon.jp/manhole/desc/415/",
-    "image": "images/manhole/415.png",
-    "location_ja": "Suzuka",
+    "image": "images/thumbs/415.png",
+    "location_ja": "鈴鹿市（ミジュマル公園）",
     "zone_en": "Mie",
-    "location_en": "Suzuka"
+    "location_en": "Suzuka",
+    "zone_ja": "三重県"
   },
   {
     "id": 416,
@@ -6586,10 +6997,11 @@
     "longitude": 136.333313,
     "address": "坂井市丸岡町山口64-31",
     "link": "https://local.pokemon.jp/manhole/desc/416/",
-    "image": "images/manhole/416.png",
-    "location_ja": "Sakai",
+    "image": "images/thumbs/416.png",
+    "location_ja": "坂井市",
     "zone_en": "Fukui",
-    "location_en": "Sakai"
+    "location_en": "Sakai",
+    "zone_ja": "福井県"
   },
   {
     "id": 417,
@@ -6602,10 +7014,11 @@
     "longitude": 136.223635,
     "address": "福井市手寄1丁目1　（JR福井駅東口）",
     "link": "https://local.pokemon.jp/manhole/desc/417/",
-    "image": "images/manhole/417.png",
-    "location_ja": "Fukui",
+    "image": "images/thumbs/417.png",
+    "location_ja": "福井市",
     "zone_en": "Fukui",
-    "location_en": "Fukui"
+    "location_en": "Fukui",
+    "zone_ja": "福井県"
   },
   {
     "id": 418,
@@ -6618,10 +7031,11 @@
     "longitude": 135.62838,
     "address": "おおい町成海1-1-1",
     "link": "https://local.pokemon.jp/manhole/desc/418/",
-    "image": "images/manhole/418.png",
-    "location_ja": "Ohi",
+    "image": "images/thumbs/418.png",
+    "location_ja": "おおい町",
     "zone_en": "Fukui",
-    "location_en": "Ohi"
+    "location_en": "Ohi",
+    "zone_ja": "福井県"
   },
   {
     "id": 419,
@@ -6634,10 +7048,11 @@
     "longitude": 136.181116,
     "address": "鯖江市桜町3丁目8-1",
     "link": "https://local.pokemon.jp/manhole/desc/419/",
-    "image": "images/manhole/419.png",
-    "location_ja": "Sabae",
+    "image": "images/thumbs/419.png",
+    "location_ja": "鯖江市",
     "zone_en": "Fukui",
-    "location_en": "Sabae"
+    "location_en": "Sabae",
+    "zone_ja": "福井県"
   },
   {
     "id": 420,
@@ -6650,10 +7065,11 @@
     "longitude": 135.860204,
     "address": "若狭町市場18-18",
     "link": "https://local.pokemon.jp/manhole/desc/420/",
-    "image": "images/manhole/420.png",
-    "location_ja": "Wakasa",
+    "image": "images/thumbs/420.png",
+    "location_ja": "若狭町",
     "zone_en": "Fukui",
-    "location_en": "Wakasa"
+    "location_en": "Wakasa",
+    "zone_ja": "福井県"
   },
   {
     "id": 421,
@@ -6666,10 +7082,11 @@
     "longitude": 136.05872,
     "address": "丹生郡越前町小曽原120-60",
     "link": "https://local.pokemon.jp/manhole/desc/421/",
-    "image": "images/manhole/421.png",
-    "location_ja": "Echizen-cho",
+    "image": "images/thumbs/421.png",
+    "location_ja": "越前町",
     "zone_en": "Fukui",
-    "location_en": "Echizen-cho"
+    "location_en": "Echizen-cho",
+    "zone_ja": "福井県"
   },
   {
     "id": 422,
@@ -6682,10 +7099,11 @@
     "longitude": 127.753613,
     "address": "北谷町美浜20番",
     "link": "https://local.pokemon.jp/manhole/desc/422/",
-    "image": "images/manhole/422.png",
-    "location_ja": "Chatan",
+    "image": "images/thumbs/422.png",
+    "location_ja": "北谷町",
     "zone_en": "Okinawa",
-    "location_en": "Chatan"
+    "location_en": "Chatan",
+    "zone_ja": "沖縄県"
   },
   {
     "id": 423,
@@ -6698,10 +7116,11 @@
     "longitude": 127.34735,
     "address": "渡嘉敷村字阿波連1393－1",
     "link": "https://local.pokemon.jp/manhole/desc/423/",
-    "image": "images/manhole/423.png",
-    "location_ja": "Tokashiki",
+    "image": "images/thumbs/423.png",
+    "location_ja": "渡嘉敷村",
     "zone_en": "Okinawa",
-    "location_en": "Tokashiki"
+    "location_en": "Tokashiki",
+    "zone_ja": "沖縄県"
   },
   {
     "id": 424,
@@ -6714,10 +7133,11 @@
     "longitude": 127.301424,
     "address": "座間味村字座間味165番地",
     "link": "https://local.pokemon.jp/manhole/desc/424/",
-    "image": "images/manhole/424.png",
-    "location_ja": "Zamami",
+    "image": "images/thumbs/424.png",
+    "location_ja": "座間味村",
     "zone_en": "Okinawa",
-    "location_en": "Zamami"
+    "location_en": "Zamami",
+    "zone_ja": "沖縄県"
   },
   {
     "id": 425,
@@ -6730,10 +7150,11 @@
     "longitude": 126.788928,
     "address": "久米島町字阿嘉530-41",
     "link": "https://local.pokemon.jp/manhole/desc/425/",
-    "image": "images/manhole/425.png",
-    "location_ja": "Kumejima",
+    "image": "images/thumbs/425.png",
+    "location_ja": "久米島町",
     "zone_en": "Okinawa",
-    "location_en": "Kumejima"
+    "location_en": "Kumejima",
+    "zone_ja": "沖縄県"
   },
   {
     "id": 426,
@@ -6746,10 +7167,11 @@
     "longitude": 141.339917,
     "address": "葛巻第３９地割１５９−３",
     "link": "https://local.pokemon.jp/manhole/desc/426/",
-    "image": "images/manhole/426.png",
-    "location_ja": "Kuzumaki",
+    "image": "images/thumbs/426.png",
+    "location_ja": "葛巻町",
     "zone_en": "Iwate",
-    "location_en": "Kuzumaki"
+    "location_en": "Kuzumaki",
+    "zone_ja": "岩手県"
   },
   {
     "id": 427,
@@ -6762,10 +7184,11 @@
     "longitude": 130.370593,
     "address": "片町577-1",
     "link": "https://local.pokemon.jp/manhole/desc/427/",
-    "image": "images/manhole/427.png",
-    "location_ja": "Shimabara",
+    "image": "images/thumbs/427.png",
+    "location_ja": "島原市",
     "zone_en": "Nagasaki",
-    "location_en": "Shimabara"
+    "location_en": "Shimabara",
+    "zone_ja": "長崎県"
   },
   {
     "id": 428,
@@ -6778,10 +7201,11 @@
     "longitude": 129.6557033,
     "address": "郷ノ浦町新田触870-3",
     "link": "https://local.pokemon.jp/manhole/desc/428/",
-    "image": "images/manhole/428.png",
-    "location_ja": "Iki",
+    "image": "images/thumbs/428.png",
+    "location_ja": "壱岐市",
     "zone_en": "Nagasaki",
-    "location_en": "Iki"
+    "location_en": "Iki",
+    "zone_ja": "長崎県"
   },
   {
     "id": 429,
@@ -6794,10 +7218,11 @@
     "longitude": 129.849052,
     "address": "浦郷436-8",
     "link": "https://local.pokemon.jp/manhole/desc/429/",
-    "image": "images/manhole/429.png",
-    "location_ja": "Togitsu",
+    "image": "images/thumbs/429.png",
+    "location_ja": "時津町",
     "zone_en": "Nagasaki",
-    "location_en": "Togitsu"
+    "location_en": "Togitsu",
+    "zone_ja": "長崎県"
   },
   {
     "id": 430,
@@ -6810,10 +7235,11 @@
     "longitude": 129.9194868,
     "address": "彼杵宿郷747-2",
     "link": "https://local.pokemon.jp/manhole/desc/430/",
-    "image": "images/manhole/430.png",
-    "location_ja": "Higashisonogi",
+    "image": "images/thumbs/430.png",
+    "location_ja": "東彼杵町",
     "zone_en": "Nagasaki",
-    "location_en": "Higashisonogi"
+    "location_en": "Higashisonogi",
+    "zone_ja": "長崎県"
   },
   {
     "id": 431,
@@ -6826,10 +7252,11 @@
     "longitude": 129.6589353,
     "address": "鴨川免189⁻1",
     "link": "https://local.pokemon.jp/manhole/desc/431/",
-    "image": "images/manhole/431.png",
-    "location_ja": "Saza",
+    "image": "images/thumbs/431.png",
+    "location_ja": "佐々町",
     "zone_en": "Nagasaki",
-    "location_en": "Saza"
+    "location_en": "Saza",
+    "zone_ja": "長崎県"
   },
   {
     "id": 432,
@@ -6842,10 +7269,11 @@
     "longitude": 134.195181,
     "address": "室戸岬町533-2",
     "link": "https://local.pokemon.jp/manhole/desc/432/",
-    "image": "images/manhole/432.png",
-    "location_ja": "Muroto",
+    "image": "images/thumbs/432.png",
+    "location_ja": "室戸市",
     "zone_en": "Kochi",
-    "location_en": "Muroto"
+    "location_en": "Muroto",
+    "zone_ja": "高知県"
   },
   {
     "id": 433,
@@ -6858,10 +7286,11 @@
     "longitude": 133.9065445,
     "address": "矢ノ丸4丁目2-30",
     "link": "https://local.pokemon.jp/manhole/desc/433/",
-    "image": "images/manhole/433.png",
-    "location_ja": "Aki",
+    "image": "images/thumbs/433.png",
+    "location_ja": "安芸市",
     "zone_en": "Kochi",
-    "location_en": "Aki"
+    "location_en": "Aki",
+    "zone_ja": "高知県"
   },
   {
     "id": 434,
@@ -6874,10 +7303,11 @@
     "longitude": 133.2926446,
     "address": "原町1丁目9-11",
     "link": "https://local.pokemon.jp/manhole/desc/434/",
-    "image": "images/manhole/434.png",
-    "location_ja": "Susaki",
+    "image": "images/thumbs/434.png",
+    "location_ja": "須崎市",
     "zone_en": "Kochi",
-    "location_en": "Susaki"
+    "location_en": "Susaki",
+    "zone_ja": "高知県"
   },
   {
     "id": 435,
@@ -6890,10 +7320,11 @@
     "longitude": 132.712575,
     "address": "小筑紫町田ノ浦1244-10",
     "link": "https://local.pokemon.jp/manhole/desc/435/",
-    "image": "images/manhole/435.png",
-    "location_ja": "Sukumo",
+    "image": "images/thumbs/435.png",
+    "location_ja": "宿毛市",
     "zone_en": "Kochi",
-    "location_en": "Sukumo"
+    "location_en": "Sukumo",
+    "zone_ja": "高知県"
   },
   {
     "id": 436,
@@ -6906,10 +7337,11 @@
     "longitude": 133.75346,
     "address": "夜須町坪井",
     "link": "https://local.pokemon.jp/manhole/desc/436/",
-    "image": "images/manhole/436.png",
-    "location_ja": "Konan",
+    "image": "images/thumbs/436.png",
+    "location_ja": "香南市",
     "zone_en": "Kochi",
-    "location_en": "Konan"
+    "location_en": "Konan",
+    "zone_ja": "高知県"
   },
   {
     "id": 437,
@@ -6922,10 +7354,11 @@
     "longitude": 134.294959,
     "address": "大字白浜88-1",
     "link": "https://local.pokemon.jp/manhole/desc/437/",
-    "image": "images/manhole/437.png",
-    "location_ja": "Toyo",
+    "image": "images/thumbs/437.png",
+    "location_ja": "東洋町",
     "zone_en": "Kochi",
-    "location_en": "Toyo"
+    "location_en": "Toyo",
+    "zone_ja": "高知県"
   },
   {
     "id": 438,
@@ -6938,10 +7371,11 @@
     "longitude": 141.1669585,
     "address": "南区定山渓温泉東３丁目212",
     "link": "https://local.pokemon.jp/manhole/desc/438/",
-    "image": "images/manhole/438.png",
-    "location_ja": "Sapporo",
+    "image": "images/thumbs/438.png",
+    "location_ja": "札幌市",
     "zone_en": "Hokkaido",
-    "location_en": "Sapporo"
+    "location_en": "Sapporo",
+    "zone_ja": "北海道"
   },
   {
     "id": 439,
@@ -6954,10 +7388,11 @@
     "longitude": 141.907367,
     "address": "西１条北２丁目１番２０号",
     "link": "https://local.pokemon.jp/manhole/desc/439/",
-    "image": "images/manhole/439.png",
-    "location_ja": "Sunagawa",
+    "image": "images/thumbs/439.png",
+    "location_ja": "砂川市",
     "zone_en": "Hokkaido",
-    "location_en": "Sunagawa"
+    "location_en": "Sunagawa",
+    "zone_ja": "北海道"
   },
   {
     "id": 440,
@@ -6970,10 +7405,11 @@
     "longitude": 141.78697,
     "address": "東栄87-1",
     "link": "https://local.pokemon.jp/manhole/desc/440/",
-    "image": "images/manhole/440.png",
-    "location_ja": "Yuni",
+    "image": "images/thumbs/440.png",
+    "location_ja": "由仁町",
     "zone_en": "Hokkaido",
-    "location_en": "Yuni"
+    "location_en": "Yuni",
+    "zone_ja": "北海道"
   },
   {
     "id": 441,
@@ -6986,10 +7422,11 @@
     "longitude": 140.216556,
     "address": "緑町72-1",
     "link": "https://local.pokemon.jp/manhole/desc/441/",
-    "image": "images/manhole/441.png",
-    "location_ja": "Assabu",
+    "image": "images/thumbs/441.png",
+    "location_ja": "厚沢部町",
     "zone_en": "Hokkaido",
-    "location_en": "Assabu"
+    "location_en": "Assabu",
+    "zone_ja": "北海道"
   },
   {
     "id": 442,
@@ -7002,10 +7439,11 @@
     "longitude": 141.8612,
     "address": "北進398-1",
     "link": "https://local.pokemon.jp/manhole/desc/442/",
-    "image": "images/manhole/442.png",
-    "location_ja": "Horonobe",
+    "image": "images/thumbs/442.png",
+    "location_ja": "幌延町",
     "zone_en": "Hokkaido",
-    "location_en": "Horonobe"
+    "location_en": "Horonobe",
+    "zone_ja": "北海道"
   },
   {
     "id": 443,
@@ -7018,10 +7456,11 @@
     "longitude": 144.029683,
     "address": "共和127番地1",
     "link": "https://local.pokemon.jp/manhole/desc/443/",
-    "image": "images/manhole/443.png",
-    "location_ja": "Tsubetsu",
+    "image": "images/thumbs/443.png",
+    "location_ja": "津別町",
     "zone_en": "Hokkaido",
-    "location_en": "Tsubetsu"
+    "location_en": "Tsubetsu",
+    "zone_ja": "北海道"
   },
   {
     "id": 444,
@@ -7034,10 +7473,11 @@
     "longitude": 143.594848,
     "address": "中湧別中町3020番地の1",
     "link": "https://local.pokemon.jp/manhole/desc/444/",
-    "image": "images/manhole/444.png",
-    "location_ja": "Yubetsu",
+    "image": "images/thumbs/444.png",
+    "location_ja": "湧別町",
     "zone_en": "Hokkaido",
-    "location_en": "Yubetsu"
+    "location_en": "Yubetsu",
+    "zone_ja": "北海道"
   },
   {
     "id": 445,
@@ -7050,10 +7490,11 @@
     "longitude": 145.23697,
     "address": "尾岱沼5-27",
     "link": "https://local.pokemon.jp/manhole/desc/445/",
-    "image": "images/manhole/445.png",
-    "location_ja": "Betsukai",
+    "image": "images/thumbs/445.png",
+    "location_ja": "別海町",
     "zone_en": "Hokkaido",
-    "location_en": "Betsukai"
+    "location_en": "Betsukai",
+    "zone_ja": "北海道"
   },
   {
     "id": 446,
@@ -7066,10 +7507,11 @@
     "longitude": 127.71657,
     "address": "首里池端町18",
     "link": "https://local.pokemon.jp/manhole/desc/446/",
-    "image": "images/manhole/446.png",
-    "location_ja": "Naha",
+    "image": "images/thumbs/446.png",
+    "location_ja": "那覇市",
     "zone_en": "Okinawa",
-    "location_en": "Naha"
+    "location_en": "Naha",
+    "zone_ja": "沖縄県"
   },
   {
     "id": 447,
@@ -7082,10 +7524,11 @@
     "longitude": 140.983236,
     "address": "内（宮城県宮城郡利府町加瀬新堤下）",
     "link": "https://local.pokemon.jp/manhole/desc/447/",
-    "image": "images/manhole/447.png",
-    "location_ja": "Kasenuma Park",
+    "image": "images/thumbs/447.png",
+    "location_ja": "加瀬沼公園",
     "zone_en": "Miyagi",
-    "location_en": "Kasenuma Park"
+    "location_en": "Kasenuma Park",
+    "zone_ja": "宮城県"
   },
   {
     "id": 448,
@@ -7098,10 +7541,11 @@
     "longitude": 139.521513,
     "address": "東京都稲城市矢野口4015-1　よみうりランド遊園地内",
     "link": "https://local.pokemon.jp/manhole/desc/448/",
-    "image": "images/manhole/448.png",
-    "location_ja": "PokéPark KANTO",
+    "image": "images/thumbs/448.png",
+    "location_ja": "ポケパーク カントー",
     "zone_en": "Tokyo",
-    "location_en": "PokéPark KANTO"
+    "location_en": "PokéPark KANTO",
+    "zone_ja": "東京都"
   },
   {
     "id": 449,
@@ -7114,10 +7558,11 @@
     "longitude": 133.5431367,
     "address": "北本町2-10-17",
     "link": "https://local.pokemon.jp/manhole/desc/449/",
-    "image": "images/manhole/449.png",
-    "location_ja": "Kochi",
+    "image": "images/thumbs/449.png",
+    "location_ja": "高知市",
     "zone_en": "Kochi",
-    "location_en": "Kochi"
+    "location_en": "Kochi",
+    "zone_ja": "高知県"
   },
   {
     "id": 450,
@@ -7130,10 +7575,11 @@
     "longitude": 132.862367,
     "address": "三崎4032",
     "link": "https://local.pokemon.jp/manhole/desc/450/",
-    "image": "images/manhole/450.png",
-    "location_ja": "Tosashimizu",
+    "image": "images/thumbs/450.png",
+    "location_ja": "土佐清水市",
     "zone_en": "Kochi",
-    "location_en": "Tosashimizu"
+    "location_en": "Tosashimizu",
+    "zone_ja": "高知県"
   },
   {
     "id": 451,
@@ -7146,10 +7592,11 @@
     "longitude": 133.99983,
     "address": "大字正弘566番地",
     "link": "https://local.pokemon.jp/manhole/desc/451/",
-    "image": "images/manhole/451.png",
-    "location_ja": "Yasuda",
+    "image": "images/thumbs/451.png",
+    "location_ja": "安田町",
     "zone_en": "Kochi",
-    "location_en": "Yasuda"
+    "location_en": "Yasuda",
+    "zone_ja": "高知県"
   },
   {
     "id": 452,
@@ -7162,10 +7609,11 @@
     "longitude": 133.59448,
     "address": "本山2133-1",
     "link": "https://local.pokemon.jp/manhole/desc/452/",
-    "image": "images/manhole/452.png",
-    "location_ja": "Motoyama",
+    "image": "images/thumbs/452.png",
+    "location_ja": "本山町",
     "zone_en": "Kochi",
-    "location_en": "Motoyama"
+    "location_en": "Motoyama",
+    "zone_ja": "高知県"
   },
   {
     "id": 453,
@@ -7178,10 +7626,11 @@
     "longitude": 133.129433,
     "address": "名野川456",
     "link": "https://local.pokemon.jp/manhole/desc/453/",
-    "image": "images/manhole/453.png",
-    "location_ja": "Niyodogawa",
+    "image": "images/thumbs/453.png",
+    "location_ja": "仁淀川町",
     "zone_en": "Kochi",
-    "location_en": "Niyodogawa"
+    "location_en": "Niyodogawa",
+    "zone_ja": "高知県"
   },
   {
     "id": 454,
@@ -7194,10 +7643,11 @@
     "longitude": 140.382947,
     "address": "須賀川市愛宕山5",
     "link": "https://local.pokemon.jp/manhole/desc/454/",
-    "image": "images/manhole/454.png",
-    "location_ja": "Sukagawa",
+    "image": "images/thumbs/454.png",
+    "location_ja": "須賀川市",
     "zone_en": "Fukushima",
-    "location_en": "Sukagawa"
+    "location_en": "Sukagawa",
+    "zone_ja": "福島県"
   },
   {
     "id": 455,
@@ -7210,10 +7660,11 @@
     "longitude": 140.243722,
     "address": "天栄村大字大里字天房41-2",
     "link": "https://local.pokemon.jp/manhole/desc/455/",
-    "image": "images/manhole/455.png",
-    "location_ja": "Tenei",
+    "image": "images/thumbs/455.png",
+    "location_ja": "天栄村",
     "zone_en": "Fukushima",
-    "location_en": "Tenei"
+    "location_en": "Tenei",
+    "zone_ja": "福島県"
   },
   {
     "id": 456,
@@ -7226,10 +7677,11 @@
     "longitude": 139.916146,
     "address": "下郷町大字南倉沢字木賊844番地188",
     "link": "https://local.pokemon.jp/manhole/desc/456/",
-    "image": "images/manhole/456.png",
-    "location_ja": "Shimogo",
+    "image": "images/thumbs/456.png",
+    "location_ja": "下郷町",
     "zone_en": "Fukushima",
-    "location_en": "Shimogo"
+    "location_en": "Shimogo",
+    "zone_ja": "福島県"
   },
   {
     "id": 457,
@@ -7242,10 +7694,11 @@
     "longitude": 139.642677,
     "address": "西会津町野沢字下條乙1969-26",
     "link": "https://local.pokemon.jp/manhole/desc/457/",
-    "image": "images/manhole/457.png",
-    "location_ja": "Nishiaizu",
+    "image": "images/thumbs/457.png",
+    "location_ja": "西会津町",
     "zone_en": "Fukushima",
-    "location_en": "Nishiaizu"
+    "location_en": "Nishiaizu",
+    "zone_ja": "福島県"
   },
   {
     "id": 458,
@@ -7258,10 +7711,11 @@
     "longitude": 140.314605,
     "address": "泉崎村大字泉崎字笹立山12-7",
     "link": "https://local.pokemon.jp/manhole/desc/458/",
-    "image": "images/manhole/458.png",
-    "location_ja": "Izumizaki",
+    "image": "images/thumbs/458.png",
+    "location_ja": "泉崎村",
     "zone_en": "Fukushima",
-    "location_en": "Izumizaki"
+    "location_en": "Izumizaki",
+    "zone_ja": "福島県"
   },
   {
     "id": 459,
@@ -7274,10 +7728,11 @@
     "longitude": 140.50677,
     "address": "鮫川村大字赤阪中野字巡ヶ作116番地",
     "link": "https://local.pokemon.jp/manhole/desc/459/",
-    "image": "images/manhole/459.png",
-    "location_ja": "Samegawa",
+    "image": "images/thumbs/459.png",
+    "location_ja": "鮫川村",
     "zone_en": "Fukushima",
-    "location_en": "Samegawa"
+    "location_en": "Samegawa",
+    "zone_ja": "福島県"
   },
   {
     "id": 460,
@@ -7290,10 +7745,11 @@
     "longitude": 140.4146001,
     "address": "浅川町本町西裏",
     "link": "https://local.pokemon.jp/manhole/desc/460/",
-    "image": "images/manhole/460.png",
-    "location_ja": "Asakawa",
+    "image": "images/thumbs/460.png",
+    "location_ja": "浅川町",
     "zone_en": "Fukushima",
-    "location_en": "Asakawa"
+    "location_en": "Asakawa",
+    "zone_ja": "福島県"
   },
   {
     "id": 461,
@@ -7306,10 +7762,11 @@
     "longitude": 140.633912,
     "address": "小野町大字小野新町字中通2",
     "link": "https://local.pokemon.jp/manhole/desc/461/",
-    "image": "images/manhole/461.png",
-    "location_ja": "Ono",
+    "image": "images/thumbs/461.png",
+    "location_ja": "小野町",
     "zone_en": "Fukushima",
-    "location_en": "Ono"
+    "location_en": "Ono",
+    "zone_ja": "福島県"
   },
   {
     "id": 462,
@@ -7322,10 +7779,11 @@
     "longitude": 140.983206,
     "address": "下野上大野116-5",
     "link": "https://local.pokemon.jp/manhole/desc/462/",
-    "image": "images/manhole/462.png",
-    "location_ja": "Okuma",
+    "image": "images/thumbs/462.png",
+    "location_ja": "大熊町",
     "zone_en": "Fukushima",
-    "location_en": "Okuma"
+    "location_en": "Okuma",
+    "zone_ja": "福島県"
   },
   {
     "id": 463,
@@ -7338,10 +7796,11 @@
     "longitude": 141.137353,
     "address": "奥州市水沢西町1番1号",
     "link": "https://local.pokemon.jp/manhole/desc/463/",
-    "image": "images/manhole/463.png",
-    "location_ja": "Oshu",
+    "image": "images/thumbs/463.png",
+    "location_ja": "奥州市",
     "zone_en": "Iwate",
-    "location_en": "Oshu"
+    "location_en": "Oshu",
+    "zone_ja": "岩手県"
   },
   {
     "id": 464,
@@ -7354,10 +7813,11 @@
     "longitude": 140.874287,
     "address": "雫石町橋場坂本118-10",
     "link": "https://local.pokemon.jp/manhole/desc/464/",
-    "image": "images/manhole/464.png",
-    "location_ja": "Shizukuishi",
+    "image": "images/thumbs/464.png",
+    "location_ja": "雫石町",
     "zone_en": "Iwate",
-    "location_en": "Shizukuishi"
+    "location_en": "Shizukuishi",
+    "zone_ja": "岩手県"
   },
   {
     "id": 465,
@@ -7370,10 +7830,11 @@
     "longitude": 141.1498184,
     "address": "矢巾町駅東1丁目55",
     "link": "https://local.pokemon.jp/manhole/desc/465/",
-    "image": "images/manhole/465.png",
-    "location_ja": "Yahaba",
+    "image": "images/thumbs/465.png",
+    "location_ja": "矢巾町",
     "zone_en": "Iwate",
-    "location_en": "Yahaba"
+    "location_en": "Yahaba",
+    "zone_ja": "岩手県"
   },
   {
     "id": 466,
@@ -7386,10 +7847,11 @@
     "longitude": 141.112971,
     "address": "金ヶ崎町西根伊勢分25番地7",
     "link": "https://local.pokemon.jp/manhole/desc/466/",
-    "image": "images/manhole/466.png",
-    "location_ja": "Kanegasaki",
+    "image": "images/thumbs/466.png",
+    "location_ja": "金ヶ崎町",
     "zone_en": "Iwate",
-    "location_en": "Kanegasaki"
+    "location_en": "Kanegasaki",
+    "zone_ja": "岩手県"
   },
   {
     "id": 467,
@@ -7402,10 +7864,11 @@
     "longitude": 141.128421,
     "address": "盛岡市本宮字蛇屋敷地内",
     "link": "https://local.pokemon.jp/manhole/desc/467/",
-    "image": "images/manhole/467.png",
-    "location_ja": "Morioka",
+    "image": "images/thumbs/467.png",
+    "location_ja": "盛岡市",
     "zone_en": "Iwate",
-    "location_en": "Morioka"
+    "location_en": "Morioka",
+    "zone_ja": "岩手県"
   },
   {
     "id": 468,
@@ -7418,10 +7881,11 @@
     "longitude": 136.923564,
     "address": "七尾市和倉町ひばり1丁目1番地",
     "link": "https://local.pokemon.jp/manhole/desc/468/",
-    "image": "images/manhole/468.png",
-    "location_ja": "Nanao",
+    "image": "images/thumbs/468.png",
+    "location_ja": "七尾市",
     "zone_en": "Ishikawa",
-    "location_en": "Nanao"
+    "location_en": "Nanao",
+    "zone_ja": "石川県"
   },
   {
     "id": 469,
@@ -7434,10 +7898,11 @@
     "longitude": 136.906156,
     "address": "輪島市河井町20-1-131",
     "link": "https://local.pokemon.jp/manhole/desc/469/",
-    "image": "images/manhole/469.png",
-    "location_ja": "Wajima",
+    "image": "images/thumbs/469.png",
+    "location_ja": "輪島市",
     "zone_en": "Ishikawa",
-    "location_en": "Wajima"
+    "location_en": "Wajima",
+    "zone_ja": "石川県"
   },
   {
     "id": 470,
@@ -7450,10 +7915,11 @@
     "longitude": 137.240367,
     "address": "珠洲市宝立町鵜島二47-1",
     "link": "https://local.pokemon.jp/manhole/desc/470/",
-    "image": "images/manhole/470.png",
-    "location_ja": "Suzu",
+    "image": "images/thumbs/470.png",
+    "location_ja": "珠洲市",
     "zone_en": "Ishikawa",
-    "location_en": "Suzu"
+    "location_en": "Suzu",
+    "zone_ja": "石川県"
   },
   {
     "id": 471,
@@ -7466,10 +7932,11 @@
     "longitude": 136.724847,
     "address": "志賀町富来領家町",
     "link": "https://local.pokemon.jp/manhole/desc/471/",
-    "image": "images/manhole/471.png",
-    "location_ja": "Shika",
+    "image": "images/thumbs/471.png",
+    "location_ja": "志賀町",
     "zone_en": "Ishikawa",
-    "location_en": "Shika"
+    "location_en": "Shika",
+    "zone_ja": "石川県"
   },
   {
     "id": 472,
@@ -7482,10 +7949,11 @@
     "longitude": 136.905007,
     "address": "穴水町字大町ト33",
     "link": "https://local.pokemon.jp/manhole/desc/472/",
-    "image": "images/manhole/472.png",
-    "location_ja": "Anamizu",
+    "image": "images/thumbs/472.png",
+    "location_ja": "穴水町",
     "zone_en": "Ishikawa",
-    "location_en": "Anamizu"
+    "location_en": "Anamizu",
+    "zone_ja": "石川県"
   },
   {
     "id": 473,
@@ -7498,10 +7966,11 @@
     "longitude": 137.138718,
     "address": "能登町字上町ロ部1-1",
     "link": "https://local.pokemon.jp/manhole/desc/473/",
-    "image": "images/manhole/473.png",
-    "location_ja": "Noto",
+    "image": "images/thumbs/473.png",
+    "location_ja": "能登町",
     "zone_en": "Ishikawa",
-    "location_en": "Noto"
+    "location_en": "Noto",
+    "zone_ja": "石川県"
   },
   {
     "id": 474,
@@ -7514,9 +7983,10 @@
     "longitude": 140.956528,
     "address": "仙台市若林区藤塚地内　海岸公園（藤塚地区）",
     "link": "https://local.pokemon.jp/manhole/desc/474/",
-    "image": "images/manhole/474.png",
-    "location_ja": "Sendai",
+    "image": "images/thumbs/474.png",
+    "location_ja": "仙台市",
     "zone_en": "Miyagi",
-    "location_en": "Sendai"
+    "location_en": "Sendai",
+    "zone_ja": "宮城県"
   }
 ]
