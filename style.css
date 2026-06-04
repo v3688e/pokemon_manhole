@@ -151,6 +151,14 @@ tr:hover {
     font-weight: bold;
     color: #fff;
     text-shadow: 0 1px 2px rgba(0,0,0,0.3);
+    white-space: nowrap;
+}
+
+.loc-cell {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 150px;
 }
 
 /* Tooltip for copy */

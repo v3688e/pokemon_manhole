@@ -58,7 +58,7 @@ function setLanguage(lang) {
     
     // Update active button
     document.querySelectorAll('.lang-btn').forEach(btn => {
-        btn.classList.toggle('active', btn.textContent.toLowerCase() === lang);
+        btn.classList.toggle('active', btn.textContent.trim().toLowerCase() === lang);
     });
 
     updateUILanguage();
@@ -120,7 +120,13 @@ function renderTable() {
         tr.style.backgroundColor = color.replace('40%)', '97%)');
         
         const zoneDisplay = getZoneDisplay(item);
-        const locDisplay = getLocationDisplay(item);
+        const locDisplayFull = getLocationDisplay(item);
+        
+        // Truncate to 10 chars if longer
+        const locDisplayShort = locDisplayFull.length > 10 
+            ? locDisplayFull.substring(0, 10) + '...' 
+            : locDisplayFull;
+
         const linkText = translations[currentLang].officialPage;
         const langLink = getLanguageLink(item.link);
         
@@ -137,7 +143,7 @@ function renderTable() {
                     <span class="zone-badge" style="background-color: ${color}">${zoneDisplay}</span>
                 </div>
             </td>
-            <td>${locDisplay}</td>
+            <td class="loc-cell" title="${locDisplayFull}">${locDisplayShort}</td>
             <td class="coord-cell" onclick="copyCoords(event, '${item.coordinates}')">${item.coordinates}</td>
             <td>${item.address}</td>
             <td><a href="${langLink}" target="_blank" class="link-btn">${linkText}</a></td>
