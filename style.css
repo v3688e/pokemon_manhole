@@ -96,6 +96,7 @@ th {
     user-select: none;
     position: sticky;
     top: 0;
+    white-space: nowrap;
 }
 
 th:hover {

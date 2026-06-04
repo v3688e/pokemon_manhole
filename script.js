@@ -10,7 +10,7 @@ const translations = {
         subtitle: "日本全国でポケモン柄のユーティリティホールカバーを見つけよう",
         searchPlaceholder: "名前、地域、住所で検索...",
         stats: "全 {total} 件中 {count} 件を表示",
-        hIndex: "インデックス",
+        hIndex: "順",
         hNo: "番号",
         hZone: "地域",
         hLocation: "場所",
