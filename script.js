@@ -146,7 +146,11 @@ function renderTable() {
             <td class="loc-cell" title="${locDisplayFull}">${locDisplayShort}</td>
             <td class="coord-cell" onclick="copyCoords(event, '${item.coordinates}')">${item.coordinates}</td>
             <td>${item.address}</td>
-            <td><a href="${langLink}" target="_blank" class="link-btn">${linkText}</a></td>
+            <td>
+                <a href="${langLink}" target="_blank" class="link-btn" title="${linkText}">
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display: block;"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
+                </a>
+            </td>
         `;
         tbody.appendChild(tr);
     });
@@ -184,19 +188,29 @@ function handleSort(col) {
         sortDesc = false;
     }
 
-    filteredData.sort((a, b) => {
-        let valA = a[col];
-        let valB = b[col];
-        
-        if (typeof valA === 'string') {
-            valA = valA.toLowerCase();
-            valB = valB.toLowerCase();
-        }
+    if (col === 'coordinates') {
+        filteredData.sort((a, b) => {
+            // Northeast (High Lat/Long) to Southwest (Low Lat/Long) when ascending (sortDesc=false)
+            if (a.latitude !== b.latitude) {
+                return sortDesc ? (a.latitude - b.latitude) : (b.latitude - a.latitude);
+            }
+            return sortDesc ? (a.longitude - b.longitude) : (b.longitude - a.longitude);
+        });
+    } else {
+        filteredData.sort((a, b) => {
+            let valA = a[col];
+            let valB = b[col];
+            
+            if (typeof valA === 'string') {
+                valA = valA.toLowerCase();
+                valB = valB.toLowerCase();
+            }
 
-        if (valA < valB) return sortDesc ? 1 : -1;
-        if (valA > valB) return sortDesc ? -1 : 1;
-        return 0;
-    });
+            if (valA < valB) return sortDesc ? 1 : -1;
+            if (valA > valB) return sortDesc ? -1 : 1;
+            return 0;
+        });
+    }
     
     renderTable();
 }

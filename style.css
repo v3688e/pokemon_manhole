@@ -129,14 +129,15 @@ tr:hover {
 }
 
 .link-btn {
-    display: inline-block;
-    padding: 5px 10px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 6px;
     background-color: var(--primary-color);
     color: #000;
     text-decoration: none;
     border-radius: 4px;
-    font-size: 12px;
-    font-weight: bold;
+    transition: background-color 0.3s;
 }
 
 .link-btn:hover {
